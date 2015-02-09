@@ -2,12 +2,13 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8" />
-	<title>Participant | Week {{ week }}</title>
+	<title>Week {{week}}</title>
+	<link rel="stylesheet" href="../pdf.css"/>
 </head>
 <body>
-	<h1>Week {{ week }}: {{ title }}</h1>
+	<h1>Week {{week}}: {{title}}</h1>
 	<div class="main-wrapper">
-		{{{ contents }}}
+		{{{contents}}}
 	</div>
 </body>
 </html>

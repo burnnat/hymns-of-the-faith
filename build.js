@@ -25,6 +25,14 @@ Handlebars.registerHelper('verse', function(verse, translation) {
 	return new Handlebars.SafeString('[' + verse + '](' + url + ')');
 });
 
+Handlebars.registerHelper('tune', function(name) {
+	return new Handlebars.SafeString(
+		'<span style="font-variant:small-caps">' +
+			Handlebars.Utils.escapeExpression(name) +
+		'</span>'
+	);
+});
+
 Metalsmith(__dirname)
 	.source('content')
 	.destination('build')
@@ -51,14 +59,14 @@ Metalsmith(__dirname)
 			{
 				pattern: '*/leader.md',
 				metadata: {
-					layout: 'leader.hbt',
+					layout: 'pdf.hbt',
 					notes: true
 				}
 			},
 			{
 				pattern: '*/participant.md',
 				metadata: {
-					layout: 'participant.hbt',
+					layout: 'pdf.hbt',
 					notes: false
 				}
 			}

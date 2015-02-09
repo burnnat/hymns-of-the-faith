@@ -2,10 +2,11 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8" />
-	<title>Hymns of the Faith | Week {{ week }}: {{ title }}</title>
+	<title>Hymns of the Faith | Week {{week}}: {{title}}</title>
+	<link rel="stylesheet" href="../styles.css"/>
 </head>
 <body>
-	<h1>Week {{ week }}: {{ title }}</h1>
+	<h1>Week {{week}}: {{title}}</h1>
 
 	<h3>Handouts:</h3>
 	<ul>
