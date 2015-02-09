@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<title>Hymns of the Faith | Week {{ week }}: {{ title }}</title>
+</head>
+<body>
+	<h1>Week {{ week }}: {{ title }}</h1>
+	<div class="main-wrapper">
+		{{{ contents }}}
+	</div>
+</body>
+</html>

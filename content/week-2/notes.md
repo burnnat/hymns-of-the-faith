@@ -1,5 +1,6 @@
-# Week 2: God as Lord and King
-
+---
+title: God as Lord and King
+---
 ## Come, Thou Almighty King
 
 Text: Anonymous, 1757
