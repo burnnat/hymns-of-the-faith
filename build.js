@@ -4,6 +4,7 @@ var async = require('async');
 var Handlebars = require('handlebars');
 var Metalsmith = require('metalsmith');
 var branch = require('metalsmith-branch');
+var collections = require('metalsmith-collections');
 var copy = require('metalsmith-copy');
 var markdown = require('metalsmith-markdown');
 var templates = require('metalsmith-in-place');
@@ -27,6 +28,14 @@ Metalsmith(__dirname)
 	.use(weekMetadata)
 	.use(rename('*/notes.md', 'leader'))
 	.use(rename('*/notes.md', 'participant'))
+	.use(
+		collections({
+			weeks: {
+				pattern: '*/notes.md',
+				sortBy: 'week'
+			}
+		})
+	)
 	.use(branchTemplate('notes', true))
 	.use(branchTemplate('leader', true))
 	.use(branchTemplate('participant', false))
