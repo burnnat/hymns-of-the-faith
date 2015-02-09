@@ -1,6 +1,7 @@
 var fs = require('fs');
 var path = require('path');
 var async = require('async');
+var Handlebars = require('handlebars');
 var Metalsmith = require('metalsmith');
 var branch = require('metalsmith-branch');
 var copy = require('metalsmith-copy');
@@ -9,6 +10,16 @@ var templates = require('metalsmith-in-place');
 var layouts = require('metalsmith-layouts');
 var lilynode = require('lilynode');
 var temp = require('temp');
+
+Handlebars.registerHelper('verse', function(verse, translation) {
+	var url = 'https://www.biblegateway.com/passage/?search=' + encodeURIComponent(verse);
+
+	if (arguments.length === 3) { // Handlebars passes an extra final argument
+		url = url + '&version=' + encodeURIComponent(translation);
+	}
+
+	return new Handlebars.SafeString('[' + verse + '](' + url + ')');
+});
 
 Metalsmith(__dirname)
 	.source('content')
@@ -19,8 +30,8 @@ Metalsmith(__dirname)
 	.use(branchTemplate('notes', true))
 	.use(branchTemplate('leader', true))
 	.use(branchTemplate('participant', false))
-	.use(markdown())
 	.use(templates('handlebars'))
+	.use(markdown())
 	.use(layouts('handlebars'))
 	.use(lilypond)
 	.build(function(err, files) {
@@ -63,7 +74,7 @@ function branchTemplate(layout, showNotes) {
 				function(files, metalsmith, done) {
 					for (var file in files) {
 						files[file].layout = layout + '.hbt';
-						files[file].showNotes = showNotes;
+						files[file].notes = showNotes;
 					}
 
 					done();
