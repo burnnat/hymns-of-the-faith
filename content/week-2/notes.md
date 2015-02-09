@@ -1,5 +1,8 @@
 ---
 title: God as Lord and King
+resources:
+  - name: Crown Him with Many Crowns
+    file: crown-him.pdf
 ---
 ## Come, Thou Almighty King
 

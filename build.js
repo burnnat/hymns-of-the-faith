@@ -6,9 +6,12 @@ var Metalsmith = require('metalsmith');
 var branch = require('metalsmith-branch');
 var collections = require('metalsmith-collections');
 var copy = require('metalsmith-copy');
+var fileMetadata = require('metalsmith-filemetadata');
 var markdown = require('metalsmith-markdown');
+var ignore = require('metalsmith-ignore');
 var templates = require('metalsmith-in-place');
 var layouts = require('metalsmith-layouts');
+var pdf = require('metalsmith-pdf');
 var lilynode = require('lilynode');
 var temp = require('temp');
 
@@ -36,12 +39,38 @@ Metalsmith(__dirname)
 			}
 		})
 	)
-	.use(branchTemplate('notes', true))
-	.use(branchTemplate('leader', true))
-	.use(branchTemplate('participant', false))
+	.use(
+		fileMetadata([
+			{
+				pattern: '*/notes.md',
+				metadata: {
+					layout: 'notes.hbt',
+					notes: true
+				}
+			},
+			{
+				pattern: '*/leader.md',
+				metadata: {
+					layout: 'leader.hbt',
+					notes: true
+				}
+			},
+			{
+				pattern: '*/participant.md',
+				metadata: {
+					layout: 'participant.hbt',
+					notes: false
+				}
+			}
+		])
+	)
 	.use(templates('handlebars'))
 	.use(markdown())
 	.use(layouts('handlebars'))
+	.use(pdf({ pattern: '**/leader.html' }))
+	.use(pdf({ pattern: '**/participant.html' }))
+	.use(ignore('**/leader.html'))
+	.use(ignore('**/participant.html'))
 	.use(lilypond)
 	.build(function(err, files) {
 		if (err) {
@@ -74,22 +103,6 @@ function rename(pattern, name) {
 			return path.join(path.dirname(file), name + path.extname(file));
 		}
 	});
-}
-
-function branchTemplate(layout, showNotes) {
-	return (
-		branch('*/' + layout + '.md')
-			.use(
-				function(files, metalsmith, done) {
-					for (var file in files) {
-						files[file].layout = layout + '.hbt';
-						files[file].notes = showNotes;
-					}
-
-					done();
-				}
-			)
-	);
 }
 
 function lilypond(files, metalsmith, done) {

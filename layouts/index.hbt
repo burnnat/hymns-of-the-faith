@@ -2,12 +2,12 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8" />
-	<title>{{ title }}</title>
+	<title>{{title}}</title>
 </head>
 <body>
-	<h1>{{ title }}</h1>
+	<h1>{{title}}</h1>
 	<div class="main-wrapper">
-		{{{ contents }}}
+		{{{contents}}}
 	</div>
 </body>
 </html>

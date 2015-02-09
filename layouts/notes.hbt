@@ -6,6 +6,22 @@
 </head>
 <body>
 	<h1>Week {{ week }}: {{ title }}</h1>
+
+	<h3>Handouts:</h3>
+	<ul>
+		<li><a href="leader.pdf">Leader</a></li>
+		<li><a href="participant.pdf">Participant</a></li>
+	</ul>
+
+	{{#if resources.length}}
+	<h3>Resources:</h3>
+	<ul>
+		{{#each resources}}
+		<li><a href="{{this.file}}">{{this.name}}</a></li>
+		{{/each}}
+	</ul>
+	{{/if}}
+
 	<div class="main-wrapper">
 		{{{ contents }}}
 	</div>
