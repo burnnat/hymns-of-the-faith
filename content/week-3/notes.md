@@ -42,7 +42,7 @@ Text: William Whiting (1825–1878), 1860, rev. 1869
  - Appropriate text for its time, as mid-nineteenth-century hymnals often included sections devoted to “traveling mercies”; for example, the Hymnal of the Methodist Episcopal Church, published 1891, contains a section specifically titled “For Mariners”
 
 Tune: John Bacchus Dykes (1823–1876), 1861
- - Also composer of {{{caps Nicaea}}} (Holy, Holy, Holy)
+ - Also composer of {{{caps "Nicaea"}}} (Holy, Holy, Holy)
  - Named tune {{{caps "Melita"}}} (Latin for “Malta”) after the island where Saint Paul was shipwrecked ({{{verse "Acts 28:1"}}})
 
 1. Appropriately for Dykes, the hymn follows a Trinitarian formula. The first verse is addressed to God the Father, Creator of the earth and sea, and states how God holds the waves and sea in place. Often, though, we’re tempted to think of God as distant and only intervening in creation from time to time, rather than continually acting to keep nature in balance. Which view would you say is more correct?
