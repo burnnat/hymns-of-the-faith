@@ -28,7 +28,7 @@ Tune: Alexander Robert Reinagle (1799–1877), 1836
 	- “when this flesh and heart shall fail” ⇔ “refresh my soul in death”
 {{/if}}
 
-In Newton’s original publication of Olney Hymns, this text is found in Book I (subtitled “On select texts of Scripture”), accompanied by a quotation of Song of {{{verse "Solomon 1:3"}}}: “Because of the Savor of thy good ointments, thy name is as ointment poured forth”. How do you see this reflected in the hymn?
+1. In Newton’s original publication of Olney Hymns, this text is found in Book I (subtitled “On select texts of Scripture”), accompanied by a quotation of Song of {{{verse "Solomon 1:3"}}}: “Because of the Savor of thy good ointments, thy name is as ointment poured forth”. How do you see this reflected in the hymn?
 
 {{#if notes}}
 	- Chief purpose of ointment is to heal and soothe wounds, reflected in verses 1 & 2
