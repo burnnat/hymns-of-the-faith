@@ -1,0 +1,8 @@
+language: node_js
+node_js:
+  - "0.10"
+script: npm run-script deploy
+env:
+  global:
+    - GH_REF: github.com/burnnat/hymns-of-the-faith.git
+    - secure: UOLemp2o1FK8q/WqSOaTap7ZSO9uaqjmf+g/WqvLIIWi+EWO0WSgFKhYvvLzh/B2zu7gmwyHTL2DcSdi57JcVViy0FWl7JNQNnOAkquZ5ewgoGTNVdDjOutLgbgYE1JKqg/O97tQyCNCCcHK41ne0sgxnR5Qi/63Wbfl63xoOII=
