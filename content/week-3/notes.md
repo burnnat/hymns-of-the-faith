@@ -14,6 +14,7 @@ Text: Martin Luther (1483–1546), 1529, tr. Frederick H. Hedge, 1852
  - Son of peasants, originally aimed for a career in law, but death of a friend and a close encounter with lightning caused him to become an Augustinian monk
  - Translated the New Testament from Latin to German while in “protective custody” at Wartburg Castle following his conviction of heresy
  - The original hymn text “Ein’ Feste Burg” demonstrates his desire for plain, accessible translation
+
 Tune: Martin Luther (1483–1546), 1529, harm. Johann Sebastian Bach, 1728
  - Emphasized the singing of hymns in common language (German) rather than Latin
  - Once wrote: “Next to the Word of God, the noble art of music is the greatest treasure in the world”
@@ -39,8 +40,9 @@ Text: William Whiting (1825–1878), 1860, rev. 1869
  - Born in London, attended Winchester College
  - Musical ability eventually led him to become Schoolmaster at Winchester College Chorister’s School
  - Appropriate text for its time, as mid-nineteenth-century hymnals often included sections devoted to “traveling mercies”; for example, the Hymnal of the Methodist Episcopal Church, published 1891, contains a section specifically titled “For Mariners”
+
 Tune: John Bacchus Dykes (1823–1876), 1861
- - Also composer of Nɪᴄᴀᴇᴀ (Holy, Holy, Holy)
+ - Also composer of {{{caps Nicaea}}} (Holy, Holy, Holy)
  - Named tune {{{caps "Melita"}}} (Latin for “Malta”) after the island where Saint Paul was shipwrecked ({{{verse "Acts 28:1"}}})
 
 1. Appropriately for Dykes, the hymn follows a Trinitarian formula. The first verse is addressed to God the Father, Creator of the earth and sea, and states how God holds the waves and sea in place. Often, though, we’re tempted to think of God as distant and only intervening in creation from time to time, rather than continually acting to keep nature in balance. Which view would you say is more correct?
@@ -62,6 +64,7 @@ Text: Joseph Addison (1672–1719), 1712
  - Described as “the bright star of early eighteenth-century literature in England”: an Oxford-educated essayist, as well as poet and playwright, best known as founder of “The Spectator” magazine
  - Served in politics as “Secretary of State for the Southern Department” as well as a member of parliament
  - His only four hymns all appeared in The Spectator within the space of two months in 1712
+
 Tune: Henry Carey (1687–1743), 1723
  - Lower-class, of unknown parentage, first worked as a boarding school music teacher
  - As a politically-minded playwright and composer, often worked anonymously
