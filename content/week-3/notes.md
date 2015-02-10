@@ -1,0 +1,78 @@
+---
+title: God as Protector
+resources:
+  - name: Psalm 46
+    file: psalm-46.pdf
+  - name: Translations of “Ein’ Feste Burg”
+    file: ein-feste-burg.pdf
+  - name: The Lord My Pasture
+    file: the-lord-my-pasture.pdf
+---
+## A Mighty Fortress
+
+Text: Martin Luther (1483–1546), 1529, tr. Frederick H. Hedge, 1852
+ - Son of peasants, originally aimed for a career in law, but death of a friend and a close encounter with lightning caused him to become an Augustinian monk
+ - Translated the New Testament from Latin to German while in “protective custody” at Wartburg Castle following his conviction of heresy
+ - The original hymn text “Ein’ Feste Burg” demonstrates his desire for plain, accessible translation
+Tune: Martin Luther (1483–1546), 1529, harm. Johann Sebastian Bach, 1728
+ - Emphasized the singing of hymns in common language (German) rather than Latin
+ - Once wrote: “Next to the Word of God, the noble art of music is the greatest treasure in the world”
+ - Contrast with John Calvin, who rejected all church music other than Psalms
+
+1. This hymn is based on {{{verse "Psalm 46"}}}, but is probably too loose to be considered a “true” paraphrase. Comparing the hymn text against its scriptural inspiration, what differences stick out to you?
+{{#if notes}}
+	- Explicit references to the devil
+		- the “little word” to fell him is the “name above all names” ({{{verse "Philippians 2:9-10"}}})
+	- Fully Trinitarian - includes references to Jesus as well as the Holy Spirit
+{{/if}}
+
+1. When the text speaks of “mortal ills prevailing”, what modern “ills” come to mind? How do you envision the Lord Sabaoth to “win the battle” against such ills: is it an ongoing process? Or do we simply wait for the New Jerusalem?
+
+{{#if notes}}
+	- For Luther, both theological (selling of indulgences, spiritual privileges of Church hierarchy) as well as social (oppression of peasants, entrenched ignorance of the masses).
+	- “Sabaoth” is the Greek transliteration of the Hebrew word for “hosts” or “armies”; “Lord Sabaoth” equates to “{{{caps "Lord"}}} of hosts”, meaning commander of the innumerable hosts of heaven
+{{/if}}
+
+## Eternal Father, Strong to Save
+
+Text: William Whiting (1825–1878), 1860, rev. 1869
+ - Born in London, attended Winchester College
+ - Musical ability eventually led him to become Schoolmaster at Winchester College Chorister’s School
+ - Appropriate text for its time, as mid-nineteenth-century hymnals often included sections devoted to “traveling mercies”; for example, the Hymnal of the Methodist Episcopal Church, published 1891, contains a section specifically titled “For Mariners”
+Tune: John Bacchus Dykes (1823–1876), 1861
+ - Also composer of Nɪᴄᴀᴇᴀ (Holy, Holy, Holy)
+ - Named tune {{{caps "Melita"}}} (Latin for “Malta”) after the island where Saint Paul was shipwrecked ({{{verse "Acts 28:1"}}})
+
+1. Appropriately for Dykes, the hymn follows a Trinitarian formula. The first verse is addressed to God the Father, Creator of the earth and sea, and states how God holds the waves and sea in place. Often, though, we’re tempted to think of God as distant and only intervening in creation from time to time, rather than continually acting to keep nature in balance. Which view would you say is more correct?
+
+{{#if notes}}
+	- See {{{verse "Job 38:10-11"}}} and {{{verse "Psalm 107:23-30"}}}. (Verse 2: {{{verse "Matthew 8:23-27"}}})
+	- Echoes of Milton’s Paradise Lost, Book VII. 166-7: “… ride forth, and bid the deep / Within appointed bounds be heaven and earth, …”
+{{/if}}
+
+1. Verse 3 refers to the Holy Spirit, who “didst brood upon the chaos dark and rude”, clearly a reference to {{{verse "Genesis 1:1-2"}}}. What’s the significance of this verse? How does it provide assurance of God’s protection?
+
+{{#if notes}}
+	- Also creator of light ({{{verse "Genesis 1:3"}}}), life ({{{verse "Genesis 1:20"}}}), and peace ({{{verse "Genesis 2:2"}}})
+{{/if}}
+
+## The Lord My Pasture Shall Prepare
+
+Text: Joseph Addison (1672–1719), 1712
+ - Described as “the bright star of early eighteenth-century literature in England”: an Oxford-educated essayist, as well as poet and playwright, best known as founder of “The Spectator” magazine
+ - Served in politics as “Secretary of State for the Southern Department” as well as a member of parliament
+ - His only four hymns all appeared in The Spectator within the space of two months in 1712
+Tune: Henry Carey (1687–1743), 1723
+ - Lower-class, of unknown parentage, first worked as a boarding school music teacher
+ - As a politically-minded playwright and composer, often worked anonymously
+ - Recognized as “the most prolific English song composer of 1715–1740”
+ - Specifically composed {{{caps "Surrey"}}} for this text
+
+1. This hymn is a paraphrase of {{{verse "Psalm 23"}}}, and while it shares themes of God’s protection and guidance, the overall feel is softer than the strong, powerful words of “A Mighty Fortress” and “Eternal Father”. Do you find there to be differences in content between the hymns, or merely emphasis and tone?
+
+{{#if notes}}
+	- In Addison’s rendering, God and man are seen more as partners - God leads, guides, and supplies. In the other hymns, God shields and saves. “He must win the battle”, not “We must win the battle”.
+	- Writing in the middle of the Enlightenment, Addison may be reflecting the times’ optimism toward human reason and goodness. Still, though, Addison’s God is more personal than the Deists’ “Prime Mover”.
+	- Pastoral poetry (and art) was very much in vogue at the time of Addison’s writing, lending to the calm, idyllic imagery of greenery and babbling brooks that give the hymn its “softness”
+	- Meter of the hymns reinforces the contrast: triple meter is associated with pastoral themes (recall the “Pastoral Symphony” movement in Handel’s Messiah) whereas duple meter is associated with marching (appropriate, since “A Mighty Fortress” is sometimes referred to as “the battle hymn of the reformation”)
+{{/if}}

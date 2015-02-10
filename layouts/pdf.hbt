@@ -2,11 +2,13 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8" />
-	<title>Week {{week}}</title>
 	<link rel="stylesheet" href="../pdf.css"/>
 </head>
 <body>
-	<h1>Week {{week}}: {{title}}</h1>
+	<h1 class="title">Week {{week}}: {{title}}</h1>
+	{{#if subtitle}}
+		<h3 class="subtitle">{{subtitle}}</h1>
+	{{/if}}
 	<div class="main-wrapper">
 		{{{contents}}}
 	</div>

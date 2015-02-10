@@ -1,0 +1,235 @@
+---
+title: Translations of “Ein’ Feste Burg”
+pdf: true
+landscape: true
+---
+{{~#trim}}
+<table>
+	<thead>
+		<tr>
+			<th>Martin Luther, 1529</th>
+			<th>Literal Translation</th>
+			<th>Thomas Carlyle, 1831</th>
+			<th>Frederick Hedge, 1852</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+{{/trim~}}
+Ein feste burg ist unser Gott,
+ein gute wehr und waffen.
+Er hilfft unns frey aus aller not
+die uns ytzt hat betroffen.
+Der alt böse feind
+mit ernst ers ytzt meint,
+gros macht und viel list
+sein grausam rüstung ist
+auff erd ist nicht seins gleichen.
+{{~#trim}}
+			</td>
+			<td>
+{{/trim~}}
+A strong fortress is our God,
+a good defense and weapon;
+He helps us freely out of all distress,
+that now has us befallen.
+The old evil foe,
+gravely now intends,
+great might and much cunning
+is his dreadful armor
+on Earth is not his equal.
+{{~#trim}}
+			</td>
+			<td>
+{{/trim~}}
+A safe stronghold our God is still,
+a trusty shield and weapon;
+he'll keep us clear from all the ill
+that hath us now o'ertaken.
+The ancient prince of hell
+hath risen with purpose fell;
+strong mail of craft and power
+he weareth in this hour;
+on earth is not his fellow.
+{{~#trim}}
+			</td>
+			<td>
+{{/trim~}}
+A mighty fortress is our God,
+a bulwark never failing;
+Our helper He, amid the flood
+of mortal ills prevailing.
+For still our ancient foe
+doth seek to work us woe;
+his craft and pow'r are great,
+and, armed with cruel hate,
+on earth is not his equal.
+{{~#trim}}
+			</td>
+		</tr>
+		<tr>
+			<td>
+{{/trim~}}
+				Mit unser macht ist nichts gethan,
+				wir sind gar bald verloren:
+				Es streit fur uns der rechte man,
+				den Gott hat selbs erkoren.
+				Fragstu, wer der ist?
+				er heist Jhesu Christ,
+				der Herr Zebaoth,
+				und ist kein ander Gott,
+				das felt mus er behalten.
+{{~#trim}}
+			</td>
+			<td>
+{{/trim~}}
+				With our might nothing is done,
+				we would utterly soon be lost;
+				For us fights the right man,
+				whom God Himself elected.
+				You ask who he is?
+				He is named Jesus Christ,
+				the Lord Sabaoth,
+				and is no other God,
+				He must hold the field.
+{{~#trim}}
+			</td>
+			<td>
+{{/trim~}}
+				With force of arms we nothing can,
+				full soon were we down-ridden;
+				but for us fights the proper Man
+				whom God himself hath bidden.
+				Ask ye who is this same?
+				Christ Jesus is his name,
+				the Lord Sabaoth's Son;
+				he, and no other one,
+				shall conquer in the battle.
+{{~#trim}}
+			</td>
+			<td>
+{{/trim~}}
+				Did we in our own strength confide,
+				our striving would be losing;
+				were not the right Man on our side,
+				the Man of God's own choosing.
+				Dost ask who that may be?
+				Christ Jesus, it is He;
+				Lord Sabaoth, His name,
+				from age to age the same,
+				and He must win the battle.
+{{~#trim}}
+			</td>
+		</tr>
+		<tr>
+			<td>
+{{/trim~}}
+				Und wenn die welt vol Teuffel wehr
+				unnd wolt uns gar vorschlingen,
+				So fürchten wir unns nicht zu sehr,
+				es sol uns doch gelingen.
+				Der Fürst dieser welt,
+				wie sawr er sich stellt,
+				thut er unns doch nicht,
+				das macht, er ist gericht,
+				ein wörtlin kan yhn fellen.
+{{~#trim}}
+			</td>
+			<td>
+{{/trim~}}
+				And if the world should fill with devils
+				and desire to utterly devour us,
+				we are not afraid so much,
+				we shall yet succeed.
+				The prince of this world,
+				as sour as he makes himself,
+				does nothing to us yet,
+				it is done, he is judged,
+				a little word can fell him.
+{{~#trim}}
+			</td>
+			<td>
+{{/trim~}}
+				And were this world all devils o'er,
+				and watching to devour us,
+				we lay it not to heart so sore;
+				they cannot overpower us.
+				And let the prince of ill
+				look grim as e'er he will,
+				he harms us not a whit;
+				for why? His doom is writ;
+				a word shall quickly slay him.
+{{~#trim}}
+			</td>
+			<td>
+{{/trim~}}
+				And tho' this world, with devils filled,
+				should threaten to undo us,
+				we will not fear, for God hath willed
+				His truth to triumph thro' us.
+				The Prince of Darkness grim—
+				we tremble not for him;
+				his rage we can endure,
+				for lo, his doom is sure,
+				one little word shall fell him.
+{{~#trim}}
+			</td>
+		</tr>
+		<tr>
+			<td>
+{{/trim~}}
+				Das wort sie sollen lassen stahn
+				und kein danck dazu haben,
+				Er ist bey unns wol auff dem plan
+				mit seinem geist und gaben.
+				Nemen sie den leib,
+				gut, eher, kindt und weib
+				las faren dahin,
+				sie habens kein gewin,
+				das reich mus uns doch bleiben.
+{{~#trim}}
+			</td>
+			<td>
+{{/trim~}}
+				The Word they shall let stand,
+				and no thanks be had for it;
+				He is with us well in the plan,
+				with His spirit and gifts.
+				Should they take your body,
+				goods, honor, child and wife:
+				let them go from here,
+				they have no gain,
+				the kingdom must yet remain ours.
+{{~#trim}}
+			</td>
+			<td>
+{{/trim~}}
+				God's word, for all their craft and force,
+				one moment will not linger,
+				but, spite of hell, shall have its course;
+				'tis written by his finger.
+				And though they take our life,
+				goods, honour, children, wife,
+				yet is their profit small;
+				these things shall vanish all:
+				the city of God remaineth.
+{{~#trim}}
+			</td>
+			<td>
+{{/trim~}}
+				That word above all earthly pow'rs,
+				no thanks to them, abideth;
+				the Spirit and the gifts are ours
+				thro' Him who with us sideth.
+				Let goods and kindred go,
+				this mortal life also;
+				the body they may kill:
+				God's truth abideth still,
+				His kingdom is forever.
+{{~#trim}}
+			</td>
+		</tr>
+	</tbody>
+</table>
+{{/trim~}}

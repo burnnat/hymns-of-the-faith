@@ -8,7 +8,7 @@ resources:
 
 Text: Anonymous, 1757
  - Published anonymously in George Whitefield’s “Collection of Hymns for Social Worship” titled as “An Hymn to the Trinity”
- - Potentially written as a response or counterpart to British patriotic hymn “God Save our Gracious King”, which both originally shared the tune {{{tune "America"}}} (“My Country ‘Tis of Thee”)
+ - Potentially written as a response or counterpart to British patriotic hymn “God Save our Gracious King”, which both originally shared the tune {{{caps "America"}}} (“My Country ‘Tis of Thee”)
  - Often attributed to Charles Wesley; however, no other Wesley hymns use an odd meter as this does
 
 Tune: Felice de Giardini (1716–1796), 1769
