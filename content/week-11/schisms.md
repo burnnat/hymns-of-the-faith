@@ -1,0 +1,25 @@
+---
+title: Schisms in the United Methodist Church
+pdf: true
+---
+**United Methodist Reporter**
+http://unitedmethodistreporter.com/2014/04/01/good-news-releases-statement-calling-present-state-umc-untenable/
+April 1, 2014
+
+Good News, the independent evangelical United Methodist organization which promotes “orthodox Wesleyan Christianity” released a statement today following their March 28 board meeting which says that they believe the current situation of the UMC to be “untenable”.
+
+Their assessment of the church’s situation is in response to a variety of legal and administrative actions in the UMC related to same-sex marriage and homosexuality. “Many of our bishops are unwilling to enforce The Book of Discipline and the covenant we have agreed to live by,” the Good News board wrote. “Widespread disregard of that covenant, the will of General Conference, and the Council’s own promise in 2011 to uphold the Book of Discipline demonstrates the deep division and conflicting worldviews existing within The United Methodist Church.”
+
+The board acknowledged that there has been conversation in various circles about the ability to remain a united church, and considering the possibility of separation. “We are aware of conversations taking place among leading pastors and other groups around the country to examine what options are available for those of us who are biblical Christians and who have agreed to live by The Book of Discipline,” the board said. “Those options include sweeping reform of the church or the creation of a different kind of future. If we are one church, we cannot act as if we are two. If in reality we are two churches, it may not be wise to pretend any longer that we are one.”
+
+**United Methodist News Service**
+http://www.umc.org/news-and-media/hamilton-church-homosexuality-law-needs-local-option
+June 5, 2014
+
+The Rev. Adam Hamilton leads the 18,000-member United Methodist Church of the Resurrection in Leawood, Kan., and reaches many others through best-selling books about Christian faith. At the 2012 General Conference, he and the Rev. Mike Slaughter, of Ginghamsburg Church in Tipp City, Ohio, offered “agree to disagree” legislation on the issue of homosexuality.
+
+Though that effort failed, Hamilton continues to push for official, practical recognition of the church’s division on the issue — and for denominational unity. This week he debuted “A Way Forward for a United Methodist Church,”  a proposal to let local churches decide — after a discernment process and super-majority vote — whether to host same-sex unions and welcome gay clergy. Under the plan, the denomination’s annual (regional) conferences would decide for themselves if they would ordain “self-avowed practicing homosexuals”.
+
+Both ideas would require a change in current church law as it deals with homosexuality.
+
+Hamilton has drawn support from Slaughter and a range of other large-church pastors. He’s asking others in the church to read the proposal and consider signing on.
