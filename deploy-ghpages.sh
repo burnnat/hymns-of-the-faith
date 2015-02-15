@@ -9,7 +9,7 @@ rm lilypond.sh
 
 # Install wkhtmltopdf
 curl -L -o wkhtmltopdf.deb http://downloads.sourceforge.net/project/wkhtmltopdf/0.12.2.1/wkhtmltox-0.12.2.1_linux-precise-amd64.deb
-sudo dpkg -i wkhtmltopdf.deb
+sudo dpkg -i wkhtmltopdf.deb || true
 sudo apt-get install -f -y
 rm wkhtmltopdf.deb
 

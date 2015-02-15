@@ -54,7 +54,7 @@ Tune: Anonymous, c. 950
  - Thomas Helmore (adapter of {{{caps "Veni Emmanuel"}}} used with “O Come, O Come, Emmanuel”, also by Neale) used {{{caps "Divinum Mysterium"}}} for the first publication of Neale’s translation; the two have been inseparable
 
 1. We noted the relationship between Christmas and the resurrection in “God Rest Ye Merry, Gentlemen” and “We Three Kings”; this hymn explores the relationship between Christmas and creation. Incidentally, the final four verses of Wesley’s original text for “Hark the Herald” also makes this connection. Comparing the two, what similarities and differences do you find? Do these hymns add anything new to your understanding or perception of Christmas?
-{{{#if notes}}}
+{{#if notes}}
 	- Wesley’s text is still heavily focused on Christ, and Christ as redeemer
 		- “Bruise in us the Serpent’s head”
 		- Note the chiasmus in verse 8: “Thine to Ours, and Ours to Thine”
