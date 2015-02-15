@@ -118,7 +118,7 @@ function weekMetadata(files, metalsmith, done) {
 		match = file.match(parser);
 
 		if (match) {
-			files[file].week = match[1];
+			files[file].week = parseInt(match[1], 10);
 		}
 	}
 
