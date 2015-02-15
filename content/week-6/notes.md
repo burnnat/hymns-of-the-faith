@@ -19,14 +19,16 @@ Tune: African-American Spiritual
  - The version widely used today was published in {{{book "The Second Book of Negro Spirituals"}}}, compiled in 1926 by brothers James Weldon and Rosamond Johnson
 
 1. For what looks to be, on its face, such a simple hymn, “Let Us Break Bread" includes some important ideas, specifically that communion should taken humbly (“on our knees”), and focused on God (“face to the rising sun”). Why are humility and attentiveness important to communion? Do you find singing hymns (such as this one) helps adjust your mindset before communion or worship?
-
+{{#if notes}}
 	- Paul has rather harsh words for those who would take communion “in an unworthy manner”: see {{{verse "1 Corinthians 11:27-28"}}}.
+{{/if}}
 
 1. The second phrase of the refrain says, “Lord, have mercy on me”, which is reminiscent of the “Kyrie eleison” (Greek, literally “Lord have mercy”) portion of the Catholic mass. But although the Catholic church has specific doctrines regarding confession and penance, most protestant churches do not. Do you find that confession of sin is under-emphasized in the church today? Why or why not?
-
+{{#if notes}}
 	- Emphasis of God’s mercy is particularly appropriate at communion, since the original Last Supper was held during passover - a feast remembering God’s mercy in sparing the Israelites from the plague of death in Egypt.
 	- Communion is backward-looking in many ways: a remembrance of Christ’s sacrifice for us, but also a remembrance of the sins we’ve committed to require His salvation.
 	- See again Paul’s instructions in {{{verse "1 Corinthians 11:27-28"}}} to “examine ourselves” before taking communion.
+{{/if}}
 
 ## Behold the Lamb
 
@@ -41,12 +43,14 @@ Text and Tune: Keith Getty (1974– ), Kristyn Getty (1980– ), Stuart Townend 
  - Many Getty songs are written in conjunction with British songwriter Stuart Townend, including their most popular hymn “In Christ Alone” (as well as “Behold the Lamb”)
 
 1. Looking at the lyrics’ structure, verse one serves as an introduction/invitation, verses two and three describe the bread and wine respectively, and verse four is a response or “sending forth”. What does it mean to “follow in the steps of Christ” in a practical sense, and how does that relate to communion? As a local and global church, do you think we are effective at “proclaiming Christ will come again”?
-
+{{#if notes}}
 	- See {{{verse "Ephesians 5:1-2"}}}: following the steps of Christ is to “walk in love”. Also {{{verse "1 Corinthians 11:1"}}}.
+{{/if}}
 
 1. Note the pronouns used in this song - with the exception of “torn for you” and “shed for you”, they are exclusively “we”, “us”, and “our”, making the hymn more collective than personal. How important is the “communal” aspect of communion? What would we lose thinking of communion as a purely individual act?
-
+{{#if notes}}
 	- The Corinthian church had problems with this; {{{verse "1 Corinthians 11:18-20"}}} describes “factions” apparent during the Lord’s supper, and in verses {{{verse "1 Corinthians 11:33-34" label="33-34"}}} instructs to “wait for” (or “share with”) one another during communion.
+{{/if}}
 
 ## Once Led to Your Font
 
@@ -63,7 +67,8 @@ Tune: Mark Sedio (1954– ), 2005
 1. Verse two contains a description of God’s word, sandwiched between verses about two sacraments (baptism in verse one and communion in verse three). What’s the connection here? In what way does God’s word function similar to these two sacraments?
 
 1. As in “Behold the Lamb”, the last verse of “Once Led to Your Font” serves as a “call to action” (although there are elements of this in each of the first three verses as well). How do the two hymns compare in this regard? What is similar about their implied responses, and what is different?
-
+{{#if notes}}
 	- “Once Led to Your Font” is service-oriented: “to serve and to give”, “speak by our deeds”, “nourish and cheer”
 	- “Behold the Lamb” is more generic: “follow in the steps of Christ”, “proclaim Christ”
 	- In both, this is a response to God’s call: “to remember our call”, “by your calling made willing”
+{{/if}}

@@ -21,10 +21,11 @@ Tune: Franklin L. Sheppard (1852–1930), 1915
 1. The original poem had sixteen verses, but Sheppard chose only three for inclusion in his songbook and later hymnal editors followed suit. The first stanza considers the large-scale majesty of creation (e.g. “skies and seas”, “his hands the wonders wrought”), whereas the second considers its small-scale beauty (e.g. “morning light”, “rustling grass”). Have you been to a place where you were struck by the sheer size or power of nature? What about a place where you could hear God in the stillness? How have you drawn on these experiences when you returned back to your “normal” life?
 
 1. The third verse considers that universe is subject to God’s moral law just as it is His physical laws, although it acknowledges that still “the wrong seems oft so strong”. Why do you think God allows “wrongs” to persist even though it’s contrary to His will?
-
+{{#if notes}}
 	- This is a BIG topic, we don’t need to solve it in this class. The “problem of evil” has kept philosophers busy for centuries. Answers to this question are called “theodicy” and mostly boil down into two basic camps (though there are others too):
 		- *God has a greater plan.* We may not be able to see where things are going, but the “wrongs” we encounter are really working toward something good in the end.
 		- *God respects our freedom.* The “wrongs” we see are the fault of man - either directly, or through the fall of Adam. Although God could just clean everything up, he values us enough to let us make our own (often bad) decisions.
+{{/if}}
 
 ## Creator God, You Made the Earth
 
@@ -40,11 +41,12 @@ Tune: Traditional Irish, 1906
  - A traditional Irish tune, it takes its name from a sixth-century Irish missionary (roughly a century after St. Patrick) chiefly known for bringing Christianity to Scotland
 
 1. This text is unique in that it touches on themes not normally found in “creation-oriented” hymns. In the first verse, Gillette writes that God “gave [the earth] worth”. What do you consider the source of your own worth? Is it something intrinsic to you, or is it “granted” to you by God?
-
+{{#if notes}}
 	- Many people define their worth in terms of what they do or accomplish. How would you convince someone their self-worth is not defined by their possessions, their achievements, or their social status?
+{{/if}}
 
 1. Verse two refers to the seventh day of creation when it refers to “Sabbath rest” as God’s gift. Do you normally think of rest as a gift from God? What does this gift tell you about God’s character?
-
+{{#if notes}}
 	- God cares enough about us small creatures to include rest specifically for us.
 		- See {{{verse "Matthew 6:26"}}} - he even cares about each bird.
 		- God didn’t need to rest (obviously), it’s a gift because it’s purely for us, not Him.
@@ -56,6 +58,7 @@ Tune: Traditional Irish, 1906
 
 	- In resting on the seventh day, God was setting an example for us to follow. We certainly need literal rest each night, but do we also need spiritual rest? If yes, what does a spiritual rest look like?
 		- Perhaps church-sponsored “retreats” serve this purpose.
+{{/if}}
 
 ## For the Beauty of the Earth
 
@@ -75,7 +78,8 @@ Tune: Conrad Kocher (1786–1872), 1838
  - Only afterward, when Pierpoint’s text was written, did this text and tune become paired together
 
 1. This hymn was intended for use in communion services, and its original refrain was “Christ, our God, to thee we raise / this our sacrifice of praise”. Does this change how you think of the hymn? In what way would you consider praise to be a “sacrifice”?
-
+{{#if notes}}
 	- The shift away from usage in communion was probably a result of its popularity here in America, where we (naturally) associate it with the Thanksgiving holiday
 	- Verse six (often omitted by hymnal editors) makes much more sense given this context. Since Christ was sacrificed for us, the appropriate response is to offer a sacrifice of our own.
 	- The act of praise forces us to humble ourselves, in a sense a sacrifice of our pride
+{{/if}}

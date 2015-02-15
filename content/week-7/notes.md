@@ -16,12 +16,13 @@ Tune: Ralph Vaughan Williams (1872–1958), 1906
  - Showed a life-long interest in English folk tunes, many of which he adapted as hymn tunes
 
 1. Much of the power of this hymn text comes from its use of “tongues of flame” ({{{verse "Acts 2:3"}}}) as consistent imagery throughout. What fire-like references can you see, and what do they tell you about the Holy Spirit?
-
+{{#if notes}}
 	- “visit it with thine own ardor glowing”: ardor today means “*fiery* passion”, “zeal”, (“fire in the belly”?); originally from Latin, where it literally means “to burn”
 	- “within my heart … kindle it”: the Holy Spirit works on our hearts and conscience in a small way (at least at first), through whispers and small sparks
 	- “earthly passions … in its heat consuming”: this is the “refiner’s fire”, purifying us
 	- “let thy glorious light … the while my path illuming”: a guide, like the “pillar of fire” for the Israelites
 	- “the yearning strong”: our longing for God is a burning desire
+{{/if}}
 
 ## Love Divine, All Loves Excelling
 
@@ -39,14 +40,16 @@ Tune: John Zundel (1815–1882), 1870
  - In 1847, emigrated to the United States and was hired in 1850 as organist for Plymouth Church in Brooklyn by Henry Ward Beecher (for whom the tune {{{caps "Beecher"}}} is named)
 
 1. Verse two is distinctively Wesleyan in its references to the doctrine of “Christian perfection” (also referred to as “Christian holiness” or “entire sanctification”) when it suggests the Holy Spirit has power to “take away the love of sinning”. (Many denominations, particularly Calvinist ones, omit the second verse for this reason.) Have you encountered this idea before, and do you agree? What does it mean to “set our hearts at liberty”?
-
+{{#if notes}}
 	- For the Wesleys, “perfection” was not a state of infallibility or sinlessness but rather having totally dedicated oneself to walking with Christ, to be “inwardly and outwardly devoted to God; all devoted in heart and life” ({{{book "A plain account of Christian perfection"}}}, 1766)
 	- Paul discusses Christian freedom in {{{verse "Galatians 5"}}} (freedom from the law) and {{{verse "Romans 6"}}} (freedom from sin); however, it is not freedom to do whatever we want (“Are we to continue in sin that grace may abound? By no means!”)
+{{/if}}
 
 1. Wesley uses Christ’s birth at the beginning (“joy of heav’n, to earth come down”) and return in the end (“finish, then, thy new creation”) to frame the hymn. As we live in the middle between these two, what does the hymn text imply our purpose is in the present time, and what is the role of the Holy Spirit for us?
-
+{{#if notes}}
 	- Verse three would say our purpose is to: bless, serve, pray to, and praise, God.
 	- Purpose of the Holy Spirit is to comfort (“thou art all compassion … enter every trembling heart”), perfect (“take away the love of sinning”), and abide with us (“nevermore thy temples leave”).
+{{/if}}
 
 ## Joyful is the Dark, Holy, Hidden God
 

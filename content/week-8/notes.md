@@ -21,17 +21,17 @@ Tune: Traditional English, 1906
  - First adapted into a hymn tune in 1906 by omitting the refrain
 
 1. The hymn is a whirlwind tour of Jesus’ life, from birth to death and resurrection, held together by little more than the repeated phrase “for us”. Some of these connections are more intuitive than others, however. In what way was Christ baptized “for us”? How was His temptation “for us”?
-
+{{#if notes}}
 	- Regarding Jesus’ baptism:
 		- Jesus was baptized as an example for us to do the same and, although he had no need for baptism ({{{verse "Matthew 3:13-15"}}}), was identifying Himself with sinners; baptism is not a *means* to repentance, but rather a *symbol* of it
 		- Jesus’ divinity was publicly displayed at His baptism ({{{verse "Luke 3:21-22"}}})
 		- Jesus’ baptism showed the world the messianic era had begun (like the dove for Noah, the dove descending on Jesus symbolizes the end of God’s wrath and a new peace)
 		- Jesus’ baptism was part of his sacrifice; for Israelites, on the Day of Atonement, the High Priest was washed in water before performing the sacrifice ({{{verse "Leviticus 16:4"}}})
 		- The dove was the only bird allowed for ritual sacrifice, and usually reserved for the poorest members of society; by extension, Jesus’ sacrifice is for the poorest of us
-
 	- Regarding Jesus’ temptation:
 		- Jesus’ sinlessness was necessary for our salvation; by resisting temptation he was qualified as the perfect sacrifice, blameless Lamb of God ({{{verse "Hebrews 2:17-18"}}})
 		- Jesus’ third temptation was that of an “easy way out”, offered rule of kingdoms on earth without the need for sacrifice or suffering ({{{verse "Matthew 4:8-9"}}}); his rejection was a selfless gift affirming His sacrifice for our sake
+{{/if}}
 
 ## All Glory, Laud, and Honor
 
@@ -51,7 +51,8 @@ Tune: Melchior Teschner (1584–1635), 1615
  - The harmonization here was written for {{{book "Hymns Ancient and Modern"}}} in 1861 by William H. Monk (composer of {{{caps "Eventide"}}}, tune for “Abide With Me”)
 
 1. This text is specifically for Palm Sunday, dealing with Jesus’ triumphal entry into Jerusalem. It connects our own praise with the praise of the Hebrews, and in the last verse asks God to accept our prayers just as he accepted the praise in Jerusalem. Why do we need to ask God to accept our praise? How is our praise today like the praises of the palm wavers in Jerusalem?
-
+{{#if notes}}
 	- We are imperfect humans and our praise is fickle. The same crowd shouting “Hosanna!” would be shouting “Crucify him!” just a few days later.
 	- Our praise is laced with our own selfish desires; “hosanna” is a shout of joy but literally means “save us”, underscoring the Hebrews’ desire for a military and political savior from the Romans
 	- Strictly speaking, God doesn’t need our praise - it’s a gift. Jesus said even if the crowds were silent, the stones would cry out in praise. ({{{verse "Luke 19:40"}}})
+{{/if}}

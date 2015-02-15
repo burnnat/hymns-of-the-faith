@@ -23,6 +23,7 @@ Tune: George Bennard (1873–1958), 1913
 
 	What is the proper place of the cross in Christian worship? Do we focus on it too much? Too little?
 
+{{#if notes}}
 	- The cross has served as a Christian symbol from near the very beginning.
 		- Early Christians used the staurogram (⳨) to represent the cross and chi-ro (☧) for Jesus
 		- In the 2nd century, Minucius Felix recorded references to the cross in various arguments against Christianity:
@@ -36,6 +37,7 @@ Tune: George Bennard (1873–1958), 1913
 	- Paul speaks about the “scandal of the cross” ({{{verse "Galatians 5:11"}}}), as a “stumbling block to Jews and foolishness to Gentiles” ({{{verse "1 Corinthians 1:23"}}}).
 	- Luther said that “the cross alone is our theology” (“crux sola est nostra theologia”).
 	- Another factor leading to the hymn’s slow adoption could be prohibitive charges for copyright fees (Bennard sold the rights for either $50 or $500, far less than its eventual royalties.)
+{{/if}}
 
 ## When I Survey the Wondrous Cross
 
@@ -57,7 +59,7 @@ Tune: Lowell Mason (1792–1872), 1824
  - Other popular hymn tunes include {{{caps "Azmon"}}} (“O for a Thousand Tongues to Sing”) and {{{caps "Antioch"}}} (“Joy to the World”, also a text by Isaac Watts)
 
 1. In contrast to “The Old Rugged Cross”, this hymn of Watts is highly praised by scholars and critics, considered to be one of his finest, if not the very best. The British poet Matthew Arnold called it “the greatest hymn in the English language”, and it’s reported that Charles Wesley once said he would give up all of his other hymns to have written this one. The imagery is not complex, but it is powerful. Of the poetic devices in the hymn, which are most poignant to you? Why?
-
+{{#if notes}}
 	- The verb “survey” implies concentration and focus in meditation, not just a cursory glance.
 	- The saying “my richest gain I count but loss” is a reference to {{{verse "Philippians 3:4-8"}}}.
 	- In “pour contempt on all my pride”, why “pour”? A very visual word, what does it imply?
@@ -66,6 +68,7 @@ Tune: Lowell Mason (1792–1872), 1824
 	- “Sorrow and love flow mingled down”: imagery of the blood and water flowing from Jesus’ side?
 	- “Sorrow and love … love and sorrow” is a ‘chiasmus’, literally meaning ‘crossing’. Popular in Greek and Hebrew literature, it is also used to represent Jesus, since the first letter of “Christ” in Greek is chi (X): ΧΡΙΣΤΟΣ
 	- “My soul, my life, my all” shows the magnitude of commitment inspired by the magnitude of love
+{{/if}}
 
 ## Sinner, Where is Room for Doubt?
 
@@ -82,16 +85,18 @@ Tune: Joanie Madden (1965– ), 1999
  - The tune {{{caps "Kilkee"}}} was adapted by Ward from a “Cherish the Ladies” air titled “Waves of Kilkee”
 
 1. In the first verse, the phrase “Did He not lay down His life / and the Father's wrath remove?” is reminiscent of the well-known song “In Christ Alone” when it says “Till on that cross as Jesus died / The wrath of God was satisfied”. In fact, that line recently caused the hymnal editorial committee for the Presbyterian Church (USA) to exclude “In Christ Alone” from their hymnal, as they wanted to modify it to read “the love of God was magnified” but the authors (Keith Getty and Stuart Townend) would not grant permission. What is your own understanding of the “wrath of God” as it relates to Christ’s death and resurrection? Would you include this hymn in a hymnal?
-
+{{#if notes}}
 	- This theology is known as the “penal substitution” interpretation of substitutionary atonement.
 		- It was not present in the early church, which nearly universally subscribed to a “ransom theory” of atonement, in which Christ’s sacrifice redeemed (“bought back”) humanity.
 		- In St. Anselm’s {{{book "Cur Deus Homo"}}} of 1098, the foundation for penal substitution is laid in his “satisfaction theory” of atonement (using concepts of feudal society, Christ’s sacrifice paid God’s “honour” or “weregild” as an alternative to punishment).
 		- John Calvin became its most visible proponent during the Reformation, recasting Anselm’s argument in legal terms of God’s judgment and Christ’s punishment for man’s guilt (Calvin was trained as a lawyer).
 	- Note the chiasmus in “In Christ Alone”: “for I am His and He is mine”
+{{/if}}
 
 1. The hymn is organized by facets of our lives that Jesus came to take away (“doubt”, “guilt”, “toil”, and “pride”), yet it seems that every person still struggles with one or more of these. Which do you find most relevant personally, and how does this hymn change your perspective on it (if at all)?
-
+{{#if notes}}
 	- **Verse 1:** “doubts and fears” are paired together - both fear of the unknown (“what if I’m wrong?”). The proof is in His “bleeding, loving side”; just as His wounded side satisfied Thomas.
 	- **Verse 2:** echoes the “In Christ Alone” phrase “no guilt in life, no fear in death”. Why do we still feel guilty for our sins, even when we know they’re forgiven?
 	- **Verse 3:** recall creation’s 7th day; irony that the law fulfilled by Jesus mandated a day of rest?
 	- **Verse 4:** pride is the root of all sin; the glory belongs to God alone, not us.
+{{/if}}
