@@ -90,20 +90,25 @@ Metalsmith(__dirname)
 			}
 		])
 	)
-	.use(assignLayouts)
-	.use(templates('handlebars'))
 	.use(
-		markdown({
-			breaks: true,
-			smartypants: true,
-		})
+		branch()
+			.pattern('**/*.md')
+			.use(assignLayouts)
+			.use(templates('handlebars'))
+			.use(
+				markdown({
+					breaks: true,
+					smartypants: true,
+				})
+			)
+			.use(layouts('handlebars'))
 	)
-	.use(layouts('handlebars'))
 	.use(branchPdf)
 	.use(lilypond)
 	.build(function(err, files) {
 		if (err) {
 			console.error(err);
+			process.exit(1);
 		}
 		else {
 			console.log('Build successful.');
