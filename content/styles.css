@@ -79,6 +79,10 @@ pre {
 	overflow-x: auto;
 }
 
+cite.book {
+	font-style:italic;
+}
+
 table {
 	width:100%;
 	border-collapse:collapse;

@@ -37,6 +37,10 @@ blockquote {
 	font-size: 13px;
 }
 
+cite.book {
+	font-style:italic;
+}
+
 ol ul {
 	list-style-type: lower-latin;
 }

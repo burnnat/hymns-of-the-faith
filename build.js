@@ -29,6 +29,14 @@ Handlebars.registerHelper('verse', function(verse, translation) {
 	return new Handlebars.SafeString('[' + verse + '](' + url + ')');
 });
 
+Handlebars.registerHelper('book', function(name) {
+	return new Handlebars.SafeString(
+		'<cite class="book">' +
+			Handlebars.Utils.escapeExpression(name) +
+		'</cite>'
+	);
+});
+
 Handlebars.registerHelper('caps', function(name) {
 	return new Handlebars.SafeString(
 		'<span style="font-variant:small-caps">' +
