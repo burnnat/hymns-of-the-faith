@@ -21,10 +21,9 @@ Tune: George Bennard (1873–1958), 1913
  - Though not a trained performer, Bennard often sang and played guitar at revivals
  - Voted “most popular hymn” in a national survey of 1960, as reported by {{{book "The Flint Journal"}}}
 
-1. Despite nearly instant popularity, “The Old Rugged Cross” has also been subject to fierce criticism (it took 50 years to be included in the Methodist hymnal). In 1967, the prominent hymnologist and scholar Erik Routley called it “a monstrous blasphemy,” saying, “I believe it to be wrong, misleading, and spiritually wicked to treat the Cross as affectionately as that lyric does.” Or consider this quote from a 2003 symposium of the Christian Conference of Asia:
+1. Despite nearly instant popularity, “The Old Rugged Cross” has also been subject to fierce criticism (it took 50 years to be included in the Methodist hymnal). In 1967, the prominent hymnologist and scholar Erik Routley called it “a monstrous blasphemy,” saying, “I believe it to be wrong, misleading, and spiritually wicked to treat the Cross as affectionately as that lyric does.” Or consider this quote from a 2003 symposium of the Christian Conference of Asia (Dr. Muriel Orevillo-Montenegro, Silliman University Divinity School):
 
 	> Shall I cling to the "old rugged cross"? My answer is no. I refuse to cling to the mystified and romanticized symbol of violence that had for centuries endorsed the subjugation of peoples and reinforces the suffering of women at the intersection of patriarchy, sexism, classism, racism, and ethnocentrism.
-	(Dr. Muriel Orevillo-Montenegro, Silliman University Divinity School)
 
 	What is the proper place of the cross in Christian worship? Do we focus on it too much? Too little?
 
@@ -100,8 +99,8 @@ Tune: Joanie Madden (1965– ), 1999
 
 1. The hymn is organized by facets of our lives that Jesus came to take away (“doubt”, “guilt”, “toil”, and “pride”), yet it seems that every person still struggles with one or more of these. Which do you find most relevant personally, and how does this hymn change your perspective on it (if at all)?
 {{#if notes}}
-	- **Verse 1:** “doubts and fears” are paired together - both fear of the unknown (“what if I’m wrong?”). The proof is in His “bleeding, loving side”; just as His wounded side satisfied Thomas.
-	- **Verse 2:** echoes the “In Christ Alone” phrase “no guilt in life, no fear in death”. Why do we still feel guilty for our sins, even when we know they’re forgiven?
-	- **Verse 3:** recall creation’s 7th day; irony that the law fulfilled by Jesus mandated a day of rest?
-	- **Verse 4:** pride is the root of all sin; the glory belongs to God alone, not us.
+	- *Verse 1:* “doubts and fears” are paired together - both fear of the unknown (“what if I’m wrong?”). The proof is in His “bleeding, loving side”; just as His wounded side satisfied Thomas.
+	- *Verse 2:* echoes the “In Christ Alone” phrase “no guilt in life, no fear in death”. Why do we still feel guilty for our sins, even when we know they’re forgiven?
+	- *Verse 3:* recall creation’s 7th day; irony that the law fulfilled by Jesus mandated a day of rest?
+	- *Verse 4:* pride is the root of all sin; the glory belongs to God alone, not us.
 {{/if}}
