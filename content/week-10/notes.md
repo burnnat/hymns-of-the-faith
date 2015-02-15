@@ -1,0 +1,102 @@
+---
+title: Return of Christ
+resources:
+  - name: Lo! He Cometh, Countless Trumpets Blow
+    file: lo-he-cometh.pdf
+  - name: John Brown's Body
+    file: john-browns-body.pdf
+---
+## Lo, He Comes With Clouds Descending
+
+Text: Charles Wesley (1707–1788), 1758
+ - Wesley’s text was inspired by an earlier version, “Lo! He Cometh, Countless Trumpets Blow,” written in 1750 by his friend John Cennick, a Moravian minister
+ - Less than five years later, Cennick died of a fever at the age of 36
+ - Wesley’s rewritten version was published in {{{book "Hymns of Intercession for all Mankind"}}} in 1758, accompanied with the title "Thy Kingdom Come" (later revised to "The Second Advent")
+
+Tune: Thomas Olivers (1725–1799), 1765
+ - Death of both parents at a young age left Olivers lacking formal education, passed between relatives
+ - While roaming England looking for work as a shoemaker, he heard George Whitefield preach, which sparked a conversion and led him to work as an assistant to John Wesley
+ - The tune {{{caps "Helmsley"}}} was first published in the Wesleys’ {{{book "Sacred Melodies"}}} in 1765, paired with this text
+ - The original source may be older, however, as Olivers stated he was not the true composer of the tune, but simply wrote it down after hearing it sung in the street
+ - Many scholars believe the original source to be a melody written by British composer Thomas Arne for his 1760 opera “Thomas and Sally”
+
+1. The text describes Christ’s second coming, with particular references to {{{verse "Revelation 1:7"}}}, but is almost always sung during the Advent season leading up to Christmas. Does this hymn give a different perspective to the Christmas season? What are the similarities and differences between the first and second coming of Jesus?
+{{#if notes}}
+	- The hymn says “God appears on earth to reign” … is this true of Christmas?
+	- Compare “robed in dreadful majesty” with the baby in swaddling clothes
+	- Choirs of angels on one hand, “thousand thousand saints attending” on the other
+	- “O come quickly” reminds of “O Come, O Come Emmanuel”, but with much more pomp
+	- Christmas is a beginning; Christ’s return is not the end, but rather a second beginning
+{{/if}}
+
+1. Critics note that Wesley’s text treads a sensitive line between enthusiasm and restraint, unlike Cennick’s earlier text. Do you agree? How do the imagery of the two compare?
+{{#if notes}}
+	- Differences:
+		- “clouds descending” vs. “trumpets blow”
+		- “tokens of his passion” vs. “his bloody sign”
+		- “every eye shall see”: “him clothed in royal majesty” vs. “his wounds”
+		- “his dazzling body bears” vs. “shining in his bruised face”
+		- “ransomed worshippers” vs. “happy mourners”
+		- “claim the kingdom” vs. “every evil to destroy”
+		- Only Cennick mentions Christs’ judgment
+	- Similarities:
+		- both consider those who “pierced him” (and “sold” and “nailed”, for Wesley)
+		- “wailing” appears as their reaction in both
+		- “let all adore thee” and “all the nations now shall sing”
+{{/if}}
+
+## Battle Hymn of the Republic
+
+Text: Julia Ward Howe (1819–1910), 1862
+ - Born into a wealthy family in New York City with an ancestry of Revolutionary War heroes and conservative Calvinist beliefs
+ - Well-educated, with an independent spirit, Howe rebelled against her upbringing, becoming a progressive Unitarian and serving as a leader in the abolitionist and women’s suffrage movements
+ - In 1848, married Dr. Samuel Gridley Howe, a doctor and prominent humanitarian 18 years her senior
+ - On a trip to Washington, D. C. in 1861, her former pastor, Rev. James Freeman Clarke, suggested she write improved lyrics to “John Brown’s Body” after hearing it sung at a Union army encampment
+ - In a written account, Howe reported she wrote the hymn in close to its entirety that same night after awakening in the wee hours of the morning, before returning back to sleep
+ - The text was first published in {{{book "The Atlantic"}}} magazine, paying Howe $5 for the rights
+
+Tune: Traditional American
+ - The best claim to authorship for the tune comes from William Steffe, who wrote “Say, bummers will you meet us” for firemen in the Good Will Engine Company of Philadelphia to use as a welcome song
+ - The lyrics later changed to “Say, brothers, will you meet us / at Canaan’s happy shore” for religious use
+ - During the civil war, the 2nd Infantry “Tiger” Battalion of Massachusetts paired the tune with the words “John Brown’s body”, a play on the fact that the battalion had a Scottish soldier named John Brown
+
+1. The “Battle Hymn of the Republic” is perhaps one of the most “embattled” hymns in popular use, especially in recent years. It is, without a doubt, a heavily scriptural hymn, with allusions to the books of Revelation, Daniel, 1 and 2 Corinthians, Isaiah, and more. At the same time, many people feel the hymn is too secular, and are uncomfortable with its violent imagery (see its original third verse) and portrayal of the Union Army as the “army of God”. In your opinion, is there any good (or at least redeemable) message in the hymn? Is it appropriate for use in a church setting?
+{{#if notes}}
+	- The “grapes of wrath” come from {{{verse "Revelation 14:18-19"}}}
+	- “Dim and flaring lamps” recall God’s judgment on King Belshazzar in {{{verse "Daniel 5"}}}
+	- “Watchfires … in the evening dews and damps” recalls {{{verse "Isaiah 21:11-12"}}}: “Watchman, how far gone is the night? Watchman, how far gone is the night?”
+	- “Crush the serpent” is a dual reference to {{{verse "Genesis 3:15"}}} and {{{verse "Revelation 12:9"}}}
+	- “The trumpet that shall never call retreat” echoes “trump shall sound” in {{{verse "1 Corinthians 15:52"}}}
+	- “His judgment seat” is described in {{{verse "2 Corinthians 5:10"}}}
+	- “Born among the lilies” could refer to {{{verse "Song of Solomon 6:3"}}}
+{{/if}}
+
+1. In addition to problems with its Civil War history, other critics take issue with what they see as Howe’s Unitarian theology coming through the hymn. In particular, they point to phrases like “in the beauty of the lilies, Christ was born” and “He died to make men holy” as Unitarian misinterpretations of the gospel. Do you agree? Are there other theological problems in the hymn?
+{{#if notes}}
+	- “In the beauty of the lilies” does not particularly match the manger of a stable
+	- Many hymnals modify “let us die to make men free” to “let us live to make men free”; is this an improvement? But remembering {{{verse "John 15:13"}}}, perhaps “die” is appropriate after all?
+	- Howe is quoted as saying, “Not until the Civil War did I officially join the Unitarian church and accept the fact that Christ was merely a great teacher with no higher claim to preeminence in wisdom, goodness, and power than any other man.”
+{{/if}}
+
+## When the Roll is Called Up Yonder
+
+Text: James Milton Black (1856–1938), 1893
+ - Born in New York, he studied music under Daniel B. Towner of the Moody Bible Institute (composer of the tune for “Trust and Obey”, among others)
+ - Moved to Pennsylvania in 1881, a member of Pine Street Methodist Church in Williamsport for 34 years
+ - While serving as a Sunday school teacher, Black was taking attendance when a girl in his class failed to respond when her name was called, prompting him to comment “what a sad thing it would be when our names are called from the Lamb’s Book of Life, if one of us should be absent!”
+ - Wishing he had a hymn to express this idea, he returned home and reportedly wrote all three verses in just 15 minutes, saying “I have never dared to change a single word or note of the music since.”
+ - Served on the editorial committee for the 1905 Methodist hymnal as its only gospel hymn writer (which may explain why the hymnal failed to include any of his own 1,500 hymns)
+
+Tune: James Milton Black (1856–1938), 1893
+ - Edited over a dozen gospel songbooks, including {{{book "Songs of the Soul"}}} in 1894, which contained “When the Roll is Called Up Yonder” and sold more than 400,000 copies within two years of its publishing
+ - Black was unfailingly proud of this hymn and, in responding to a request for permission to include it in a new hymnal, wrote:
+
+	> Everybody else is raising the prices of the great songs and why should not I? It is the common consent of all people everywhere that “When the Roll is Called Up Yonder” is the greatest song that has ever been written for the last twenty-five years. I am of that opinion myself. It goes into more books than any other one gospel song in the English language. That tells the story. Hereafter, the price of that song shall be $25.00. Do you blame me?
+
+1. Although its words are simple and straightforward, the hymn leaves open some questions in its description of Christ’s second coming. Does the picture it presents match what we read in scripture? Consider the phrases “time shall be no more”, “the dead in Christ shall rise”, “His chosen ones”, and “home beyond the skies”.
+{{#if notes}}
+	- In the King James Version, {{{verse "Revelation 10:6" translation="KJV"}}} says “...there should be time no longer”, but in the English Standard Version (and basically all modern translations) it reads “...there would be no more delay”. Could this be a misinterpretation on the part of Black?
+	- Resurrection of the dead again echoes {{{verse "1 Corinthians 15:52"}}}.
+	- {{{verse "Matthew 22:14"}}} says “many are called, but few are chosen”. Unless we believe in predestination, how do we square this with the idea that Christ died for everyone?
+	- {{{verse "Revelation 21"}}} describes the New Earth and New Jerusalem, but leaves much open to interpretation. Many would say a “home beyond the skies” is not accurate as it implies leaving the earth rather than its renewal.
+{{/if}}
