@@ -1,5 +1,6 @@
 ---
 title: God Rest Ye Merry, Gentlemen
+pdf: true
 ---
 Text: G. K. Chesterton, 1922
 
