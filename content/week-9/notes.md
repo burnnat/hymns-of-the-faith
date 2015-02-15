@@ -1,5 +1,10 @@
 ---
 title: Crucifixion and Salvation
+resources:
+  - name: Hope for Sinners
+    file: hope-for-sinners.pdf
+  - name: Sinner, Where is Room for Doubt?
+    file: sinner-where-is-room.pdf
 ---
 ## The Old Rugged Cross
 
