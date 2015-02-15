@@ -19,14 +19,20 @@ Handlebars.registerHelper('trim', function(options) {
 	return options.fn(this).replace(/[\t\r\n]/g, '');
 });
 
-Handlebars.registerHelper('verse', function(verse, translation) {
-	var url = 'https://www.biblegateway.com/passage/?search=' + encodeURIComponent(verse);
+Handlebars.registerHelper('verse', function(verse, options) {
+	var label = verse;
 
-	if (arguments.length === 3) { // Handlebars passes an extra final argument
-		url = url + '&version=' + encodeURIComponent(translation);
+	if (options.hash.label) {
+		label = options.hash.label;
 	}
 
-	return new Handlebars.SafeString('[' + verse + '](' + url + ')');
+	var url = 'https://www.biblegateway.com/passage/?search=' + encodeURIComponent(verse);
+
+	if (options.hash.translation) {
+		url = url + '&version=' + encodeURIComponent(options.hash.translation);
+	}
+
+	return new Handlebars.SafeString('[' + label + '](' + url + ')');
 });
 
 Handlebars.registerHelper('book', function(name) {
