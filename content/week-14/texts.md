@@ -6,16 +6,8 @@ pdf: true
 <table class="columns">
 	<tbody>
 		<tr>
-			<td>
-{{/trim~}}
-## Hark How All The Welkin Rings
-{{~#trim}}
-			</td>
-			<td>
-{{/trim~}}
-## Of the Father Sole Begotten
-{{~#trim}}
-			</td>
+			<td><h2>Hark How All The Welkin Rings</h2></td>
+			<td><h2>Of the Father Sole Begotten</h2></td>
 		</tr>
 		<tr>
 			<td>
