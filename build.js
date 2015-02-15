@@ -117,13 +117,16 @@ Metalsmith(__dirname)
 
 function weekMetadata(files, metalsmith, done) {
 	var match;
+	var week;
 	var parser = /week-(\d+)/;
 
 	for (var file in files) {
 		match = file.match(parser);
 
 		if (match) {
-			files[file].week = parseInt(match[1], 10);
+			week = match[1];
+			files[file].folder = 'week-' + week;
+			files[file].week = parseInt(week, 10);
 		}
 	}
 
