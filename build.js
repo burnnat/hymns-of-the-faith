@@ -103,8 +103,8 @@ Metalsmith(__dirname)
 			)
 			.use(layouts('handlebars'))
 	)
-	.use(branchPdf)
 	.use(lilypond)
+	.use(branchPdf)
 	.build(function(err, files) {
 		if (err) {
 			console.error(err);
@@ -162,15 +162,17 @@ function branchPdf(files, metalsmith, done) {
 	};
 
 	var data;
+	var ext;
 
 	for (var file in files) {
 		data = files[file];
+		ext = path.extname(file);
 
 		if (data.pdf) {
 			sources.push(file);
 			(data.landscape ? landscape : portrait).files[file] = true;
 		}
-		else if ('.css' === path.extname(file)) {
+		else if ('.css' === ext || '.png' === ext) {
 			landscape.files[file] = true;
 			portrait.files[file] = true;
 		}
@@ -221,8 +223,9 @@ function lilypond(files, metalsmith, done) {
 		var ext = path.extname(file);
 
 		if ('.ly' === ext) {
+			var format = files[file].format || 'pdf';
 			var dir = path.dirname(file);
-			var dest = path.basename(file, ext) + '.pdf';
+			var dest = path.basename(file, ext) + '.' + format;
 
 			if ('.' != dir) {
 				dest = path.join(dir, dest);
@@ -231,6 +234,7 @@ function lilypond(files, metalsmith, done) {
 			lys.push({
 				src: file,
 				dest: dest,
+				format: format,
 				contents: files[file].contents
 			});
 		}
@@ -244,7 +248,7 @@ function lilypond(files, metalsmith, done) {
 
 			lilynode.renderFile(
 				tempFile,
-				{ format: 'pdf' },
+				{ format: item.format },
 				function(err, output) {
 					fs.unlinkSync(tempFile);
 
