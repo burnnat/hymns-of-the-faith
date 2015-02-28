@@ -34,6 +34,7 @@ Tune: Keith Getty (1974– ), 2001
 	- Tone is uplifting and optimistic
 		- At the same time, the lyrics are neither shallow nor naïve
 		- Rising melody and wide leap reinforces this feeling
+		- Trochee at the start of every other line gives an extra "punch" to the otherwise smooth meter
 {{/if}}
 
 1. Getty has said that in writing the hymn, he wanted to “tell the gospel story in one song”. Do you find that it achieves this goal well? Is there anything missing? How does it compare to other hymns you know that share the same goal?
