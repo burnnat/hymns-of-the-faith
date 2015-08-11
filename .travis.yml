@@ -5,6 +5,7 @@ addons:
   apt:
     packages:
     - wkhtmltopdf
+    - xvfb
 before_install:
   - sh install-lilypond.sh
 script: npm run-script deploy

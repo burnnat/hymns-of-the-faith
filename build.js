@@ -14,6 +14,10 @@ var layouts = require('metalsmith-layouts');
 var pdf = require('metalsmith-pdf');
 var lilynode = require('lilynode');
 var temp = require('temp');
+var wkhtmltopdf = require('wkhtmltopdf');
+
+// Set default wkhtmltopdf command to run with a headless X server.
+wkhtmltopdf.command = 'xvfb-run --server-args="-screen 0, 1024x768x24" wkhtmltopdf';
 
 Handlebars.registerHelper('trim', function(options) {
 	return options.fn(this).replace(/[\t\r\n]/g, '');
