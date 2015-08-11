@@ -3,12 +3,15 @@
 <head>
 	<meta charset="UTF-8" />
 	<title>{{title}}</title>
-	<link rel="stylesheet" href="styles.css"/>
+	<link rel="stylesheet" href="styles/web.css"/>
 </head>
 <body>
-	<h1>{{title}}</h1>
-	<div class="main-wrapper">
+	<section class="page-header">
+		<h1 class="project-name">{{title}}</h1>
+		<h2 class="project-tagline">{{tagline}}</h2>
+	</section>
+	<section class="main-content">
 		{{{contents}}}
-	</div>
+	</section>
 </body>
 </html>

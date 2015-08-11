@@ -11,6 +11,7 @@ var markdown = require('metalsmith-markdown');
 var templates = require('metalsmith-in-place');
 var layouts = require('metalsmith-layouts');
 var pdf = require('metalsmith-pdf');
+var sass = require('metalsmith-sass');
 var lilynode = require('lilynode');
 var temp = require('temp');
 
@@ -49,9 +50,9 @@ Handlebars.registerHelper('book', function(name) {
 
 Handlebars.registerHelper('caps', function(name) {
 	return new Handlebars.SafeString(
-		'<span style="font-variant:small-caps">' +
+		'<cite class="tune">' +
 			Handlebars.Utils.escapeExpression(name) +
-		'</span>'
+		'</cite>'
 	);
 });
 
@@ -107,6 +108,7 @@ Metalsmith(__dirname)
 			)
 			.use(layouts('handlebars'))
 	)
+	.use(sass({ outputStyle: 'compressed' }))
 	.use(lilypond)
 	.use(branchPdf)
 	.build(function(err, files) {

@@ -1,0 +1,43 @@
+@import 'cayman';
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700);
+
+@mixin font-face($name, $filename) {
+	@font-face {
+		font-family: $name;
+		src: url('../fonts/#{$filename}-webfont.woff') format('woff');
+		@content;
+	}
+}
+
+@include font-face('Hythlodaeus', 'hythlodaeus-regular');
+@include font-face('Hythlodaeus', 'hythlodaeus-italic') {
+	font-style: italic;
+}
+@include font-face('Hythlodaeus', 'hythlodaeus-bold') {
+	font-weight: bold;
+}
+@include font-face('Hythlodaeus Lining', 'hythlodaeus-regular-lining');
+@include font-face('Hythlodaeus SC', 'hythlodaeus-sc');
+
+body {
+	font-family: 'Hythlodaeus', Georgia, serif;
+	font-size: 14px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+	.main-content & {
+		font-weight: bold;
+	}
+}
+
+cite.book {
+	font-style: italic;
+}
+
+cite.tune {
+	font-style: normal;
+	font-family: 'Hythlodaeus SC', 'Hythlodaeus', Georgia, serif;
+}
