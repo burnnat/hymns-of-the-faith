@@ -8,7 +8,6 @@ var collections = require('metalsmith-collections');
 var copy = require('metalsmith-copy');
 var fileMetadata = require('metalsmith-filemetadata');
 var markdown = require('metalsmith-markdown');
-var ignore = require('metalsmith-ignore');
 var templates = require('metalsmith-in-place');
 var layouts = require('metalsmith-layouts');
 var pdf = require('metalsmith-pdf');
