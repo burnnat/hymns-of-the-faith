@@ -15,24 +15,24 @@
 	"homepage": "https://github.com/burnnat/hymns-of-the-faith",
 
 	"devDependencies": {
-		"async": "~0.9.0",
-		"handlebars": "~2.0.0",
-		"lilynode": "~0.3.1",
-		"metalsmith": "~1.3.0",
+		"async": "~1.4.2",
+		"handlebars": "~3.0.3",
+		"lilynode": "~0.4.1",
+		"metalsmith": "~2.0.1",
 		"metalsmith-branch": "~0.0.4",
 		"metalsmith-collections": "~0.7.0",
-		"metalsmith-copy": "git://github.com/burnnat/metalsmith-copy.git#buffer-fix",
+		"metalsmith-copy": "~0.2.1",
 		"metalsmith-filemetadata": "~0.0.4",
 		"metalsmith-markdown": "~0.2.1",
 		"metalsmith-ignore": "~0.1.2",
-		"metalsmith-in-place": "~1.0.1",
-		"metalsmith-layouts": "~1.0.0",
+		"metalsmith-in-place": "~1.3.1",
+		"metalsmith-layouts": "~1.3.1",
 		"metalsmith-pdf": "~1.1.2",
-		"temp": "~0.8.1"
+		"temp": "~0.8.3"
 	},
 
 	"scripts": {
-		"build": "node build.js",
+		"build": "node --harmony build.js",
 		"deploy": "./deploy-ghpages.sh"
 	}
 }
