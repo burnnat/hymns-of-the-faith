@@ -1,13 +1,8 @@
 language: node_js
 node_js:
   - "0.12"
-addons:
-  apt:
-    packages:
-    - wkhtmltopdf
-    - xvfb
 before_install:
-  - sh install-lilypond.sh
+  - sh install-vendor.sh
 script: npm run-script deploy
 env:
   global:
