@@ -248,7 +248,10 @@ function lilypond(files, metalsmith, done) {
 
 			lilynode.renderFile(
 				tempFile,
-				{ format: item.format },
+				{
+					format: item.format,
+					binaryPath: './vendor/bin/lilypond'
+				},
 				function(err, output) {
 					fs.unlinkSync(tempFile);
 
