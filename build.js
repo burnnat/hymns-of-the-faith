@@ -14,9 +14,10 @@ var layouts = require('metalsmith-layouts');
 var pdf = require('metalsmith-pdf');
 var lilynode = require('lilynode');
 var temp = require('temp');
-var wkhtmltopdf = require('wkhtmltopdf');
 
-// Set default wkhtmltopdf command to run with a headless X server.
+// Set default wkhtmltopdf command to run with a headless X server. In order for
+// this to work, we need to access the actual module instance used by metalsmith-pdf.
+var wkhtmltopdf = require('metalsmith-pdf/node_modules/wkhtmltopdf');
 wkhtmltopdf.command = 'xvfb-run --server-args="-screen 0, 1024x768x24" wkhtmltopdf';
 
 Handlebars.registerHelper('trim', function(options) {
