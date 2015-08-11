@@ -18,7 +18,7 @@ var temp = require('temp');
 // Set default wkhtmltopdf command to run with a headless X server. In order for
 // this to work, we need to access the actual module instance used by metalsmith-pdf.
 var wkhtmltopdf = require('metalsmith-pdf/node_modules/wkhtmltopdf');
-wkhtmltopdf.command = './vendor/usr/local/bin/wkhtmltopdf';
+wkhtmltopdf.command = './vendor/bin/wkhtmltopdf';
 
 Handlebars.registerHelper('trim', function(options) {
 	return options.fn(this).replace(/[\t\r\n]/g, '');
