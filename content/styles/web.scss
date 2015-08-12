@@ -5,30 +5,31 @@
 @mixin font-face($name, $filename) {
 	@font-face {
 		font-family: $name;
-		src: url('../fonts/#{$filename}-webfont.woff') format('woff');
+		src: url('../fonts/#{$filename}.woff') format('woff');
 		@content;
 	}
 }
 
-@include font-face('Hythlodaeus', 'hythlodaeus-regular');
-@include font-face('Hythlodaeus', 'hythlodaeus-italic') {
+@include font-face('Libertine', 'libertine-regular');
+@include font-face('Libertine', 'libertine-italic') {
 	font-style: italic;
 }
-@include font-face('Hythlodaeus', 'hythlodaeus-bold') {
+@include font-face('Libertine', 'libertine-bold') {
 	font-weight: bold;
 }
-@include font-face('Hythlodaeus Lining', 'hythlodaeus-regular-lining');
-@include font-face('Hythlodaeus SC', 'hythlodaeus-sc');
+@include font-face('Libertine SC', 'libertine-sc');
 
 body {
-	font-family: 'Hythlodaeus', Georgia, serif;
+	font-family: "Libertine", Georgia, serif;
 	font-size: 14px;
 }
 
 h1, h2, h3, h4, h5, h6 {
-	font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
 
-	.main-content & {
+.main-content {
+	h1, h2 {
 		font-weight: bold;
 	}
 }
@@ -39,5 +40,5 @@ cite.book {
 
 cite.tune {
 	font-style: normal;
-	font-family: 'Hythlodaeus SC', 'Hythlodaeus', Georgia, serif;
+	font-family: "Libertine SC", "Libertine", Georgia, serif;
 }
