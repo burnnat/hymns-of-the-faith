@@ -106,7 +106,12 @@ Metalsmith(__dirname)
 					smartypants: true,
 				})
 			)
-			.use(layouts('handlebars'))
+			.use(
+				layouts({
+					engine: 'handlebars',
+					partials: 'partials'
+				})
+			)
 	)
 	.use(sass({ outputStyle: 'compressed' }))
 	.use(lilypond)

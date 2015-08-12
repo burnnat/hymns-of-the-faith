@@ -24,6 +24,7 @@
 		{{/if}}
 
 		{{{ contents }}}
+		{{>footer}}
 	</section>
 </body>
 </html>

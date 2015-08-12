@@ -12,6 +12,7 @@
 	</section>
 	<section class="main-content">
 		{{{contents}}}
+		{{>footer}}
 	</section>
 </body>
 </html>
