@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<title>Hymns of the Faith | Session {{session}}: {{title}}</title>
+	<link rel="stylesheet" href="../styles/web.css"/>
+</head>
+<body>
+	<section class="page-header">
+		<h1 class="project-name">Session {{session}}: {{title}}</h1>
+		<h2 class="project-tagline">{{tagline}}</h2>
+	</section>
+	<section class="main-content">
+		{{{contents}}}
+		<ol class="week-list">
+    {{#each weeks}}
+    	<li>
+				Week {{this.week}}:
+				<a href="../{{this.folder}}/notes.html">{{this.title}}</a>
+			</li>
+    {{/each}}
+		</ol>
+		{{>footer}}
+	</section>
+</body>
+</html>

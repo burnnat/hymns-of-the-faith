@@ -1,3 +1,4 @@
+var _ = require('lodash');
 var fs = require('fs');
 var path = require('path');
 var async = require('async');
@@ -69,12 +70,16 @@ Metalsmith(__dirname)
 	.source('content')
 	.destination('build')
 	.use(weekMetadata)
-	.use(rename('*/notes.md', 'leader'))
-	.use(rename('*/notes.md', 'participant'))
+	.use(rename('session-*/week-*/notes.md', 'leader'))
+	.use(rename('session-*/week-*/notes.md', 'participant'))
 	.use(
 		collections({
+			sessions: {
+				pattern: 'session-*/overview.md',
+				sortBy: 'session'
+			},
 			weeks: {
-				pattern: '*/notes.md',
+				pattern: 'session-*/week-*/notes.md',
 				sortBy: 'week'
 			}
 		})
@@ -82,21 +87,27 @@ Metalsmith(__dirname)
 	.use(
 		fileMetadata([
 			{
-				pattern: '*/notes.md',
+				pattern: 'session-*/overview.md',
+				metadata: {
+					layout: 'session.hbt'
+				}
+			},
+			{
+				pattern: 'session-*/week-*/notes.md',
 				metadata: {
 					layout: 'notes.hbt',
 					notes: true
 				}
 			},
 			{
-				pattern: '*/leader.md',
+				pattern: 'session-*/week-*/leader.md',
 				metadata: {
 					pdf: true,
 					notes: true
 				}
 			},
 			{
-				pattern: '*/participant.md',
+				pattern: 'session-*/week-*/participant.md',
 				metadata: {
 					pdf: true,
 					notes: false
@@ -104,6 +115,7 @@ Metalsmith(__dirname)
 			}
 		])
 	)
+	.use(nestedCollections)
 	.use(
 		branch()
 			.pattern('**/*.md')
@@ -137,16 +149,29 @@ Metalsmith(__dirname)
 
 function weekMetadata(files, metalsmith, done) {
 	var match;
-	var week;
-	var parser = /week-(\d+)/;
+	var metadata;
+
+	var session = /session-(\d+)/;
+	var week = /week-(\d+)/;
 
 	for (var file in files) {
-		match = file.match(parser);
+		metadata = files[file];
+		metadata.folder = (
+			path.normalize(path.dirname(file))
+				.replace(path.sep, '/')
+				.replace(/^\//, '')
+		);
+
+		match = file.match(session);
 
 		if (match) {
-			week = match[1];
-			files[file].folder = 'week-' + week;
-			files[file].week = parseInt(week, 10);
+			metadata.session = parseInt(match[1], 10);
+		}
+
+		match = file.match(week);
+
+		if (match) {
+			metadata.week = parseInt(match[1], 10);
 		}
 	}
 
@@ -239,6 +264,21 @@ function rename(pattern, name) {
 			return path.join(path.dirname(file), name + path.extname(file));
 		}
 	});
+}
+
+function nestedCollections(files, metalsmith, done) {
+	var weeks = metalsmith.metadata().collections.weeks;
+
+	_.each(
+		files,
+		function(file, name) {
+			if (file.layout === 'session.hbt') {
+				file.weeks = _.filter(weeks, 'session', file.session);
+			}
+		}
+	)
+
+	done();
 }
 
 function lilypond(files, metalsmith, done) {

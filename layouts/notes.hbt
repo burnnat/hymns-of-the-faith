@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8" />
 	<title>Hymns of the Faith | Week {{week}}: {{title}}</title>
-	<link rel="stylesheet" href="../styles/web.css"/>
+	<link rel="stylesheet" href="../../styles/web.css"/>
 </head>
 <body>
 	<section class="main-content">
