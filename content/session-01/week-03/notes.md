@@ -8,7 +8,7 @@ resources:
   - name: The Lord My Pasture
     file: the-lord-my-pasture.pdf
 ---
-## A Mighty Fortress
+## {{{hymn "A Mighty Fortress" id="a_mighty_fortress_is_our_god_a_bulwark"}}}
 
 Text: Martin Luther (1483–1546), 1529, tr. Frederick H. Hedge, 1852
  - Son of peasants, originally aimed for a career in law, but death of a friend and a close encounter with lightning caused him to become an Augustinian monk
@@ -34,7 +34,7 @@ Tune: Martin Luther (1483–1546), 1529, harm. Johann Sebastian Bach, 1728
 	- “Sabaoth” is the Greek transliteration of the Hebrew word for “hosts” or “armies”; “Lord Sabaoth” equates to “{{{caps "Lord"}}} of hosts”, meaning commander of the innumerable hosts of heaven
 {{/if}}
 
-## Eternal Father, Strong to Save
+## {{{hymn "Eternal Father, Strong to Save" id="eternal_father_strong_to_save_whose_arm"}}}
 
 Text: William Whiting (1825–1878), 1860, rev. 1869
  - Born in London, attended Winchester College
@@ -58,7 +58,7 @@ Tune: John Bacchus Dykes (1823–1876), 1861
 	- Also creator of light ({{{verse "Genesis 1:3"}}}), life ({{{verse "Genesis 1:20"}}}), and peace ({{{verse "Genesis 2:2"}}})
 {{/if}}
 
-## The Lord My Pasture Shall Prepare
+## {{{hymn "The Lord My Pasture Shall Prepare" id="the_lord_my_pasture_shall_prepare_and_fe"}}}
 
 Text: Joseph Addison (1672–1719), 1712
  - Described as “the bright star of early eighteenth-century literature in England”: an Oxford-educated essayist, as well as poet and playwright, best known as founder of “The Spectator” magazine

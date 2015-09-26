@@ -6,7 +6,7 @@ resources:
   - name: Dear Refuge of My Weary Soul
     file: dear-refuge.pdf
 ---
-## How Sweet the Name of Jesus Sounds
+## {{{hymn "How Sweet the Name of Jesus Sounds" id="how_sweet_the_name_of_jesus_sounds_in_a"}}}
 
 Text: John Newton (1725–1807), 1774
  - Following the death of his mother when he was 7, he headed to sea at age 11
@@ -34,7 +34,7 @@ Tune: Alexander Robert Reinagle (1799–1877), 1836
 	- “Husband” fits well with Song of Solomon, but later editors revised it to “Brother” or “Shepherd”
 {{/if}}
 
-## Dear Refuge of My Weary Soul
+## {{{hymn "Dear Refuge of My Weary Soul" id="dear_refuge_of_my_weary_soul"}}}
 
 Text: Anne Steele (1717–1778), 1760
  - Born into a Baptist family in England
@@ -60,7 +60,7 @@ Tune: Anonymous, 1749
 	- Here, that the “mercy-seat is open still” means Christ has given us access to God
 {{/if}}
 
-## Abide With Me
+## {{{hymn "Abide With Me" id="abide_with_me_fast_falls_the_eventide"}}}
 
 Text: Henry Francis Lyte (1793–1847), 1847
  - Born a poor orphan in Scotland, entered ministry at an Anglican church in Ireland at the age of 21

@@ -1,7 +1,7 @@
 ---
 title: Holy Spirit
 ---
-## Come Down, O Love Divine
+## {{{hymn "Come Down, O Love Divine" id="come_down_o_love_divine"}}}
 
 Text: Bianco da Siena (?–1434), 1867
  - Born around 1350 in Tuscany, Italy, and worked as a wool carder
@@ -24,7 +24,7 @@ Tune: Ralph Vaughan Williams (1872–1958), 1906
 	- “the yearning strong”: our longing for God is a burning desire
 {{/if}}
 
-## Love Divine, All Loves Excelling
+## {{{hymn "Love Divine, All Loves Excelling" id="love_divine_all_love_excelling_joy_of_he"}}}
 
 Text: Charles Wesley (1707–1788), 1747
  - Youngest (18th) child of Samuel and Susanna Wesley, educated at Oxford University
@@ -51,7 +51,7 @@ Tune: John Zundel (1815–1882), 1870
 	- Purpose of the Holy Spirit is to comfort (“thou art all compassion … enter every trembling heart”), perfect (“take away the love of sinning”), and abide with us (“nevermore thy temples leave”).
 {{/if}}
 
-## Joyful is the Dark, Holy, Hidden God
+## {{{hymn "Joyful is the Dark, Holy, Hidden God" id="joyful_is_the_dark_holy_hidden_god"}}}
 
 Text: Brian Wren (1936– ), 1986
  - Born in England, with undergraduate and doctoral degrees from Oxford University

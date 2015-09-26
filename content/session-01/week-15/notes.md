@@ -6,7 +6,7 @@ resources:
   - name: Hymns by Topic
     file: hymns-list.pdf
 ---
-## In Christ Alone
+## {{{hymn "In Christ Alone" id="in_christ_alone_my_hope_is_found"}}}
 
 Text: Stuart Townend (1963– ), 2001
  - Youngest of four siblings, whose father was an Anglican priest in Yorkshire, England

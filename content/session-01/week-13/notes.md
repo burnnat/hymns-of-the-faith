@@ -8,7 +8,7 @@ resources:
   - name: O Little Town of Bethlehem (original fourth verse)
     file: o-little-town.pdf
 ---
-## God Rest Ye Merry, Gentlemen
+## {{{hymn "God Rest Ye Merry, Gentlemen" id="god_rest_ye_merry_gentlemen"}}}
 
 Text: Traditional English
  - Earliest published copy dates from 1650 with the opening line “Sit you, merry Gentlemen”
@@ -40,7 +40,7 @@ Tune: Traditional English
 	- The incarnation means Jesus was fully God and fully human, yet the carol seems to focus exclusively on Christ’s deity at the expense of his humanity.
 {{/if}}
 
-## Angels We Have Heard on High
+## {{{hymn "Angels We Have Heard on High" id="angels_we_have_heard_on_high"}}}
 
 Text: Traditional French
  - Originally an 18th century French carol known as “Les Anges dans nos Campagnes”
@@ -52,7 +52,7 @@ Tune: Traditional French
  - This was joined with a French folk tune to form the version of {{{caps "Gloria"}}} we know today
  - James Montgomery’s text “Angels from the Realms of Glory” was also originally sung to this tune, prior to the composition of its current tune {{{caps "Regent Square"}}} by Henry Smart
 
-## O Little Town of Bethlehem
+## {{{hymn "O Little Town of Bethlehem" id="o_little_town_of_bethlehem"}}}
 
 Text: Phillips Brooks (1835–1893), 1868
  - Harvard-educated Episcopal pastor in Philadelphia (1859-69) and Trinity Church, Boston (1869-91)

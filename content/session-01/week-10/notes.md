@@ -6,7 +6,7 @@ resources:
   - name: John Brown's Body
     file: john-browns-body.pdf
 ---
-## Lo, He Comes With Clouds Descending
+## {{{hymn "Lo, He Comes With Clouds Descending" id="lo_he_comes_with_clouds_descending_once"}}}
 
 Text: Charles Wesley (1707–1788), 1758
  - Wesley’s text was inspired by an earlier version, “Lo! He Cometh, Countless Trumpets Blow,” written in 1750 by his friend John Cennick, a Moravian minister
@@ -45,7 +45,7 @@ Tune: Thomas Olivers (1725–1799), 1765
 		- “let all adore thee” and “all the nations now shall sing”
 {{/if}}
 
-## Battle Hymn of the Republic
+## {{{hymn "Battle Hymn of the Republic" id="mine_eyes_have_seen_the_glory"}}}
 
 Text: Julia Ward Howe (1819–1910), 1862
  - Born into a wealthy family in New York City with an ancestry of Revolutionary War heroes and conservative Calvinist beliefs
@@ -78,7 +78,7 @@ Tune: Traditional American
 	- Howe is quoted as saying, “Not until the Civil War did I officially join the Unitarian church and accept the fact that Christ was merely a great teacher with no higher claim to preeminence in wisdom, goodness, and power than any other man.”
 {{/if}}
 
-## When the Roll is Called Up Yonder
+## {{{hymn "When the Roll is Called Up Yonder" id="when_the_trumpet_of_the_lord_shall_black"}}}
 
 Text: James Milton Black (1856–1938), 1893
  - Born in New York, he studied music under Daniel B. Towner of the Moody Bible Institute (composer of the tune for “Trust and Obey”, among others)

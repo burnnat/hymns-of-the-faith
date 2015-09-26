@@ -6,7 +6,7 @@ resources:
   - name: O Come, All Ye Faithful
     file: o-come-all-ye-faithful.pdf
 ---
-## O Come, O Come, Emmanuel
+## {{{hymn "O Come, O Come, Emmanuel" id="o_come_o_come_emmanuel_and_ransom"}}}
 
 Text: Anonymous, c. 750
  - Originally a seven-verse Latin poem (“Veni, Veni, Emmanuel”) used as a Vespers call-and-response
@@ -28,7 +28,7 @@ Tune: Anonymous, c. 1450
 	- “Lord of Might” reminds us that Jesus is God, both powerful and righteous, as he led Israel out of Egypt and provided them with the law through Moses.
 {{/if}}
 
-## Lift Up Your Heads, Ye Mighty Gates
+## {{{hymn "Lift Up Your Heads, Ye Mighty Gates" id="lift_up_your_heads_ye_mighty_gates_behol"}}}
 
 Text: Georg Weissel (1590–1635), 1623
  - Son of Johann Weissel, judge and Bürgermeister in Doranau, Germany
@@ -47,7 +47,7 @@ Tune: Anonymous, 1789
 	- Recall Jesus expelling the money changers from the Temple…
 {{/if}}
 
-## O Come, All Ye Faithful
+## {{{hymn "O Come, All Ye Faithful" id="o_come_all_ye_faithful_joyful_and_triump"}}}
 
 Text: John Francis Wade (1711–1786), 1743
  - As a Catholic, fled to France to escape persecution in England after the failed Jacobite Rebellion

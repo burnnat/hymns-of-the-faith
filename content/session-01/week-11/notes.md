@@ -4,7 +4,7 @@ resources:
   - name: Schisms in the United Methodist Church
     file: schisms.pdf
 ---
-## The Church's One Foundation
+## {{{hymn "The Church's One Foundation" id="the_churchs_one_foundation"}}}
 
 Text: Samuel John Stone (1839–1900), 1866
  - Educated at Oxford and a lifelong priest in the Church of England
@@ -27,7 +27,7 @@ Tune: Samuel Sebastian Wesley (1810–1876), 1864
 	- Was the Reformation a good thing? We may agree with the theology, but look how many fractures and divisions exploded out of it: Lutheran, Reformed, Wesleyan, Baptist, Anabaptist, Pentecostal, Charismatic, in addition to Catholic and Orthodox…
 {{/if}}
 
-## O Church of God, United
+## {{{hymn "O Church of God, United" id="o_church_of_god_united_to_serve_one"}}}
 
 Text: Frederick B. Morley (1884–1969), 1953
  - Born in Canada, Morley moved to the U.S. and studied at Syracuse University and Boston University
@@ -62,7 +62,7 @@ Tune: Traditional German
 		- Stone, however, connects this unity to the Trinity: “union / with God, the Three in One”
 {{/if}}
 
-## From Greenland's Icy Mountains
+## {{{hymn "From Greenland's Icy Mountains" id="from_greenlands_icy_mountains"}}}
 
 Text: Reginald Heber (1783–1826), 1819
  - Best known as the author of the hymn “Holy, Holy, Holy”

@@ -6,7 +6,7 @@ resources:
   - name: Sinner, Where is Room for Doubt?
     file: sinner-where-is-room.pdf
 ---
-## The Old Rugged Cross
+## {{{hymn "The Old Rugged Cross" id="on_a_hill_far_away_stood_an_old_rugged"}}}
 
 Text: George Bennard (1873–1958), 1913
  - Son of a coal miner, began work in the mines at age 15, to support his family after his fathers’ death
@@ -43,7 +43,7 @@ Tune: George Bennard (1873–1958), 1913
 	- Another factor leading to the hymn’s slow adoption could be prohibitive charges for copyright fees (Bennard sold the rights for either $50 or $500, far less than its eventual royalties.)
 {{/if}}
 
-## When I Survey the Wondrous Cross
+## {{{hymn "When I Survey the Wondrous Cross" id="when_i_survey_the_wondrous_cross"}}}
 
 Text: Isaac Watts (1674–1748), 1707
  - Born into a strong Dissenter family, his father was jailed three times for his religious views

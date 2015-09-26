@@ -4,7 +4,7 @@ resources:
   - name: Creator God, You Made the Earth
     file: http://www.carolynshymns.com/creator_god_you_made_the_earth.html
 ---
-## This is My Father’s World
+## {{{hymn "This is My Father’s World" id="this_is_my_fathers_world_and_to_my"}}}
 
 Text: Maltbie D. Babcock (1858–1901), 1901
  - Born in Syracuse, New York, to aristocratic parents, he was a talented and charismatic student whose varied pursuits included captaining his university baseball team, directing the university orchestra and glee club, performing in the drama club, swimming, and sport fishing
@@ -27,7 +27,7 @@ Tune: Franklin L. Sheppard (1852–1930), 1915
 		- *God respects our freedom.* The “wrongs” we see are the fault of man - either directly, or through the fall of Adam. Although God could just clean everything up, he values us enough to let us make our own (often bad) decisions.
 {{/if}}
 
-## Creator God, You Made the Earth
+## {{{hymn "Creator God, You Made the Earth" id="creator_god_you_made_the_earth"}}}
 
 Text: Carolyn Winfrey Gillette (1961– ), 2001
  - Born into a Methodist family, her father was an English professor who previously attended seminary
@@ -60,7 +60,7 @@ Tune: Traditional Irish, 1906
 		- Perhaps church-sponsored “retreats” serve this purpose.
 {{/if}}
 
-## For the Beauty of the Earth
+## {{{hymn "For the Beauty of the Earth" id="for_the_beauty_of_the_earth"}}}
 
 Text: Folliott S. Pierpoint (1835–1917), 1864
  - Graduate (with honors) of Queen’s College, Cambridge; was born in Bath, England

@@ -4,7 +4,7 @@ resources:
   - name: Crown Him with Many Crowns
     file: crown-him.pdf
 ---
-## Come, Thou Almighty King
+## {{{hymn "Come, Thou Almighty King" id="come_thou_almighty_king_help_us_thy"}}}
 
 Text: Anonymous, 1757
  - Published anonymously in George Whitefield’s “Collection of Hymns for Social Worship” titled as “An Hymn to the Trinity”
@@ -34,7 +34,7 @@ Tune: Felice de Giardini (1716–1796), 1769
 	- “Holy Comforter” is “paraclete”, an advocate and interceder
 {{/if}}
 
-## Crown Him with Many Crowns
+## {{{hymn "Crown Him with Many Crowns" id="crown_him_with_many_crowns"}}}
 
 Text: Matthew Bridges (1800–1894), 1851
  - Member of the “Oxford Movement”, seeking renewed focus on church liturgy and sacraments, in addition to Anglican independence from government
@@ -61,7 +61,7 @@ Tune: George Job Elvey (1816–1893), 1868
 	- Note description of God as “matchless King”; nothing else can come close in comparison
 {{/if}}
 
-## Tell Out, My Soul
+## {{{hymn "Tell Out, My Soul" id="tell_out_my_soul_the_greatness_of_the_lo"}}}
 
 Text: Timothy Dudley-Smith (1926– ), 1961
  - Ordained a priest in the Church of England in 1951

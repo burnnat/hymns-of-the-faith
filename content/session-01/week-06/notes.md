@@ -6,7 +6,7 @@ resources:
   - name: Once Led to Your Font
     file: http://store.augsburgfortress.org/store/product/4488/Once-Led-to-Your-Font-A-Keyboard-Collection
 ---
-## Let Us Break Bread Together
+## {{{hymn "Let Us Break Bread Together" id="let_us_break_bread_together_on_our_knees"}}}
 
 Text: African-American Spiritual
  - As with most traditional songs, it’s difficult to tell when and where “Let Us Break Bread” first originated
@@ -30,7 +30,7 @@ Tune: African-American Spiritual
 	- See again Paul’s instructions in {{{verse "1 Corinthians 11:27-28"}}} to “examine ourselves” before taking communion.
 {{/if}}
 
-## Behold the Lamb
+## {{{hymn "Behold the Lamb" id="behold_the_lamb_who_bears_our_sins_away"}}}
 
 Text and Tune: Keith Getty (1974– ), Kristyn Getty (1980– ), Stuart Townend (1963– ), 2006
  - Born in Northern Ireland, Keith and Kristyn Getty now live in Nashville, Tennessee

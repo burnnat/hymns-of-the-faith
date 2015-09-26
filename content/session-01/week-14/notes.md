@@ -4,7 +4,7 @@ resources:
   - name: Hymn Texts
     file: texts.pdf
 ---
-## Hark the Herald Angels Sing
+## {{{hymn "Hark the Herald Angels Sing" id="hark_the_herald_angels_sing_glory_to"}}}
 
 Text: Charles Wesley (1707–1788), 1739
  - Written less than a year after Wesley’s conversion in May of 1738
@@ -38,7 +38,7 @@ Tune: Felix Mendelssohn (1809–1847), 1840
 		- 17th-century English dissenters (such as Puritans) viewed Christmas celebrations as a Catholic tradition, calling them “trappings of popery”
 {{/if}}
 
-## Of the Father's Love Begotten
+## {{{hymn "Of the Father's Love Begotten" id="of_the_fathers_love_begotten"}}}
 
 Text: Aurelius Prudentius Clemens (348–413), c. 405
  - A successful Spanish lawyer, Prudentius rose to become a regional governor in the Roman empire

@@ -1,7 +1,7 @@
 ---
 title: Life of Christ
 ---
-## O Love, How Deep, How Broad, How High
+## {{{hymn "O Love, How Deep, How Broad, How High" id="o_love_how_deep_how_broad_how_high"}}}
 
 Text: Thomas à Kempis (1380–1471), 1854
  - Son of a German blacksmith, attended Latin school as a child
@@ -33,7 +33,7 @@ Tune: Traditional English, 1906
 		- Jesus’ third temptation was that of an “easy way out”, offered rule of kingdoms on earth without the need for sacrifice or suffering ({{{verse "Matthew 4:8-9"}}}); his rejection was a selfless gift affirming His sacrifice for our sake
 {{/if}}
 
-## All Glory, Laud, and Honor
+## {{{hymn "All Glory, Laud, and Honor" id="all_glory_laud_and_honor"}}}
 
 Text: Theodulf of Orléans (c. 750–821), 1854
  - Appointed Archbishop of Orleans by Charlemagne in 781

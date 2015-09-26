@@ -45,7 +45,7 @@ resources:
 	- **Crafted with quality**, finesse in poetry, musicality, and expression
 {{/if}}
 
-## Holy, Holy, Holy
+## {{{hymn "Holy, Holy, Holy" id="holy_holy_holy_lord_god_almighty_early"}}}
 
 Text: Reginald Heber (1783–1826), 1827
  - Born into an educated, well-to-do family
