@@ -24,8 +24,51 @@ body {
 	font-size: 14px;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6, nav {
 	font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+nav {
+	background-color: #1e6bb8;
+
+	@include large {
+		font-size: 1rem;
+	}
+
+	@include medium {
+		font-size: 0.95rem;
+	}
+
+	@include small {
+		font-size: 0.9rem;
+	}
+
+	ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+		text-align: center;
+	}
+
+	li {
+		display: inline-block;
+
+		@include large {
+			padding: 0.75rem 1.5rem;
+		}
+
+		@include medium {
+			padding: 0.5rem 1rem;
+		}
+
+		@include small {
+			padding: 0.25rem 0.5rem;
+		}
+	}
+
+	a {
+	  color: #fff;
+	}
 }
 
 .main-content {

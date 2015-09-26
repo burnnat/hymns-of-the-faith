@@ -6,6 +6,23 @@
 	<link rel="stylesheet" href="../../styles/web.css"/>
 </head>
 <body>
+	<nav>
+		<ul>
+			{{#previous session week}}
+				<li>
+					<a href="../week-{{week}}/notes.html">&larr; Previous Week</a>
+				</li>
+			{{/previous}}
+			<li>
+				<a href="../overview.html">Session Overview</a>
+			</li>
+			{{#next session week}}
+				<li>
+					<a href="../week-{{week}}/notes.html">Next Week &rarr;</a>
+				</li>
+			{{/next}}
+		</ul>
+	</nav>
 	<section class="main-content">
 		<h1>Week {{week}}: {{title}}</h1>
 		<h3>Handouts:</h3>

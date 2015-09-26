@@ -12,6 +12,9 @@
 	</section>
 	<section class="main-content">
 		{{{contents}}}
+		<p>
+			<a href="../index.html">&larr; Return to homepage</a>
+		</p>
 		<ol class="week-list">
     {{#each weeks}}
     	<li>
