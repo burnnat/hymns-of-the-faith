@@ -15,6 +15,15 @@ var sass = require('metalsmith-sass');
 var lilynode = require('lilynode');
 var temp = require('temp');
 
+var options = {
+	skipLilypond: false,
+	skipPdf: false
+};
+
+process.argv.forEach(function(flag) {
+	options[flag.replace(/^--/, '')] = true;
+});
+
 // Set default wkhtmltopdf command to run with a headless X server. In order for
 // this to work, we need to access the actual module instance used by metalsmith-pdf.
 var wkhtmltopdf = require('metalsmith-pdf/node_modules/wkhtmltopdf');
@@ -159,6 +168,11 @@ function assignLayouts(files, metalsmith, done) {
 }
 
 function branchPdf(files, metalsmith, done) {
+	if (options.skipPdf) {
+		done();
+		return;
+	}
+
 	var sources = [];
 
 	var portrait = {
@@ -228,6 +242,11 @@ function rename(pattern, name) {
 }
 
 function lilypond(files, metalsmith, done) {
+	if (options.skipLilypond) {
+		done();
+		return;
+	}
+
 	var lys = [];
 
 	for (var file in files) {
