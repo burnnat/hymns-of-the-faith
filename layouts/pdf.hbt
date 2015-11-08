@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8" />
-	<link rel="stylesheet" href="../styles/pdf.css"/>
+	<link rel="stylesheet" href="/styles/pdf.css"/>
 </head>
 <body>
 	<h1 class="title">Week {{week}}: {{title}}</h1>
