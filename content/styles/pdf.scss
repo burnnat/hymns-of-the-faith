@@ -31,6 +31,7 @@ p {
 
 a {
 	color: #000;
+	text-decoration: none;
 }
 
 blockquote {
@@ -76,4 +77,20 @@ cite.book {
 cite.tune {
 	font-style: normal;
 	text-transform: uppercase;
+}
+
+.verse-num {
+	display: inline-block;
+	position: absolute;
+	left: 0;
+}
+
+.indent-0 {
+	position: relative;
+	padding-left: 25px;
+}
+
+.indent-1 {
+	position: relative;
+	padding-left: 40px;
 }

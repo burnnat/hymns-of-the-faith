@@ -1,4 +1,4 @@
 ---
-title: Structure and Expression
-tagline: Coming soon!
+title: Think Like A Hymnwriter
+tagline: A step-by-step look at the art of hymnwriting. More material coming soon!
 ---
