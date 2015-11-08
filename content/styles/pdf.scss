@@ -37,10 +37,6 @@ blockquote {
 	font-size: 13px;
 }
 
-cite.book {
-	font-style:italic;
-}
-
 ol ul {
 	list-style-type: lower-latin;
 }
@@ -71,4 +67,13 @@ table.columns {
 
 table.columns td, table.columns th {
 	border: 0;
+}
+
+cite.book {
+	font-style: italic;
+}
+
+cite.tune {
+	font-style: normal;
+	text-transform: uppercase;
 }
