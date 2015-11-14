@@ -5,26 +5,26 @@ title: Addressing God
 
 Text: Fanny Crosby (1820–1915), 1868
  - Descended from a long-time American family, her ancestors include Mayflower pilgrims, a Revolutionary war hero, and a founder of Harvard College
- - Blind since six weeks of age, attended the New York Institution for the Blind, where she later worked as a teacher
+ - Blind since six weeks of age, attended the New York Institution for the Blind, where she later taught
  - Began writing poetry at age eight, also studied music and memorized large portions of scripture
  - Advocated heavily for education of the blind, and became the first woman to speak in the U.S. Senate
  - Following an 1849 cholera outbreak in New York City, redidicated herself to Christ and mostly left activism
- - Wrote over 8,000 hymn texts (including "To God Be The Glory" and "Blessed Assurance") in addition to secular songs and poems
+ - Wrote over 8,000 hymn texts (including "To God Be The Glory" and "Blessed Assurance") in addition to many secular songs and poems
  - About her blindness, she has said:
 
 	> It seemed intended by the blessed providence of God that I should be blind all my life, and I thank him for the dispensation. If perfect earthly sight were offered me tomorrow I would not accept it. I might not have sung hymns to the praise of God if I had been distracted by the beautiful and interesting things about me.
 
-	> If I had a choice, I would still choose to remain blind...for when I die, the first face I will ever see will be the face of my blessed Saviour.
+	> If I had a choice, I would still choose to remain blind... for when I die, the first face I will ever see will be the face of my blessed Saviour.
 
 Tune: William Howard Doane (1832–1915), 1870
- - Born into a Christian family in Connecticut, hired by the large woodworking firm J. A. Fay & Co., based locally
+ - Born into a Christian family in Connecticut, hired by the large woodworking firm J. A. Fay & Co.
  - Eventually rose to become manager of their Cincinnati factory and then company president
  - Although a hobbyist composer and lifelong Christian, focused his attention on classical music
  - Following a heart attack at age 30, he turned to sacred music and began writing Sunday School songs
  - While in New York for business, was sent a hymn text by Fanny Crosby, launching a lifelong collaboration
  - Hearing about a prison visit made by Crosby, Doane suggested she write a text based on words spoken by one of the prisoners: "Good Lord, do not pass me by!"
 
-1. What does it mean for our savior to be a "gentle savior"? Why does Crosby choose this phrase rather than one like "mighty savior" that implies strength? How does this fit into the overall message of the hymn?
+1. What does it mean for our savior to be a "gentle savior"? Why does Crosby choose this phrase rather than one like "mighty savior" that implies strength? How does this fit into the overall message of the text?
 {{#if notes}}
 	- Gentleness actually **requires** strength - it's the combination of strength and restraint
 		- Phrases like "gentle giant" give the impression of a powerful person who is careful how they use their strength
@@ -50,18 +50,18 @@ Tune: William Howard Doane (1832–1915), 1870
 Text: Thomas O. Chisholm (1866–1960), 1923
  - Born in rural Kentucky, had very little formal education
  - Ordained in the Methodist church, but only served briefly as minister due to his health
- - Though for a time editor of the local newspaper, mainly worked as a life insurance salesman
- - Wrote the text from a "morning by morning realization of God's personal faithfulness"
+ - Edited the local newspaper, but worked most of his career as a life insurance salesman
+ - Wrote this text from a "morning by morning realization of God's personal faithfulness"
  - After a long life, retired to the Methodist Home for the Aged in Ocean Grove, New Jersey
 
 Tune: William Runyan (1870–1957), 1923
- - Son of a Methodist minister, was later ordained himself at 21
+ - The son of a Methodist minister, was later ordained himself at the age of 21
  - Showed musical talent at an early age, serving as substitute church organist at twelve years old
  - In addition to pastoring, worked as an editor for Hope Publishing Company for 20 years
  - Writing tunes for a number of his friend Chisholm's texts, this one stood out from the others
-
+{{#if notes}}
 	> This particular poem held such an appeal that I prayed most earnestly that my tune might carry over its message in a worthy way, and the subsequent history of its use indicates that God answers prayer.
-
+{{/if}}
  - Though popular at the Moody Bible Institute where Runyan served, the hymn remained mostly unknown
  - Only following its use by Billy Graham in the late 1950's did it reach its full popularity
 
@@ -82,20 +82,20 @@ Tune: William Runyan (1870–1957), 1923
 
 Text: Thomas Ken (1637–1711), 1709
  - Raised by an older stepsister and her husband after both parents died early in Ken's childhood
- - Oxford-educated and ordained in 1662, served in a number of chaplainships including at Winchester College
+ - Oxford-educated, ordained in 1662, served in a number of chaplainships including at Winchester College
  - Wrote this text as one of three hymns for morning, evening, and nighttime use by the students
  - Later rose to become bishop of Bath and Wells, with a reputation for principaled leadership
  - Unafraid to clash with royalty, he protested court corruption, refused to house the King's mistress, and fought against the King's Declaration of Indulgence
  - Eventually led to temporary imprisonment and loss of his position as bishop, but continued to write in retirement
 
 Tune: Thomas Tallis (c.1505–1585), 1561
- - First served as organist at a priory in Dover in 1532, then later in London churches and Cantebury Cathedral
- - Throughout the theological battles of the reformation, avoided conflict and remained an "unreformed Roman Catholic"
- - With his student William Byrd, obtained a monopoly on the printing and publishing of music from Queen Elizabeth
- - Originally written for a setting of Psalm 67, later revised by Thomas Ravencroft in 1621
+ - First served as organist in Dover in 1532, then later in London churches and Cantebury Cathedral
+ - Avoided conflict throughout theological battles of the reformation, remaining an "unreformed Roman Catholic"
+ - With his student William Byrd, obtained from Queen Elizabeth a monopoly on the printing of music
+ - Originally wrote this tune for a setting of Psalm 67, later revised by Thomas Ravencroft in 1621
  - The name {{{caps "Tallis Canon"}}} is given because the tune can be sung as a unison canon (or "round")
 
-1. The tradition of prayer at set times of day dates back to Jewish practice and has a long history in the Catholic tradition (where it's known as "divine office" or "hours"). The practice has largely fallen out of favor in mainline churches however, with the exception of occasional vespers services. Do you see benefit to following structured prayer based on time of day? Is this something more Christians should adopt today?
+1. The tradition of prayer at set times of day dates back to Jewish practice and has a long history in the Catholic tradition (where it's known as "divine office" or "hours"). However, with the exception of occasional vespers services, the practice has largely fallen out of favor in mainline churches. Do you see benefit to following structured prayers based on time of day? Is this something more Christians should adopt today?
 {{#if notes}}
 	- The "method" in Methodism is a similar idea, using structure and systematic study to drive spiritual growth
 	- Why has it fallen out of favor?
@@ -105,7 +105,7 @@ Tune: Thomas Tallis (c.1505–1585), 1561
 
 2. Looking at the hymn as a prayer, do you see any structure in the way that prayer is constructed? Do you follow any particular pattern when praying yourself?
 {{#if notes}}
-	- The hymn both starts with and ends with praise
+	- The text both starts with and ends with praise
 		- In the first verse, the praise is an outflow of thankfulness
 			- As originally written, the first line reads "Glory to Thee, my God, this night"
 		- The final verse is a simple doxology (from Greek, literally "speech of glory")
