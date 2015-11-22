@@ -4,16 +4,21 @@ title: Addressing Others
 ## {{{hymn "Now Thank We All Our God" id="now_thank_we_all_our_god"}}}
 
 Text: Martin Rinkart (1586–1649), 1636
- - Son of a German cooper, received a scholarship to study theology at the University of Leipzig
+ - Son of a German tradesman, chorister in Leipzig's St. Thomas Church as a child
+ - Received a scholarship to study theology at the University of Leipzig
  - Passed over for a clerical appointment to his hometown, found work elsewhere as a teacher and minister
 {{#if notes}}
-    - Ostensibly, the superintendent felt he was a better musician than theologian, but he likely feared being undermined by a headstrong young man with support in the community
+	- Ostensibly, the superintendent felt he was a better musician than theologian, but he likely feared being undermined by a headstrong young man with support in the community
 {{/if}}
  - Finally invited back to serve in his hometown, Eilenburg, by its town council in 1617
  - Onset of the Thirty Years War soon after inundated the walled city of Eilenburg with displaced refugees
  - With them was brought famine and plague, with Rinkart often performing between 40-50 funerals in a day
+{{#if notes}}
+	- His wife was among those who died
+{{/if}}
  - For a time the only clergy in Eilenburg, the combination of his charity and writing soon wore him out
  - Rinkart's text "Nun danket alle Gott" was written right in the middle of the war
+ - Translated into English by Catherine Winkworth (also known for "Praise to the Lord, the Almighty", among others)
 
 Tune: Johann Crüger (1598–1662), 1647
  - Born near Brandenburg, Germany, left home to study both music and theology
@@ -22,47 +27,94 @@ Tune: Johann Crüger (1598–1662), 1647
  - Remarried shortly thereafter and went on to have fourteen more children
  - Edited and published {{{book "Praxis pietatis melica"}}} in 1647, the most widespread Lutheran hymnal of the 17th century
 
-1.
+1. It's interesting to think that this hymn most often associated with times of plenty has its roots in war and famine. What lessons can we learn from the text about how to give thanks in bad times as well as good times?
 {{#if notes}}
-	- Originally intended for use prior to mealtime
-	- Similarly to "All Praise to Thee" from last week, the last verse is a doxology
+	- Verses 1 & 2 are loosely based on scripture from the apocrypha, part of the Lutheran bible: Ecclesiasticus (or "Sirach") 50:22-24
+		- Verse 1 gives thanks for God's past works
+		- Verse 2 prays for God's future help
+	- Intended for use prior to mealtime (originally titled "Tisch-Gebetlein", "a little table prayer")
+		- This is a regular time each day, to give thanks consistently regardless of what life is like
+	- Although addressed to the church community ("now thank *we*"), the focus is on God throughout
+		- Thanks are given for God's spiritual blessings, not necessarily physical ones (his presence, comfort, guidance)
+		- These are "gifts of love" -- does that mean the gifts are given in love, or that love itself is the gift?
+	- Similarly to "All Praise to Thee" from last class, the final verse is a doxology
 		- In this case, the text is a fairly straightforward translation of the "Gloria Patri" from the Latin mass
-{{/if}}
-
-2.
-{{#if notes}}
-	-
 {{/if}}
 
 ## {{{hymn "The Church of Christ in Every Age" id="the_church_of_christ_in_every_age"}}}
 
 Text: Fred Pratt Green (1903–2000), 1969
- - Ordained in the British Methodist church in 1922, serving across England for 40 years
+ - His father was a preacher but resigned over theological disagreements
+ - First worked in his father's leather business, but felt drawn to ministry
+ - Ordained in the British Methodist church in 1928, serving across England for 40 years
  - Also wrote poetry and plays in addition to hymn texts and translations
  - Most prolific period followed, between retirement in 1969 and his last hymn in 1988
- - Writing focuses on topics, social issues, and events not covered by traditional hymns
+ - Writing focuses on topics and social issues not covered by traditional hymns
 
-Tune:  (–),
- -
+Tune: William Knapp (1698–1768), 1738
+ - Very little is known about his early life
+ - Worked as a glover to earn a living, but also served as organist in a handful of churches
+ - Known to his contemporaries as the "country psalm-singer" for his work instructing local church choirs
+ - The tune {{{caps "Wareham"}}} is named for his birthplace and home
+ - Originally written as a setting for Psalm 36 in Knapp's {{{book "Set of New Psalm Tunes and Anthems"}}}
 
-1.
-{{#if notes}}
-	-
-{{/if}}
+1. Green's text is not shy about making his point that Christ's church needs to be an *active* church. At the same time, there are a number of phrases that need closer inspection to fully comprehend. What do you understand the following phrases to mean?
+	- (Verse 1): "test its heritage"
+	{{#if notes}}
+		- Our faith is put to the test when we go out into the world
+		- This doesn't mean testing whether or not to throw out our heritage
+			- Though some may be inclined to do so, we must be "spirit-led", not cater to every whim of society
+			- At the same time, our testing also requires flexibility to meet the changing needs of the world
+	{{/if}}
+	- (Verse 1): "keep on rising from the dead"
+	{{#if notes}}
+		- Refer to Christ's ongoing sanctification -- although we are saved, we continue to "die" with sin and need constant repentance ({{{verse "Romans 8:6"}}})
+		- As in {{{verse "Luke 9:23"}}}, we must "take up our cross daily" to follow Jesus
+	{{/if}}
+	- (Verse 2): "never live before they die"
+	{{#if notes}}
+		- The implication here is that life on the street is hardly life at all
+		- The imagery is one of a life cut off short -- a flower withered before it can bloom
+		- They may also never live spiritually, if we have not shared the Good News
+	{{/if}}
+	- (Verse 4): "fever in our blood"
+	{{#if notes}}
+		- Christ here is the "great physician" who can cure the sickness of sin
+		- Why "fever" specifically? It's a self-consuming problem -- high fevers are our bodies' natural reaction to sickness, but that natural reaction can end up damaging the body itself; much as our natural tendency to sin can corrupt and destroy ourselves
+	{{/if}}
 
 ## {{{hymn "Come, Ye Thankful People, Come" id="come_ye_thankful_people_come"}}}
 
 Text: Henry Alford (1810–1871), 1844
- - Born into a family of clergy members, studied at Cambridge and was ordained in the Anglican church
+ - Born into a family with many clergy, studied at Cambridge and was ordained in the Anglican church
+ - Served for 18 years in the rural community of Wymeswold
  - Notable for his scholarly work, published a four-volume commentary on the Greek New Testament
- - Although first published in 1844, Alford revised the text significantly in 1865 and 1867
+ - Although first published in 1844, Alford revised this text significantly in 1865 and 1867
+ - This was in part due to alterations made in {{{book "Hymns Ancient and Modern"}}} that Alford was highly unhappy with
 
-Tune: George J. Elvey (1816–1893), 1856
- - Originally written for a text "Hark! The Song of Jubilee" by James Montgomery (author of "Hail to the Lord's Anointed")
- - Paired with "Come, Ye Thankful People" since the 1861 edition of {{{book "Hymns Ancient and Modern"}}}
+Tune: George Job Elvey (1816–1893), 1856
+ - Born into a musical family in Canterbury with a long history with Canterbury Cathedral
+ - Taught and worked with members of the Royal Family, eventually knighted in 1871
+ - Originally wrote this tune for a text "Hark! The Song of Jubilee" by James Montgomery (author of "Hail to the Lord's Anointed")
+ - Consistently paired with "Come, Ye Thankful People" since the 1861 edition of {{{book "Hymns Ancient and Modern"}}}
  - The name {{{caps "St. George's Windsor"}}} is taken from the chapel where Elvey was organist for 47 years
+ - Also known for his tune {{{caps "Diademata"}}} used for "Crown Him With Many Crowns"
 
-1.
+1. At first glance, this seems to be a fairly standard hymn of thanks to God, but actually the text is aimed at teaching as well as praise. What is Alford's main lesson here that he wants us to learn?
 {{#if notes}}
-	-
+	- Alford connects our earthly harvest with God's work "harvesting" his Kingdom
+	- Verse 2 quotes from {{{verse "Mark 4:28"}}}: "first the blade, and then the ear / then the full corn shall appear"
+		- God has sown the seeds of his word here - but is it us who grow the corn, or Him?
+			- We have the "firstfruits" of the Spirit ({{{verse "Romans 8:23"}}}) working among us
+		- This is also reminder that our "fruits" should be ones of "praise to yield"
+			- Recall {{{verse "James 1:17-18"}}}; we are modeling the "first fruits" of God's new creation
+			- We yield our fruits to God because the field is His, the first fruits being the finest and best
+	- The "tares" in verses 2 and 3 are weeds, referencing {{{verse "Matthew 13:24-30"}}}
+		- Maybe a little scary, this reminds us that the wicked and impure will be cast aside at the end of days
+{{/if}}
+
+2. The culmination of the hymn is found in the last verse, which mirrors the opening verse but recasts it in the light of Christ's second coming. In what way is our own thankfulness related to the return of Christ?
+{{#if notes}}
+	- God has already given us the "first fruits" of his salvation in Christ's resurrection ({{{verse "1 Corinthians 15:23"}}})
+		- We're thankful because of the promise of more to come (the resurrection of us all in the final harvest)
 {{/if}}
