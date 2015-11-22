@@ -8,7 +8,7 @@ Text: Fanny Crosby (1820–1915), 1868
  - Blind since six weeks of age, attended the New York Institution for the Blind, where she later taught
  - Began writing poetry at age eight, also studied music and memorized large portions of scripture
  - Advocated heavily for education of the blind, and became the first woman to speak in the U.S. Senate
- - Following an 1849 cholera outbreak in New York City, redidicated herself to Christ and mostly left activism
+ - Following an 1849 cholera outbreak in New York City, rededicated herself to Christ and mostly left activism
  - Wrote over 8,000 hymn texts (including "To God Be The Glory" and "Blessed Assurance") in addition to many secular songs and poems
  - About her blindness, she has said:
 
