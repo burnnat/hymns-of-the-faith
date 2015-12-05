@@ -45,7 +45,7 @@ A might-y for-tress is our God
 	4. There's a song in the air, there's a star in the sky
 {{#if notes}}
 <pre>
-   ×    ×  /   ×   ×   /      ×    ×  /   ×   ×   /
+×       ×  /   ×   ×   /      ×    ×  /   ×   ×   /
 There's a song in the air, there's a star in the sky
 </pre>
 {{/if}}
