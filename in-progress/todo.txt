@@ -1,0 +1,2 @@
+Fix fonts on website PDFs.
+Allow generating a single week.
