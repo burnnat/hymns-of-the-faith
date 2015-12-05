@@ -9,26 +9,46 @@ resources:
 	 - Texts and tunes need to share the same meter to be sung together
 	 - Even a small departure from the regular meter becomes obvious when sung
  - Meter in English poetry is derived from classical Greek and Latin poetry
-	- The ancient Greek language has no accents, so meter was defined in terms of "long" and "short" syllables
+	- The ancient Greek language has no accents, so meter used "long" and "short" syllables
 	- Languages like English use "strong" and "weak" syllables based on the stress of the words
-	- Typically "x" represents weak syllables and "/" strong syllables
+	- Typically <code>×</code> represents weak syllables and <code>/</code> strong syllables
 	- Syllables are divided into groups of two or three, called "feet", each with classical names
-		- Iambic (<pre>x/</pre>): "today"
-		- Trochaic (<pre>/x</pre>): "heaven"
-		- Dactylic (<pre>/xx</pre>): "wonderful"
-		- Anapaestic (<pre>xx/</pre>): "understand"
+		- Iambic (<code>×/</code>): "today"
+		- Trochaic (<code>/×</code>): "heaven"
+		- Dactylic (<code>/××</code>): "wonderful"
+		- Anapestic (<code>××/</code>): "understand"
  - The meter listed in the hymnal (for example, 8.6.8.6) gives the number of syllables per line
 	- Usually hymns with the same meter use the same pattern of feet, but not always
 
 1. Practice identifying the metric pattern for the following hymn titles:
 	1. Love divine, all loves excelling
-	{{#if notes}}<pre>/ x | / x | / x | / x</pre>{{/if}}
+{{#if notes}}
+<pre>
+/    ×   /     ×    /   ×   /   ×
+Love di-vine, all loves ex-cel-ling
+</pre>
+{{/if}}
 	2. Great is thy faithfulness, O God my father
-	{{#if notes}}<pre>/ x x | / x x | / x x | / x</pre>{{/if}}
+{{#if notes}}
+<pre>
+/     ×   ×    /    ×   ×    /  ×  ×  /   ×
+Great is thy faith-ful-ness, O God my fa-ther
+</pre>
+{{/if}}
 	3. A mighty fortress is our God
-	{{#if notes}}<pre>x / | x / | x / | x /</pre>{{/if}}
+{{#if notes}}
+<pre>
+×   /   ×  /    ×   /   ×   /
+A might-y for-tress is our God
+</pre>
+{{/if}}
 	4. There's a song in the air, there's a star in the sky
-	{{#if notes}}<pre>x x / | x x / | x x / | x x /</pre>{{/if}}
+{{#if notes}}
+<pre>
+   ×    ×  /   ×   ×   /      ×    ×  /   ×   ×   /
+There's a song in the air, there's a star in the sky
+</pre>
+{{/if}}
 
 ## {{{hymn "Lord, You Were Rich Beyond All Splendor" id="thou_who_wast_rich_beyond_all_splendor"}}}
 
@@ -43,9 +63,9 @@ Text: Frank Houghton (1894–1972), 1937
  - Following the beheading of two fellow missionaries in China, Houghton traveled across China to bring encouragement to each individual missionary outpost
  - This text was written during Houghton's journey, meditating on the meaning of Christ's sacrifice
  - Was later appointed Bishop in Sichuan province and led the China Inland Mission
- - Following the takeover of Chna by Mao Zedong, all missionaries in China were recalled in 1951
+ - Following the rise to power of Mao Zedong, all missionaries in China were recalled in 1951
  - Consequently, the CIM became the Overseas Missionary Fellowship but a younger colleague was tasked as general director
- - Returning to England, continued to pastor and write a number of books and hymns
+ - On returning to England, continued to pastor and write a number of books and hymns
 
 Tune: Traditional French
  - Originally a French carol with the name "Quelle est cette odeur agréable"
@@ -67,11 +87,12 @@ Tune: Traditional French
 2. Determine the meter for this hymn. Do you notice anything interesting? Does the structure of the hymn reinforce the text in any way?
 {{#if notes}}
 	- The meter here looks like this:
+<pre>
+/ × ×  / ×  / ×  / ×
+/ × ×  / ×  / ×  /
+</pre>
 
-		<pre>/ x x | / x | / x | / x</pre>
-		<pre>/ x x | / x | / x | /</pre>
-
-	- While it's not unheard of to mix duple and triple feet, it's definitely less common than having all feet the same type
+	- While it's not unheard of to mix duple and triple feet, it's definitely less common than having all the same type
 	- Although it makes the text sound a little stilted if read straight, it matches well with the tune
 		- The syncopated tune plus the unbalanced text adds enough interest without feeling forced or unnatural
 	- The repetition of the first two lines again at the end of each verse makes the simple text feel more expansive
@@ -85,15 +106,17 @@ Tune: Traditional French
 	 - Early English poetry too (in Anglo-Saxon and Middle English) focused on alliteration rather than rhyme
 	 - Only comparatively recently (late middle ages, early renaissance) did rhyme rise to prominence
  - Today we recognize many different types of rhyme:
-	- "true"/"pure"/"perfect" rhyme: "cat" and "hat"
-	- "identical" rhyme: "leave" and "believe" or "there" and "their"
-	- "slant"/"false"/"imperfect" rhyme: "soul" and "all"
-	- "sight"/"eye" rhyme: "love" and "prove"
+	- true/pure/perfect rhyme: "cat" and "hat"
+	- identical rhyme: "leave" and "believe" or "there" and "their"
+	- slant/false/imperfect rhyme: "soul" and "all"
+	- sight/eye rhyme: "love" and "prove"
 	- assonance: "flesh" and "head"
  - Many people decry the loss of pure rhymes in modern music:
 	> If [Watts, Wesley, and Crosby] could churn out thousands upon thousands of perfectly rhymed hymns, surely a gifted contemporary writer can get through at least a few original contributions without having to fall back on assonance.
+	>
+	> (Source: http://yankeegospelgirl.com/2014/06/03/on-new-hymns-and-perfect-rhymes/)
  - In reality, many of the great hymnwriters (especially Watts!) used their share of slant rhymes and sight rhymes
-	- Some hymns, such as "O Come All Ye Faithful", don't even use any rhyme at all
+	- Some hymns, such as "O Come All Ye Faithful", don't use any rhyme at all
  - The "rhyme scheme" of a hymn tells which lines in a verse rhyme with each other. For a four-line verse:
 	 - ABAB indicates lines 1 and 3 rhyme and 2 and 4 rhyme
 	 - AABB indicates lines 1 and 2 rhyme and 3 and 4 rhyme
@@ -125,7 +148,7 @@ Tune: Traditional American, 1813
 	- "Flaming tongues" is appropriate for Pentecost, when the disciples encounter the Holy Spirit as tongues of fire
 		- "Tongues" here is a double meaning, connecting Pentecost with literal tongues singing
 		- The imagery is also similar to the praises sung in Revelation
-	- "Ebenezer" ("stone of help" in Hebrew) comes from {{{verse "1 Samuel 7:12"}}}, where God helped Israel defeat the Palestines.
+	- "Ebenezer" ("stone of help" in Hebrew) comes from {{{verse "1 Samuel 7:12"}}}, where God helped Israel defeat the Philistines.
 		- Serves as a reminder of the good things God has done, that he will remain faithful in the future
 		- Also a reminder of our own powerlessness, as the Israelites were unable to reach victory on their own
 	- "Wandering from the fold" pictures God as our shepherd (see {{{verse "Psalm 23"}}})
@@ -140,7 +163,7 @@ Tune: Traditional American, 1813
 2. Look at the use of rhyme in the text, both true rhyme and slant rhymes. Does the inclusion of "false" rhymes hurt the text at all? Also consider the original text compared to its "modern" version - why do you think sections of verses 2, 3, and 5 are routinely omitted?
 {{#if notes}}
 	- The rhyme scheme here is ABAB CDCD
-	- The slant rhymes appear at the beginning rather than end of verses (with the possible exception of "God"/"blood")
+	- The slant rhymes appear at the beginning rather than end of verses (with the possible exception of "God" / "blood")
 		- This maintains the feeling of "closure" given by true rhymes
 	- The omitted lines in verse 2-3 have some borderline questionable theology
 		- Phrases like "released from flesh and sin", "death shall loose me" have some Gnostic overtones
