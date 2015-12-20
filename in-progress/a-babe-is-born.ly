@@ -39,7 +39,13 @@ verseOne = \lyricmode
   A babe is born, all of a maid,
   to bring sal -- va -- tion un -- to us:
   no more are we to sing a -- fraid.
-  Ve -- ni, Cre -- a -- tor Spi -- ri -- tus.
+}
+
+latinOne = \lyricmode
+{
+  \override LyricText #'font-shape = #'italic
+  Ve -- ni, Cre -- a -- tor Spi -- ri --
+  \markup { \concat { "tus." \normal-text{ \super 1 } } }
 }
 
 verseTwo = \lyricmode
@@ -48,7 +54,13 @@ verseTwo = \lyricmode
   At Beth -- le -- hem, that bless -- ed place,
   the child of bliss then born He was;
   Him aye to serve, God give us grace,
-  O Lux be -- a -- ta Trin -- i -- tas.
+}
+
+latinTwo = \lyricmode
+{
+  \override LyricText #'font-shape = #'italic
+  O Lux be -- a -- ta Trin -- i --
+  \markup { \concat { "tas." \normal-text{ \super 2 } } }
 }
 
 verseThree = \lyricmode
@@ -57,7 +69,13 @@ verseThree = \lyricmode
   There came three kings out of the east,
   to wor -- ship there that King so free
   with gold and myrrh and frank -- in -- cense,
-  A so -- lis or -- tus car -- di -- ne.
+}
+
+latinThree = \lyricmode
+{
+  \override LyricText #'font-shape = #'italic
+  A so -- lis or -- tus car -- di --
+  \markup { \concat { "ne." \normal-text{ \super 3 } } }
 }
 
 verseFour = \lyricmode
@@ -66,18 +84,48 @@ verseFour = \lyricmode
   
   The shep -- herds heard an an -- gel cry,
   O mer -- ry song that night sang he,
-  Why are ye all so sore aghast,
-  Jam lu -- cis or -- to si -- de -- re?
+  Why are ye all so sore a -- ghast,
 }
 
-verseFour = \lyricmode
+latinFour = \lyricmode
+{
+  \override LyricText #'font-shape = #'italic
+  Jam lu -- cis or -- to si -- de --
+  \markup { \concat { "re?" \normal-text{ \super 4 } } }
+}
+
+verseFive = \lyricmode
 {
   \set stanza = "5. "
   
   The an -- gel came down with a cry,
   a fair and joy -- ful song sang he,
   and in the wor -- ship of that child,
-  Glo -- ri -- a Ti -- bi Do -- mi -- ne.
+}
+
+latinFive = \lyricmode
+{
+  \override LyricText #'font-shape = #'italic
+  Glo -- ri -- a Ti -- bi Do -- mi --
+  \markup { \concat { "ne." \normal-text{ \super 5 } } }
+}
+
+\markup {
+  \footnote "" \concat {
+    \super 1 " Come, creator spirit"
+  }
+  \footnote "" \concat {
+    \super 2 " O blessed light of the Trinity"
+  }
+  \footnote "" \concat {
+    \super 3 " From the place of the rising sun"
+  }
+  \footnote "" \concat {
+    \super 4 " The star of light now having risen"
+  }
+  \footnote "" \concat {
+    \super 5 " Glory to you, O Lord"
+  }
 }
 
 \score
@@ -140,6 +188,7 @@ verseFour = \lyricmode
       \new Lyrics = sopranosTwo { s1 }
       \new Lyrics = sopranosThree { s1 }
       \new Lyrics = sopranosFour { s1 }
+      \new Lyrics = sopranosFive { s1 }
     >>
     
     
@@ -194,10 +243,26 @@ verseFour = \lyricmode
         }
       }
     >>
-    \context Lyrics = sopranos \lyricsto sopranos \verseOne
-    \context Lyrics = sopranosTwo \lyricsto sopranos \verseTwo
-    \context Lyrics = sopranosThree \lyricsto sopranos \verseThree
-    \context Lyrics = sopranosFour \lyricsto sopranos \verseFour
+    \context Lyrics = sopranos \lyricsto sopranos {
+      \verseOne
+      \latinOne
+    }
+    \context Lyrics = sopranosTwo \lyricsto sopranos {
+      \verseTwo
+      \latinTwo
+    }
+    \context Lyrics = sopranosThree \lyricsto sopranos {
+      \verseThree
+      \latinThree
+    }
+    \context Lyrics = sopranosFour \lyricsto sopranos {
+      \verseFour
+      \latinFour
+    }
+    \context Lyrics = sopranosFive \lyricsto sopranos {
+      \verseFive
+      \latinFive
+    }
   >>
   
   \layout
