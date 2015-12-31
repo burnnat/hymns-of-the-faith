@@ -12,12 +12,17 @@ var sass = require('metalsmith-sass');
 var Handlebars = require('./lib/handlebars');
 var customMetadata = require('./lib/metadata');
 var customCollections = require('./lib/collections');
+var changes = require('./lib/changes');
 var lilypond = require('./lib/lilypond');
 var pdf = require('./lib/pdf');
 
-Metalsmith(__dirname)
+var metalsmith = Metalsmith(__dirname)
 	.source('content')
-	.destination('build')
+	.destination('build');
+
+changes.setup(metalsmith);
+
+metalsmith
 	.use(customMetadata)
 	.use(rename('session-*/week-*/notes.md', 'leader'))
 	.use(rename('session-*/week-*/notes.md', 'participant'))
