@@ -84,7 +84,7 @@ Metalsmith(__dirname)
 			)
 	)
 	.use(sass({ outputStyle: 'compressed' }))
-	.use(lilypond)
+	.use(lilypond(path.join(__dirname, 'lily')))
 	.use(pdf)
 	.build(function(err, files) {
 		if (err) {

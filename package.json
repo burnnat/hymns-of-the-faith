@@ -17,6 +17,7 @@
 	"devDependencies": {
 		"async": "~1.4.2",
 		"handlebars": "~3.0.3",
+		"jsonfile": "~2.2.3",
 		"lilynode": "~0.4.1",
 		"lodash": "~3.10.1",
 		"metalsmith": "~2.0.1",
