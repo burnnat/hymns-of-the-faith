@@ -1,5 +1,7 @@
 \version "2.18.2"
 
+#(set! paper-alist (cons '("half-letter" . (cons (* 8.5 in) (* 6.5 in))) paper-alist))
+
 \paper
 {
   #(set-paper-size "letter")
@@ -18,10 +20,17 @@
   tagline = ##f
 }
 
+linebreak =
+  #(define-music-function
+    (parser location)
+    ()
+    "Force a linebreak at a particular point"
+    #{ \bar "" \break #})
+
 #(define-markup-command
   (poet layout props contents)
   (markup?)
-	"Format a poet definition"
+  "Format a poet definition"
   (interpret-markup layout props
     (markup (#:italic "Text:") contents)))
 
@@ -31,6 +40,13 @@
   "Format a composer definition"
   (interpret-markup layout props
     (markup (#:italic "Tune:") contents)))
+
+#(define-markup-command
+  (harmonizer layout props contents)
+  (markup?)
+  "Format a harmonizer definition"
+  (interpret-markup layout props
+    (markup (#:italic "Harmonized:") contents)))
 
 globalDefaults =
 {
@@ -44,6 +60,7 @@ globalDefaults =
   \context
   {
     \Score
+    \omit BarNumber
     \override LyricText #'font-size = #-1
     \override LyricHyphen #'minimum-distance = #1
     \override LyricSpace #'minimum-distance = #0.8

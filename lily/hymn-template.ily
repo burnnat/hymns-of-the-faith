@@ -4,10 +4,11 @@
     \new Staff
     <<
       \new Voice = "sopranos" {
+        \globalDefaults
         \global
         \voiceOne
         \soprano
-        
+
         \bar "|."
       }
 
@@ -25,6 +26,7 @@
       \clef bass
       \new Voice = "tenors"
       {
+        \globalDefaults
         \global
         \voiceThree
         \tenor
