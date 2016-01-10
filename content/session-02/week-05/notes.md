@@ -3,6 +3,8 @@ title: Common Meter
 resources:
   - name: God Moves in a Mysterious Way
     file: god-moves-dundee.pdf
+  - name: Psalm 90
+    file: psalm-90.pdf
 ---
 ## {{{hymn "O God, Our Help In Ages Past" id="our_god_our_help_in_ages_past"}}}
 
