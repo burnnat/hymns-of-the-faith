@@ -1,6 +1,3 @@
----
-format: png
----
 \include "meter.ily"
 
 \paper {

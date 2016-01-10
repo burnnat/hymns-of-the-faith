@@ -1,6 +1,3 @@
----
-format: png
----
 \include "example.ily"
 
 \relative c' {
