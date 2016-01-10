@@ -13,6 +13,7 @@ var Handlebars = require('./lib/handlebars');
 var customMetadata = require('./lib/metadata');
 var customCollections = require('./lib/collections');
 var changes = require('./lib/changes');
+var exclude = require('./lib/exclude');
 var lilypond = require('./lib/lilypond');
 var pdf = require('./lib/pdf');
 
@@ -24,6 +25,7 @@ changes.setup(metalsmith);
 
 metalsmith
 	.use(customMetadata)
+	.use(exclude)
 	.use(rename('session-*/week-*/notes.md', 'leader'))
 	.use(rename('session-*/week-*/notes.md', 'participant'))
 	.use(
