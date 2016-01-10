@@ -27,8 +27,6 @@ global =
 {
   \time 4/4
   \key d \major
-
-  #(set-accidental-style 'modern-voice)
 }
 
 stanzas = <<

@@ -34,7 +34,7 @@ stanzas = <<
   \new Lyrics \lyricsto "sopranos" {
     \set stanza = "3. "
 
-    Ye fear -- ful saints, fresh courage take;
+    Ye fear -- ful saints, fresh cour -- age take;
     the clouds ye so much dread
     are big with mer -- cy and shall break
     in bless -- ings on your head.
@@ -63,7 +63,7 @@ stanzas = <<
 
     Blind un -- be -- lief is sure to err
     and scan his work in vain;
-    God is his own in -- ter -- preter,
+    God is his own in -- ter -- pre -- ter,
     and he will make it plain.
   }
 >>

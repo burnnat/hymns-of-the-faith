@@ -50,6 +50,8 @@ linebreak =
 
 globalDefaults =
 {
+  #(set-accidental-style 'modern-voice)
+
   \numericTimeSignature
   \override Rest #'direction = #'0
   \override MultiMeasureRest #'staff-position = #0

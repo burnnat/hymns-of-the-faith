@@ -2,11 +2,12 @@
 title: Common Meter
 resources:
   - name: God Moves in a Mysterious Way
-    file: god-moves.pdf
+    file: god-moves-dundee.pdf
 ---
 ## {{{hymn "O God, Our Help In Ages Past" id="our_god_our_help_in_ages_past"}}}
 
 Text: Isaac Watts (1674–1748), 1719
+ - Son of committed Nonconformists in England (protestants who refused to join the Church of England)
  - Began writing hymns at 17, being dissatisfied with the strict psalm translations in use at the time
  - Watts aimed to recast the psalms in a modern light to make them more relevant and approachable
  - As he wrote to the famous Boston preacher Cotton Mather in 1717:
@@ -17,9 +18,9 @@ Text: Isaac Watts (1674–1748), 1719
  - This hymn is from that collection, based on Psalm 90:1-5
 
 Tune: William Croft (1678–1727), 1708
- - A prominent church musician in his time, Croft served as organist in a number of London churches, including Westminster Abbey
- - Also a composer of instrumental music, he wrote some for the funeral of Queen Anne and the coronation of King George I
- - This tune, {{{tune "St. Anne"}}} is believed to have been written during his time at St. Anne's Church from 1700-1711
+ - A prominent church musician in his time, Croft served as organist in a number of London churches, including the famed Westminster Abbey
+ - Also a composer of instrumental music, he wrote some for the funeral of Queen Anne and the coronation of her successor, King George I
+ - This tune, {{{caps "St. Anne"}}} is believed to have been written during his time at St. Anne's Church from 1700–1711
  - First published in {{{book "A Supplement to the New Version of Psalms"}}}, paired with a setting of Psalm 42
  - Later matched with "O God, Our Help" in {{{book "Hymns Ancient and Modern"}}} in 1861
 
@@ -55,10 +56,11 @@ Text: William Cowper (1731–1800), 1773
  - Youngest child of an Anglican minister, his three older siblings and his mother all died before he was 7
  - Although educated to be an attorney, Cowper suffered from severe depression and never practiced law
  - Fear of examination for a clerkship in the House of Lords led to an unsuccessful suicide attempt in 1763
- - Committed to an asylum run by a Christian doctor, he began to work out of his depression and committed himself to Christ
- - He lived with church friends following his discharge, moving with them to Olney where John Newton was pastoring
+ - Committed to an asylum run by a Christian doctor, he began to work out of his depression and renewed his personal commitment to Christ
+ - He lived with church friends following his discharge, moving with them to Olney where John Newton (author of "Amazing Grace") was serving as a pastor
  - There, he functioned as assistant to Newton and collaborated on the collection of {{{book "Olney Hymns"}}}, published in 1779 with 68 hymns by Cowper included
- - This hymn was written just before another bout of depression and again attempted suicide later the same year
+ - This hymn was written just before Cowper was struck by another bout of depression
+ - He attempted suicide again later the same year, but through care of friends continued to survive to the age of 69
 
 Tune: Thomas Ravenscroft, 1615
  - First published in the 1615 {{{book "Scottish Psalter"}}} as one of a dozen "common tunes", without any particular text
@@ -93,3 +95,33 @@ Tune: Thomas Ravenscroft, 1615
 		- Cowper suggests that we may not understand God's plan *now*, but in the end we will
 		- Watts gives a far more unquestioning faith - simply remaining resolute and trusting God to save us in the end
 {{/if}}
+
+## Exercises
+
+Stanzas in common meter follow the pattern 8.6.8.6, with iambic feet in groups of 4 and 3. For example:
+
+<pre>
+×    /     ×   /    ×    /     ×     /
+O   God,  our help in    ag -  es   past
+God moves in   a   mys - te - rious way
+
+×    /     ×    /     ×     /
+and hope  for  years to    come
+his won - ders  to   per - form
+</pre>
+
+1. Complete a line of 8 syllables following the common meter pattern, that starts with the following:
+<pre>
+| ×     /  ×    /          ×           /           ×           /
+|
+| To - day at church, ___________ ___________ ___________ ___________
+</pre>
+
+2. Continue on to a second line of 6 syllables (without worrying about rhyme):
+<pre>
+|      ×           /           ×           /           ×           /
+|
+| ___________ ___________ ___________ ___________ ___________ ___________
+</pre>
+
+3. Now follow the same process to write two lines of common meter about one of the fruits of the spirit (love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control):
