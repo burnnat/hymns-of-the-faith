@@ -44,7 +44,7 @@ Tune: William Croft (1678–1727), 1708
 	- Theologically, "Our God" implies He's not "their God"
 		- This fits with the Old Testament pattern of "the Lord *our* God", the God of Israel who will save His chosen people
 			- Given that the hymn is a paraphrase of Psalm 90, this may be an appropriate choice
-			- This psalm specifically, scholars believe, was written after the death of King Josiah, urging the Hebrews to repentence and reminding them of God's steadfast help through dark times
+			- This psalm specifically, scholars believe, was written after the death of King Josiah, urging the Hebrews to repentance and reminding them of God's steadfast help through dark times
 		- Post-reformation, it sounds reminiscent of Calvin's concept of the "elect", which is likely why Wesley revised it
 			- Wesley would rather emphasize the grace of God being open to everyone, not just "us"
 		- At the time of Watts' writing, the impending death of Queen Anne without an heir meant great uncertainty about whether Britain would remain Protestant or have a Roman Catholic come to power (which, in the past, had meant persecution of the other group)
@@ -101,29 +101,12 @@ Tune: Thomas Ravenscroft, 1615
 ## Exercises
 
 Stanzas in common meter follow the pattern 8.6.8.6, with iambic feet in groups of 4 and 3. For example:
-
-<pre>
-×    /     ×   /    ×    /     ×     /
-O   God,  our help in    ag -  es   past
-God moves in   a   mys - te - rious way
-
-×    /     ×    /     ×     /
-and hope  for  years to    come
-his won - ders  to   per - form
-</pre>
+<img src="common-meter.png" />
 
 1. Complete a line of 8 syllables following the common meter pattern, that starts with the following:
-<pre>
-| ×     /  ×    /          ×           /           ×           /
-|
-| To - day at church, ___________ ___________ ___________ ___________
-</pre>
+<img src="exercise-1.png" />
 
 2. Continue on to a second line of 6 syllables (without worrying about rhyme):
-<pre>
-|      ×           /           ×           /           ×           /
-|
-| ___________ ___________ ___________ ___________ ___________ ___________
-</pre>
+<img src="exercise-2.png" />
 
 3. Now follow the same process to write two lines of common meter about one of the fruits of the spirit (love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control):

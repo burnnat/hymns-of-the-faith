@@ -1,4 +1,4 @@
-\version "2.18.2"
+\include "common.ily"
 
 #(set! paper-alist (cons '("half-letter" . (cons (* 8.5 in) (* 6.5 in))) paper-alist))
 
