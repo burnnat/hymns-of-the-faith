@@ -9,6 +9,7 @@ exampleHeight = #(define-scheme-function
 
 \paper {
   #(set-paper-size "example")
+  left-margin = 2
   ragged-right = ##f
   print-page-number = ##f
 }
