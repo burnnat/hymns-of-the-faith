@@ -89,10 +89,10 @@ firum foldan, frea ælmihtig.
 Text: “All Glory, Laud, and Honor” (7.6.7.6 D)
 
 Tune: {{{caps "St. Theodulph"}}}
-<img src="st-theodulph.svg" />
+<img class="example" src="st-theodulph.svg" />
 
 Tune: {{{caps "St. Kevin"}}}
-<img src="st-kevin.svg" />
+<img class="example" src="st-kevin.svg" />
 
 Tune: {{{caps "Munich"}}}
-<img src="munich.svg" />
+<img class="example" src="munich.svg" />
