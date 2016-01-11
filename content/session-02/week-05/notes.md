@@ -22,7 +22,7 @@ Text: Isaac Watts (1674–1748), 1719
 Tune: William Croft (1678–1727), 1708
  - A prominent church musician in his time, Croft served as organist in a number of London churches, including the famed Westminster Abbey
  - Also a composer of instrumental music, he wrote some for the funeral of Queen Anne and the coronation of her successor, King George I
- - This tune, {{{caps "St. Anne"}}} is believed to have been written during his time at St. Anne's Church from 1700–1711
+ - This tune, {{{caps "St. Anne"}}}, is believed to have been written during his time at St. Anne's Church from 1700–1711
  - First published in {{{book "A Supplement to the New Version of Psalms"}}}, paired with a setting of Psalm 42
  - Later matched with "O God, Our Help" in {{{book "Hymns Ancient and Modern"}}} in 1861
 
@@ -82,7 +82,7 @@ Tune: Thomas Ravenscroft, 1615
 		- Stanza 6: Unbelief is "literally" blind, unable to read God's promises correctly
 {{/if}}
 
-2. This hymn deals with the same topic as "O God, Our Help In Ages Past" - seeking God in times of trouble - but takes a slightly different approach. What differences and similarities do you see between the two hymns? In what situations would one be more appropriate than the other?
+2. This hymn deals with the same topic as "O God, Our Help In Ages Past" -- seeking God in times of trouble -- but takes a slightly different approach. What differences and similarities do you see between the two hymns? In what situations would one be more appropriate than the other?
 {{#if notes}}
 	- Stylistically, Cowper is reminiscent of Newton's "Amazing Grace":
 		- The hymn texts use a fairly simple vocabulary
@@ -101,12 +101,15 @@ Tune: Thomas Ravenscroft, 1615
 ## Exercises
 
 Stanzas in common meter follow the pattern 8.6.8.6, with iambic feet in groups of 4 and 3. For example:
-<img src="common-meter.svg" />
+
+<img class="example" src="common-meter.svg" />
 
 1. Complete a line of 8 syllables following the common meter pattern, that starts with the following:
-<img src="exercise-1.svg" />
+
+	<img class="example" src="exercise-1.svg" />
 
 2. Continue on to a second line of 6 syllables (without worrying about rhyme):
-<img src="exercise-2.svg" />
+
+	<img class="example" src="exercise-2.svg" />
 
 3. Now follow the same process to write two lines of common meter about one of the fruits of the spirit (love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control):
