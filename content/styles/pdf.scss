@@ -1,6 +1,24 @@
+@import 'font-face';
+
+@include font-face('Trebuchet MS', 'trebuchet-ms-regular');
+@include font-face('Trebuchet MS', 'trebuchet-ms-italic') {
+	font-style: italic;
+}
+@include font-face('Trebuchet MS', 'trebuchet-ms-bold') {
+	font-weight: bold;
+}
+@include font-face('Trebuchet MS', 'trebuchet-ms-bold-italic') {
+	font-style: italic;
+	font-weight: bold;
+}
+
+$p-margin: 6px;
+$li-indent: 30px;
+
 body {
 	font-family: Arial;
-	font-size: 15px;
+	font-size: 11px;
+	line-height: 1.2em;
 }
 
 .title, .subtitle {
@@ -8,25 +26,25 @@ body {
 }
 
 h1 {
-	font-size: 16px;
+	font-size: 12px;
 	font-weight: bold;
 	margin: 18px 0 0 0;
 }
 
 h2 {
 	font-family: 'Trebuchet MS';
-	font-size: 21px;
+	font-size: 16px;
 	font-weight: normal;
 	margin: 12px 0 0 0;
 }
 
 h3 {
-	font-size: 15px;
+	font-size: 12px;
 	font-weight: normal;
 }
 
 p {
-	margin: 8px 0;
+	margin: $p-margin 0;
 }
 
 a {
@@ -35,7 +53,13 @@ a {
 }
 
 blockquote {
-	font-size: 13px;
+	margin: $p-margin ($li-indent - 10px);
+	font-size: 10px;
+}
+
+ol, ul {
+	margin: $p-margin 0;
+	padding-left: $li-indent;
 }
 
 ol ul {
@@ -47,7 +71,7 @@ ol ul ul {
 }
 
 table {
-	font-size: 13px;
+	font-size: 10px;
 	margin: 0 auto;
 	border-collapse: collapse;
 }

@@ -1,14 +1,7 @@
 @import 'cayman';
+@import 'font-face';
 
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700);
-
-@mixin font-face($name, $filename) {
-	@font-face {
-		font-family: $name;
-		src: url('../fonts/#{$filename}.woff') format('woff');
-		@content;
-	}
-}
 
 @include font-face('Libertine', 'libertine-regular');
 @include font-face('Libertine', 'libertine-italic') {

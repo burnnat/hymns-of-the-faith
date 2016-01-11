@@ -101,12 +101,12 @@ Tune: Thomas Ravenscroft, 1615
 ## Exercises
 
 Stanzas in common meter follow the pattern 8.6.8.6, with iambic feet in groups of 4 and 3. For example:
-<img src="common-meter.png" />
+<img src="common-meter.svg" />
 
 1. Complete a line of 8 syllables following the common meter pattern, that starts with the following:
-<img src="exercise-1.png" />
+<img src="exercise-1.svg" />
 
 2. Continue on to a second line of 6 syllables (without worrying about rhyme):
-<img src="exercise-2.png" />
+<img src="exercise-2.svg" />
 
 3. Now follow the same process to write two lines of common meter about one of the fruits of the spirit (love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control):
