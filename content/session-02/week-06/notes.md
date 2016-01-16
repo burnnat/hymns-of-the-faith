@@ -1,0 +1,105 @@
+---
+title: Common Meter Variants
+resources:
+  - name: Eternal God, Whose Power Upholds
+    file: eternal-god.pdf
+  - name: Hail to the Lord's Anointed (Original Text)
+    file: hail-to-the-lords-anionted-original.pdf
+---
+## {{{hymn "Eternal God, Whose Power Upholds" id="eternal_god_whose_power_upholds"}}}
+
+Text: Henry Hallam Tweedy (1868–1953), 1929
+ - Born in Binghamton, New York and trained as a Congregationalist minister at Yale University and Union Theological Seminary
+ - Pastored churches in Utica, New York and Bridgeport, Connecticut
+ - Became Professor of Practical Theology at the Yale Divinity School in 1909
+ - Studied hymns and their use in worship as part of his professorship, leading him to write his own hymns
+ - This text was submitted to a 1928 contest by Hymn Society of America for the "best missionary hymn", and eventually won
+ - Later edited the hymnal {{{book "Christian Worship and Praise"}}}, published in 1939
+
+Tune: Traditional English, 1708
+ - Originally a folk tune common sung as a ballad, "The Ploughboy's Dream"
+ - Harmonized and arranged into a hymn tune by Ralph Vaughan Williams in 1906
+ - Its initial publication in {{{book "The English Hymnal"}}} used it for "O Little Town of Bethlehem"
+ - Today we mainly know it from its association with "I Sing the Almighty Power of God"
+ - The name {{{caps "Forest Green"}}} comes from the name of the village in Surrey, England where Vaughan Williams heard it sung
+
+1. Although explicitly written as a "missionary hymn", the text is really applicable to all Christians everywhere. What does this hymn teach you about how to share the gospel in your own personal life?
+{{#if notes}}
+	- Verse 1: there are no racial or other divisions in God -- we are all heirs of Christ (see {{{verse "Galatians 3:28-29"}}})
+	- Verse 2: the potential for love exists in every heart, there is no one beyond hope. It's the work of the Holy Spirit, not us, that changes hearts and brings peace.
+	- Verse 3: as God gave us our minds and intellect, education and teaching are necessary parts of evangelism. A truly living faith *must* be an informed faith that guides everything we do.
+	- Verse 4: God is revealed not just in the beauty of nature, but in our own creations as well. As Christians, our lives should be made beautiful in every way, beyond pure aesthetics.
+	- Verse 5: to truly spread the gospel, we must live as Christ lived and follow his example in everything we do.
+		- "Till Christ has formed in all mankind" -- are we forming Him in our lives, or is He forming us?
+{{/if}}
+
+2. While {{{caps "Forest Green"}}} is a popular tune for this hymn, it's by no means the only choice and many hymnals use other tunes instead. Do you think this tune is a good fit for the text? Why or why not? What about the tune {{{caps "Materna"}}} (usually seen with "O Beautiful For Spacious Skies")?
+{{#if notes}}
+	- {{{caps "Forest Green"}}} is an upbeat tune that retains much of its "folk" feel.
+		- The text too is upbeat, looking forward to Christ bringing about his church on earth.
+		- The consistent beat has a "strolling" feel to it, as if we were walking out to spread the Good News.
+		- On the other hand, maybe the tune is *too* sickly sweet for a text that talks about "greed and hate", "gloom of error's night", and "sinfulness that shuts our hearts"
+	- {{{caps "Materna"}}} was originally written for a text "O Mother, Dear Jerusalem"
+		- These days, of course, it's really only seen in a patriotic context for parades, etc.
+		- This tune would lend a more majestic feel to the text, if people can forget the usual "America" words.
+		- But perhaps the patriotic overtones are too much for it to be truly effective.
+	- There are many other tune choices besides these, one of which is {{{caps "Ellacombe"}}} -- interesting because of its use for both 8.6.8.6D and 7.6.7.6D texts (see "Hail To The Lord's Anointed").
+{{/if}}
+
+## {{{hymn "Hail To The Lord's Anointed" id="hail_to_the_lords_anointed"}}}
+
+Text: James Montgomery (1771–1854), 1821
+ - Son of a missionary couple, he attended a Moravian boarding school in England while his parents were overseas
+ - There he was inspired by the Moravian hymn tradition to write his own hymns and poetry
+ - Ran away at 16 to find work in the newspaper industry, where advocated foreign missions, abolition of the slave trade, and other various social and political causes
+ - This text was written as a loose paraphrase of Psalm 72, for use at Christmas
+ - Montgomery recited the text at a missionary meeting in 1822, where the Methodist theologian Adam Clarke heard it and included it in his 1822 {{{book "Commentary on the Bible"}}}
+ - "Angels from the Realms of Glory" and "Go to Dark Gethsemane" are two of his other well-known hymns
+
+Tune: Traditional German, 1784
+ - First published in 1784 in the chapel hymnal for the Duke of Würtemberg (the {{{book "Gesangbuch der Herzogl"}}})
+ - Through the early 1800s the tune was used in a number of German hymnals, with various modifications
+ - Its first use with an English hymn is in the 1868 {{{book "Hymns Ancient and Modern"}}}, for the children's hymn "Come, Sing with Holy Gladness"
+ - The harmonization there by William Monk (also known for {{{caps "Eventide"}}}, tune for "Abide With Me", among others) is the one mainly used today
+ - Also commonly paired with "Hosanna, Loud Hosanna" (another children's hymn) and "O Church of God, United"
+
+1. Isaac Watts is generally credited with opening the door to psalm "paraphrases" rather than the strict translations in use at the time. Montgomery's paraphrase, however, is far looser than any of Watts' (including his own paraphrase of Psalm 72, "Jesus Shall Reign Where'er the Sun"). Read the text of Psalm 72. Do you think Montgomery strayed too far from the scripture?
+{{#if notes}}
+	- Verse 1:
+		- "Great David's greater son", {{{verse "Psalm 72:1"}}} ("royal son")
+		- "break oppression", {{{verse "Psalm 72:4"}}} ("crush the oppressor")
+		- "rule in equity", {{{verse "Psalm 72:2"}}} ("may he judge ... with justice")
+	- Verse 2:
+		- The word "succor" means "aid", "assistance", or "support"
+		- "to help the poor and needy", {{{verse "Psalm 72:12-13"}}}
+		- "precious in his sight", {{{verse "Psalm 72:14"}}} ("precious is their blood in his sight")
+	- Verse 3:
+		- "on the mountains ... righteousness", {{{verse "Psalm 72:3"}}}
+		- "descend like showers", {{{verse "Psalm 72:6"}}}
+	- Verse 4:
+		- "prayer unceasing", {{{verse "Psalm 72:15"}}} ("prayer be made from him continually")
+		- "name endure forever", {{{verse "Psalm 72:17"}}} and {{{verse "Psalm 72:19"}}}
+{{/if}}
+
+2. Three verses of the original text, which are usually omitted from hymnals, mention nations from around the world paying tribute to Christ. How do they compare to the "missionary" lessons of "Eternal God"? Do you think hymnal editors are right to exclude them?
+{{#if notes}}
+	- Montgomery's childhood with missionary parents and his later advocacy for mission work undoubtedly informed his focus on the global nature of Christ's kingdom
+	- The biblical basis for these verses is in {{{verse "Psalm 72:8-11"}}}
+	- Montgomery's verses tell us that all nations will come to Christ; Tweedy's verses tell us *how*
+	- The references in the text are a little stereotypical and not at all "politically correct"
+		- "From Greenland's Icy Mountains" is a similar text written two years earlier that has suffered much the same fate today
+{{/if}}
+
+## Exercises
+
+The hymn "Eternal God, Whose Power Upholds" is written in common meter doubled (CMD, or 8.6.8.6D), exactly the same as common meter but with two verses combined into one. "Hail to the Lord's Anointed", on the other hand, drops a syllable in the first and third lines to make it 7.6.7.6D. Compare:
+
+<img class="example" src="8.6.8.6.svg" />
+
+<img class="example" src="7.6.7.6.svg" />
+
+1. Ignoring rhyme, rewrite the first two lines of "Eternal God" to fit the 7.6.7.6 pattern:
+
+	<img class="example" src="exercise-1.svg" />
+
+3. Now use the same meter to write two lines about one of the fruits of the spirit (love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control). If you like, you can use your common meter exercise from last week as a starting point.
