@@ -4,7 +4,9 @@ resources:
   - name: Eternal God, Whose Power Upholds
     file: eternal-god.pdf
   - name: Hail to the Lord's Anointed (Original Text)
-    file: hail-to-the-lords-anionted-original.pdf
+    file: hail-to-the-lords-anointed-original.pdf
+  - name: Psalm 72
+    file: psalm-72.pdf
 ---
 ## {{{hymn "Eternal God, Whose Power Upholds" id="eternal_god_whose_power_upholds"}}}
 
@@ -17,9 +19,9 @@ Text: Henry Hallam Tweedy (1868–1953), 1929
  - Later edited the hymnal {{{book "Christian Worship and Praise"}}}, published in 1939
 
 Tune: Traditional English, 1708
- - Originally a folk tune common sung as a ballad, "The Ploughboy's Dream"
+ - Originally a folk tune commonly sung as a ballad, "The Ploughboy's Dream"
  - Harmonized and arranged into a hymn tune by Ralph Vaughan Williams in 1906
- - Its initial publication in {{{book "The English Hymnal"}}} used it for "O Little Town of Bethlehem"
+ - Initial publication in {{{book "The English Hymnal"}}} used it for "O Little Town of Bethlehem"
  - Today we mainly know it from its association with "I Sing the Almighty Power of God"
  - The name {{{caps "Forest Green"}}} comes from the name of the village in Surrey, England where Vaughan Williams heard it sung
 
@@ -46,12 +48,14 @@ Tune: Traditional English, 1708
 	- There are many other tune choices besides these, one of which is {{{caps "Ellacombe"}}} -- interesting because of its use for both 8.6.8.6D and 7.6.7.6D texts (see "Hail To The Lord's Anointed").
 {{/if}}
 
+{{#if notes}}{{{pagebreak}}}{{/if}}
+
 ## {{{hymn "Hail To The Lord's Anointed" id="hail_to_the_lords_anointed"}}}
 
 Text: James Montgomery (1771–1854), 1821
- - Son of a missionary couple, he attended a Moravian boarding school in England while his parents were overseas
+ - Son of a missionary couple, attended a Moravian boarding school in England while his parents were overseas
  - There he was inspired by the Moravian hymn tradition to write his own hymns and poetry
- - Ran away at 16 to find work in the newspaper industry, where advocated foreign missions, abolition of the slave trade, and other various social and political causes
+ - Ran away at 16 to find work in the newspaper industry, where he advocated foreign missions, abolition of the slave trade, and other various social and political causes
  - This text was written as a loose paraphrase of Psalm 72, for use at Christmas
  - Montgomery recited the text at a missionary meeting in 1822, where the Methodist theologian Adam Clarke heard it and included it in his 1822 {{{book "Commentary on the Bible"}}}
  - "Angels from the Realms of Glory" and "Go to Dark Gethsemane" are two of his other well-known hymns
@@ -92,9 +96,13 @@ Tune: Traditional German, 1784
 
 ## Exercises
 
-The hymn "Eternal God, Whose Power Upholds" is written in common meter doubled (CMD, or 8.6.8.6D), exactly the same as common meter but with two verses combined into one. "Hail to the Lord's Anointed", on the other hand, drops a syllable in the first and third lines to make it 7.6.7.6D. Compare:
+The hymn "Eternal God, Whose Power Upholds" is written in common meter doubled (CMD, or 8.6.8.6D), exactly the same as common meter but with two verses combined into one. "Hail to the Lord's Anointed", on the other hand, drops a syllable in the first and third lines to make it 7.6.7.6D.
+
+Compare:
 
 <img class="example" src="8-6-8-6.svg" />
+
+With:
 
 <img class="example" src="7-6-7-6.svg" />
 
@@ -102,4 +110,4 @@ The hymn "Eternal God, Whose Power Upholds" is written in common meter doubled (
 
 	<img class="example" src="exercise-1.svg" />
 
-3. Now use the same meter to write two lines about one of the fruits of the spirit (love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control). If you like, you can use your common meter exercise from last week as a starting point.
+2. Now use the same meter to write two lines about one of the fruits of the spirit (love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control). If you like, you can use your common meter exercise from last week as a starting point.
