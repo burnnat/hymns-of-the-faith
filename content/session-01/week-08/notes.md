@@ -57,7 +57,8 @@ Tune: Melchior Teschner (1584–1635), 1615
 	- Strictly speaking, God doesn’t need our praise - it’s a gift. Jesus said even if the crowds were silent, the stones would cry out in praise. ({{{verse "Luke 19:40"}}})
 {{/if}}
 
-## {{hymn "Go to Dark Gethsemane" id="go_to_dark_gethsemane"}}}
+## {{{hymn "Go to Dark Gethsemane" id="go_to_dark_gethsemane"}}}
+
 Text: James Montgomery (1771–1854), 1820
  - The son of a Moravian pastor and missionary, he began writing poems at age 10
  - At age 16, he ran away from school and tried unsuccessfully to sell his poetry to sustain himself
@@ -65,6 +66,7 @@ Text: James Montgomery (1771–1854), 1820
  - Montgomery often wrote on political themes, was jailed twice because of it, and worked to end the slave trade and exploitation of child chimney sweeps, among other causes
  - Although lacking enough artistic merits to be truly considered one of the “great hymnwriters”, a surprising percentage of his hymns remain in use today, including two well-known Christmas hymns: “Hail to the Lord’s Anointed” and “Angels from the Realms of Glory”
  - Originally published in 1820, Montgomery published a second version with major alterations in 1825
+
 Tune: Richard Redhead (1820–1901), 1853
  - Oxford-educated, Redhead served as organist at All Saints Church in London from age 19 to 44
  - The remaining 30 years of his career were spent nearby at St. Mary Magdalene Church in Paddington
