@@ -56,3 +56,30 @@ Tune: Melchior Teschner (1584–1635), 1615
 	- Our praise is laced with our own selfish desires; “hosanna” is a shout of joy but literally means “save us”, underscoring the Hebrews’ desire for a military and political savior from the Romans
 	- Strictly speaking, God doesn’t need our praise - it’s a gift. Jesus said even if the crowds were silent, the stones would cry out in praise. ({{{verse "Luke 19:40"}}})
 {{/if}}
+
+## {{hymn "Go to Dark Gethsemane" id="go_to_dark_gethsemane"}}}
+Text: James Montgomery (1771–1854), 1820
+ - The son of a Moravian pastor and missionary, he began writing poems at age 10
+ - At age 16, he ran away from school and tried unsuccessfully to sell his poetry to sustain himself
+ - Eventually became assistant to a newspaper printer and editor, and when his employer fled England to escape political persecution he took ownership of the paper and continued it for 31 years
+ - Montgomery often wrote on political themes, was jailed twice because of it, and worked to end the slave trade and exploitation of child chimney sweeps, among other causes
+ - Although lacking enough artistic merits to be truly considered one of the “great hymnwriters”, a surprising percentage of his hymns remain in use today, including two well-known Christmas hymns: “Hail to the Lord’s Anointed” and “Angels from the Realms of Glory”
+ - Originally published in 1820, Montgomery published a second version with major alterations in 1825
+Tune: Richard Redhead (1820–1901), 1853
+ - Oxford-educated, Redhead served as organist at All Saints Church in London from age 19 to 44
+ - The remaining 30 years of his career were spent nearby at St. Mary Magdalene Church in Paddington
+ - Like John Mason Neale, Redhead was a member of the Oxford Movement
+ - Named after its composer, {{{caps "Redhead 76"}}} was the 76th tune published in Redhead’s collection Church Hymn Tunes, Ancient and Modern, where it was intended for use with the text “Rock of Ages”
+
+1. Montgomery presents a series of Passion scenes, each of which has a small lesson to learn. The first verse begins with Jesus in the Garden of Gethsemane and instructs us to “learn of Jesus Christ to pray”. What’s the connection here to “the tempter’s power”, and what does it teach us about prayer?
+{{#if notes}}
+	- Gethsemane literally means “place of pressing”; located on the Mount of Olives, this would be an olive press. Figuratively, this was a place of pressing (pressure) for Jesus, leading to His arrest
+	- When they arrived, Jesus instructed the disciples to “pray that you may not enter into temptation” ({{{verse "Luke 22:40"}}}). He also asked God to “take this cup from me” ({{{verse "Mark 14:36"}}}), longing for an easy way out and reminiscent of His final temptation in the wilderness
+	- Lesson is that prayer, watchful prayer (“watch with me”, {{{verse "Matthew 26:38"}}}), is temptation’s antidote
+{{/if}}
+
+2. The hymn has a pervasive darkness to it (“bitter hour”, “mournful mountain”, “solitude and gloom”), even in the final verse leading up to Christ’s resurrection, and includes two somewhat cryptic images: “the wormwood and the gall” (verse two), and “breathless clay” (verse four). What is the meaning behind these phrases, and what do they contribute to the overall theme of the hymn?
+{{#if notes}}
+	- Wormwood is a bitter shrub used for medicinal purposes, and gall can refer either to bitter poppy juice or bile (as in the gallbladder). Symbolically, they represent bitter medicine to be swallowed.
+	- In Genesis, humans were created when God breathed life into dust, or clay, ({{{verse "Genesis 2:7"}}}). Breathless clay represents Christ as not just dead, but completely separated from God. (As the Apostles’ Creed says, “He descended into hell”.)
+{{/if}}
