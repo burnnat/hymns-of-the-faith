@@ -1,11 +1,13 @@
 \include "meter.ily"
 
 rhythm = \drummode {
-  ua da ua da ua da ua da
+  ua da ua da ua da ua \linebreak
+  ua da ua da ua da
 }
 
 text = \lyricmode {
-  At church to -- day, \blank \blank \blank \blank
+  E -- ter -- nal God, \blank \blank \blank
+  \blank \blank \blank \blank \blank \blank
 }
 
 \include "meter-template.ily"
