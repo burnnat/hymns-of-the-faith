@@ -94,9 +94,9 @@ Tune: Traditional German, 1784
 
 The hymn "Eternal God, Whose Power Upholds" is written in common meter doubled (CMD, or 8.6.8.6D), exactly the same as common meter but with two verses combined into one. "Hail to the Lord's Anointed", on the other hand, drops a syllable in the first and third lines to make it 7.6.7.6D. Compare:
 
-<img class="example" src="8.6.8.6.svg" />
+<img class="example" src="8-6-8-6.svg" />
 
-<img class="example" src="7.6.7.6.svg" />
+<img class="example" src="7-6-7-6.svg" />
 
 1. Ignoring rhyme, rewrite the first two lines of "Eternal God" to fit the 7.6.7.6 pattern:
 

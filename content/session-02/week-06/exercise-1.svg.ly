@@ -1,5 +1,9 @@
 \include "meter.ily"
 
+\paper {
+  paper-height = \meterHeight 2
+}
+
 rhythm = \drummode {
   ua da ua da ua da ua \linebreak
   ua da ua da ua da
