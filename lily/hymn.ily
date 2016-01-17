@@ -9,6 +9,7 @@
   annotate-spacing = ##f
 
   indent = 0.0
+  page-count = 1
 
   top-markup-spacing =
     #'((basic-distance . 0)
@@ -38,13 +39,6 @@
 {
   tagline = ##f
 }
-
-linebreak =
-  #(define-music-function
-    (parser location)
-    ()
-    "Force a linebreak at a particular point"
-    #{ \bar "" \break #})
 
 #(define-markup-command
   (poet layout props contents)
@@ -81,6 +75,12 @@ globalDefaults =
     #'(1 1 1 1)
     #'()
 
+  \overrideTimeSignatureSettings
+    3/4
+    1/4
+    #'(1 1 1)
+    #'()
+
   \mergeDifferentlyDottedOn
 }
 
@@ -99,7 +99,7 @@ globalDefaults =
   {
     \Lyrics
     \override VerticalAxisGroup #'minimum-Y-extent = #'(0 . 0)
-    \override VerticalAxisGroup.nonstaff-relatedstaff-spacing.padding = #0.5
-    \override VerticalAxisGroup.nonstaff-unrelatedstaff-spacing.padding = #0.5
+    \override VerticalAxisGroup.nonstaff-relatedstaff-spacing.padding = #1
+    \override VerticalAxisGroup.nonstaff-unrelatedstaff-spacing.padding = #1
   }
 }

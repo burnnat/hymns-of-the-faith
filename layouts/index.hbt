@@ -19,7 +19,6 @@
 		<h2 class="project-tagline">{{tagline}}</h2>
 	</section>
 	<section class="main-content">
-		{{{contents}}}
 		{{#each collections.sessions}}
 			<h1>
 				Session {{this.session}}:
@@ -28,13 +27,14 @@
 			<p>{{this.tagline}}</p>
 			<ol class="week-list">
 				{{#each this.weeks}}
-		    	<li>
+					<li>
 						Week {{this.week}}:
 						<a href="{{this.folder}}/notes.html">{{this.title}}</a>
 					</li>
 				{{/each}}
 			</ol>
 		{{/each}}
+		{{{contents}}}
 		{{>footer}}
 	</section>
 </body>
