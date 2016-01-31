@@ -18,7 +18,7 @@ stanzas = <<
   \new Lyrics \lyricsto "sopranos" {
     \set stanza = "1. "
 
-    Im -- per -- fect child of per _ -- fect _ God,
+    Im -- per -- fect child of per -- _ fect _ God,
     I’m guid -- ed from a -- bove;
     I glad -- ly yield my cold, _ hard, _ heart
     to His warm, pa -- tient _ love.
@@ -29,7 +29,7 @@ stanzas = <<
 
     Though I have ears to hear _ the _ Word,
     it’s on -- ly through God's grace
-    my fool -- ish thoughts and stum _ -- bling _ feet
+    my fool -- ish thoughts and stum -- _ bling _ feet
     don't slow me in the _ race.
   }
 
@@ -38,7 +38,7 @@ stanzas = <<
 
     How strange that I should stand _ to _ gain
     from my dear sav -- ior's death:
-    a schem -- er, sin -- ner, wick _ -- ed _ me
+    a schem -- er, sin -- ner, wick -- _ ed _ me
     giv’n new life by His _ breath!
   }
 
@@ -67,7 +67,7 @@ soprano = \relative c' {
   \linebreak
 
   b4
-  g c a d
+  g c b d
   \time 2/4
   d8 c b a
   \time 4/4
@@ -90,7 +90,7 @@ alto = \relative c' {
 
   fis4
   e d d8 e fis4
-  e fis8 e
+  e fis8 d
   ees2.
 
   ees4

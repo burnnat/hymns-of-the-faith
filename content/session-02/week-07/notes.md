@@ -30,7 +30,7 @@ Text: Charlotte Elliott (1789–1871), 1840
  - This particular text was written when her brother was attempting to fund the creation of a school for children of low-income clergymen
  - Because of her health, Elliott was unable to assist except for writing this text, copies of which were sold and eventually raised more money than any other single source
  - Despite her health, lived to age 82 and wrote over 150 different hymn texts
- - Following her death, over a thousand letters were found among her possesions from people touched this hymn, and her brother later said:
+ - Following her death, over a thousand letters were found among her possessions from people touched this hymn, and her brother later said:
      > In the course of a long ministry, I hope I have been permitted to see some fruit of my labours; but I feel far more has been done by a single hymn of my sister's.
 
 Tune: George Elvey (1816–1893), 1862
