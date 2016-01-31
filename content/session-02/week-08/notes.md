@@ -1,6 +1,7 @@
 ---
 title: Long Meter Variants
-  - name: God Moves in a Mysterious Way
+resources:
+  - name: Imperfect Child of Perfect God
     file: ../../hymns/imperfect-child.pdf
 ---
 ## {{{hymn "And Can It Be" id="and_can_it_be_that_i_should_gain"}}}
@@ -9,13 +10,13 @@ Text: Charles Wesley (1707–1935), 1738
  - After a disastrous trip to the colony of Georgia as missionaries, the Wesley brothers were impressed by the faith of a group of Moravians on their ship back to England
  - This prompted them to attend a meeting on Aldersgate Street, London, where the Moravian Peter Bohler was speaking and brought about a renewal of the Wesleys' faith
  - Wesley wrote this text shortly after his re-conversion; the mention in his journal that "I began a hymn upon my conversion" leads many to believe this is the hymn Wesley is referring to
- - When published in 1739, the hymn was given the subtitle "Free Grace"
+ - When first published in 1739, it was given the subtitle "Free Grace"
 
 Tune: Thomas Campbell (1777–1844), 1825
  - Very little is known about Campbell's life in England
  - Few of his poems and hymn tunes are in use today
- - This tune is taken from a collection of tunes titled {{{book "The Bouquet"}}}, in which each tune is given a flower-related name
- - The name {{{caps "Sagina"}}} is a family of flowers related to carnations, typically white and commonly called "pearlwort"
+ - This tune is taken from a collection of tunes titled {{{book "The Bouquet"}}}, each given a flower-related name
+ - The name {{{caps "Sagina"}}} is a family of flowers related to carnations, commonly called "pearlwort"
 
 1. Appropriately, as a "conversion hymn" the text centers around the concept of salvation. What ideas does Wesley show in his text that makes this grace so "amazing"?
 {{#if notes}}
@@ -46,9 +47,9 @@ Text: William Boyd Carpenter (1841–1918), 1840
  - Between two wives, Carpenter fathered 11 children (5 boys and 6 girls), and among his grandchildren include a member of parliament as well as prominent academics, lawyers, and businessmen
 
 Tune: Dmitri Bortnianski (1751–1825), 1825
- - Born in modern-day Ukraine (then part of the Russian Empire), joined the Russian imperial chapel choir at eight years old
+ - Born in modern-day Ukraine (then part of the Russian Empire), joined the Russian imperial chapel choir at the age of eight years old
  - The chapel choir director Baldassare Galuppi returned to Italy in 1769 and Bortnianski followed, studying in Venice, Rome, and Naples
- - After 10 years abroad, returned to Russia and in 1796 became the first Russian-born director of the imperial chapel choir
+ - After 10 years abroad, returned to Russia and in 1796 became the choir's first Russian-born director
  - In addition to sacred music, he wrote seven operas and other concert pieces
  - The tune {{{caps "St. Petersburg"}}} is named for the city where he lived and worked
  - His music later influenced famous Russian composers Tchaikovsky and Rachmaninoff
