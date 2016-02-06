@@ -4,7 +4,7 @@ title: Short Meter (and Variants)
 ## {{{hymn "I Love Thy Kingdom, Lord" id="i_love_thy_kingdom_lord"}}}
 
 Text: Timothy Dwight (1752–1817), 1800
- - Grandson of Jonathan Edwards, famous preacher during America's First Great Awakening in the 1730s and 40s
+ - Grandson of Jonathan Edwards, preacher during America's "First Great Awakening" in the 1730s and 40s
  - An intelligent child, graduated from Yale at age 17 and continued to work there as a tutor
  - Became an Army chaplain during the Revolutionary War, and a Congregationalist pastor afterward
  - Later served as president of Yale from 1795 until his death
@@ -36,17 +36,17 @@ Text: Timothy Dwight (1752–1817), 1800
 ## {{{hymn "Soldiers of Christ, Arise" id="soldiers_of_christ_arise"}}}
 
 Text: Charles Wesley (1707–1788), 1749
- - Following their conversion at Aldersgate, the Wesleys began their ministry working with inmates in London prisons
- - In late 1739, at the invitation of George Whitefield, they began "field preaching" traveling the area and preaching to whoever would listen
+ - Following their conversion at Aldersgate, the Wesleys began ministry working with inmates in London prisons
+ - In late 1739, at the invitation of George Whitefield, they began "field preaching" -- traveling around England and preaching to whoever would listen
  - This was often against Anglican rules concerning parish boundaries, and the Wesleys were targets of persecution by clergy members
  - In one case, the local curate incited a mob that broke the windows and shutters of the house where Charles was staying, drove away his horse, and used a fire engine to flood the house
  - This text was first published in 1742, at the end of John Wesley's essay "The Character of a Methodist"
 
 Tune: George J. Elvey (1816–1893), 1868
- - Sang in the boy's chorus at Canterbury Cathedral as a child, educated at Oxford and the Royal Academy of music
+ - Sang in Canterbury Cathedral as a child, later educated at Oxford and the Royal Academy of music
  - Worked as organist and choirmaster at St. George Chapel, Windsor, from age 19 until his retirement
  - Knighted in 1871, provided music for royal ceremonies in addition to his church music
- - Composed {{{caps "Diademata"}}} specifically for the text "Crown Him With Many Crowns"
+ - Composed {{{caps "Diademata"}}} specifically for Matthew Bridges' text "Crown Him With Many Crowns"
 
 1. The idea of "spiritual warfare" and military imagery used in this hymn have also fallen out of favor in much of the modern church. Why do you think this is the case? Is this an acceptable trend, or is anything lost as a result?
 {{#if notes}}
