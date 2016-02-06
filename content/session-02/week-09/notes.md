@@ -11,7 +11,7 @@ Text: Timothy Dwight (1752–1817), 1800
  - Published a revised version of Isaac Watts' psalm paraphrases in 1801 because of anti-British sentiment in the former colonies
  - This text is the oldest American hymn text still in common use today
 
- Tune: Aaron Williams (1736–1776), 1763
+Tune: Aaron Williams (1736–1776), 1763
  - Welsh-born music teacher and engraver who lived and worked in London (including as clerk at a Scottish Presbyterian church)
  - Best known for his psalm tune collections, with the first being {{{book "The Universal Psalmodist"}}} in 1763
  - The tune {{{caps "St. Thomas"}}} is actually an excerpt from a longer tune {{{caps "Holborn"}}}, which Williams wrote for Charles Wesley's text "Soldiers of Christ, Arise"
