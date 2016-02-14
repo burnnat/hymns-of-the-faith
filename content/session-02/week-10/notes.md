@@ -1,0 +1,73 @@
+---
+title: Trochaic Meters
+resources:
+  - name: Lord, You Lead to Fields of Green
+    file: ../../hymns/lord-you-lead.pdf
+---
+## {{{hymn "Praise, My Soul, the King of Heaven" id="praise_my_soul_the_king_of_heaven"}}}
+
+Text: Henry Francis Lyte (1793–1847), 1834
+ - Born in Scotland, his father abandoned the family and mother died while he was at boarding school
+ - Became an Anglican curate at age 21, but only afterward experienced a radical conversion that invigorated his ministry
+ - Began serving a church in Brixham on the south coast of England in 1824
+ - Despite facing ill health for most of his life, he remained in ministry there for over two decades
+ - This text is loosely based on Psalm 103, and included in Lyte's 1834 collection {{{book "Spirit of the Psalms"}}}
+ - In 1847, tuberculosis forced him to retire, eventually dying in France only a few months later
+ - Lyte is also known for another famous hymn text, "Abide With Me", written near the end of his life
+
+Tune: John Goss (1800–1880), 1868
+ - Son of an organist in Hampshire, England, moved to London at age 11 to live with his uncle, a choir member for St. Paul's Cathedral and Westminster Abbey
+ - Received a strict musical education as a chorister for the Chapel Royal under John Stafford Smith (whose tune "To Anacreon in Heaven" would later be used for "The Star-Spangled Banner")
+ - In 1816, began organ study with Thomas Attwood, organist at St. Paul's, himself a former student of Mozart and friend of Felix Mendelssohn
+ - Goss later succeeded Attwood at St. Paul's, also teaching harmony at the Royal Academy of Music (with a young Arthur Sullivan one of his students)
+ - The tune {{{caps "Lauda Anima"}}}, named for the opening of Psalm 103 in Latin, was written specifically for use with Lyte's text, with individual harmonizations to accompany each stanza
+
+1. Consider the way this hymn portrays the relationship between God and humans. What qualities are ascribed to God? What about us, his people? How does this help answer the question "why should we praise God?".
+{{#if notes}}
+	- The repeated phrase "Alleluia, alleluia!" was actually "Praise him, praise him!" in its original version
+	- We praise God because of his:
+		- Steadfastness ("praise him, still the same as ever", "glorious in his faithfulness")
+		- Mercy ("slow to chide", "spares us")
+		- Help to those in need ("grace and favor / to his people")
+		- Sustaining guidance ("tends ... us / gently bears us")
+		- Kingship over all creation ("sun and moon, bow down before him")
+	- We praise God because of (and in spite of) our:
+		- Inferiority and insufficiency ("to his feet your tribute bring", "our feeble frame he knows")
+		- Overwhelming circumstances ("his people in distress", "rescues us from all our foes")
+		- Spiritual blindness ("[angels] behold him face to face", but we don't)
+	- In addition, we are:
+		- Ransomed; in bondage to sin, unable to pay our own release
+		- Healed; both literally and figuratively (sick with the effects of sin in our life)
+		- Restored; only through Christ are we made whole and able to reach the full potential God has for us
+		- Forgiven; a personal gift given by God for each one of us, as all sin is ultimately an affront to Him
+{{/if}}
+
+## {{{hymn "Christ the Lord is Risen Today" id="christ_the_lord_is_risen_today_wesley"}}}
+
+Text: Charles Wesley (1707–1788), 1739
+ - Written roughly a year after Wesley's conversion at Aldersgate, with the subtitle "Hymn for Easter"
+ - Wesley's original text did not include any "alleluias", these were added later to fit the tune when Martin Madan put the two together in his {{{book "Psalms and Hymns"}}} in 1760
+ - Interestingly, John Wesley did not include the hymn in his 1780 {{{book "Wesleyan Hymn Book"}}} although it was already in several other Anglican collections at that time
+
+Tune: Anonymous, 1708
+ - First appeared in John Walsh's collection of hymn tunes titled {{{book "Lyra Davidica"}}}
+ - The original text was a translation of the Latin hymn "Surrexit Christus hodie" with the similar first line, "Jesus Christ is risen today"
+ - Major revisions to the tune were made in John Arnold's {{{book "Compleat Psalmodist"}}} in 1749, which is the version mainly used today
+
+1. "Christ the Lord" is also a hymn of praise, but with a particular focus on Easter. In what ways is the text similar to "Praise My Soul", and in what ways is it different?
+{{#if notes}}
+	- Since Easter is the central part of the Christian story, it is the central reason for praising God
+		- The medieval church did not allow singing of "alleluias" between the Saturday before Septuagesima (the third Sunday before Lent) and Easter, making the Easter praises even greater in comparison
+	- Both hymns recognize Christ's role in salvation ("he died our souls to save")
+		- But while "Praise My Soul" tends to focus on our negative sin-filled past, "Christ the Lord" focuses on our positive life-filled future
+		- In fact, it looks forward to our own resurrections ("made like him, like him we rise")
+		- Wesley casts us as living proof of God's power ("thee to know, thy power to prove") and our love and songs flow out of it
+{{/if}}
+
+## Exercises
+
+1. Read the hymn "Lord, You Lead to Fields of Green". List places that you think work well, and places that need improvement. What changes would you suggest? Consider the following areas:
+	- Meter and rhyme
+	- Word choice and imagery
+	- Scripture references
+	- Flow of ideas

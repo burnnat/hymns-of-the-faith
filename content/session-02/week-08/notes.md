@@ -76,8 +76,8 @@ Tune: Dmitri Bortnianski (1751–1825), 1822
 
 ## Exercises
 
-1. Read the hymn "Imperfect Child of Perfect God", whose theme is similar to both "And Can It Be" and "Before Thy Throne". List spots that you think work well, and spots that need improvement. What changes would you suggest? Consider the following areas:
+1. Read the hymn "Imperfect Child of Perfect God", whose theme is similar to both "And Can It Be" and "Before Thy Throne". List places that you think work well, and places that need improvement. What changes would you suggest? Consider the following areas:
 	- Meter and rhyme
-	- Word choice
+	- Word choice and imagery
 	- Scripture references
 	- Flow of ideas
