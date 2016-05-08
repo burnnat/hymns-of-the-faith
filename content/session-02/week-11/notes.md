@@ -35,7 +35,7 @@ Text: Silvia Dunstan (1955–1993), 1987
  - Given a musical education from nuns at the nearby St. Joseph's convent
  - Through the convent, she met well-known worship writer Sister Miriam Theresa Winter, who encouraged her to use her talents in songwriting
  - Studied theology at York University and Emmanuel College in Toronto, ordained in the United Church of Canada in 1980
- - Served as chaplain in a maximum-security prison for 10 years, then pastored a church in Scarborough, Ontario
+ - Served as chaplain in a maximum-security prison for 10 years, in addition to traditional pastorates
  - In 1981 she made a transition from self-proclaimed "guitar-strumming, meter-mangling self-indulgence to form-following, tradition-loving classicism"
  - Died at the age of 38, less than four months after being diagnosed with cancer of the liver
  - She was prompted to write this text by her friend and mentor Alan Barthel, who was looking for a "fresh version" of the ancient Christian hymn "Phos Hilaron"
@@ -45,7 +45,7 @@ Text: Silvia Dunstan (1955–1993), 1987
 
 Tune: John R. Van Maanen (1958– ), 1998
  - Also from Simcoe, Ontario, works as a freelance musician
- - Has set a number of Dunstan's texts to music, including her well-known "You, Lord, Are Both Lamb and Shepherd"
+ - Has set a number of Dunstan's texts to music, including another well-known hymn of hers, "You, Lord, Are Both Lamb and Shepherd"
  - The tune is named {{{caps "Phos Hilaron"}}} after the inspiration for Dunstan's text
 
 1. The meter used by this hymn is 11.11.11.5, known as "Sapphic" meter because of its relation to the ancient Greek poet Sappho who used the same syllable pattern. What problems can you see that make writing in this meter difficult? How does Dunstan work around them in the text? How does the music help support the words in this meter?
@@ -59,7 +59,7 @@ Tune: John R. Van Maanen (1958– ), 1998
 		- Here, Dunstan forgoes rhyme entirely and uses a parallel structure on the final line to tie the hymn together
 {{/if}}
 
-2. The opening phrase is certainly a unique one - "O Laughing Light". Does it change your perception of God at all? Does it fit the mood and intention of the original "Phos Hilaron" text? What about the rest of the hymn?
+2. The opening phrase is certainly a unique one -- "O Laughing Light". Does it change your perception of God at all? Does it fit the mood and intention of the original "Phos Hilaron" text? What about the rest of the hymn?
 {{#if notes}}
 	- "Hilaron" in Greek is the root of our word "hilarious"
 		- The same word is used in the New Testament passage of {{{verse "2 Corinthians 9:7"}}}: "God loves a *cheerful* giver"
