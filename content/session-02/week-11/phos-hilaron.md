@@ -1,5 +1,5 @@
 ---
-title: Phos Hilaron
+title: Translation of Phos Hilaron
 pdf: true
 ---
 Text: Anonymous, ca. AD 300

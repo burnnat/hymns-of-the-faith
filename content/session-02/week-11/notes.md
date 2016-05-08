@@ -1,8 +1,10 @@
 ---
 title: Rare Meters
 resources:
-  - name: Lord, You Lead to Fields of Green
-    file: ../../hymns/lord-you-lead.pdf
+  - name: Translation of "Be Thou My Vision"
+    file: be-thou-my-vision.pdf
+  - name: Translation of "Phos Hilaron"
+    file: phos-hilaron.pdf
 ---
 ## {{{hymn "Be Thou My Vision" id="be_thou_my_vision_o_lord_of_my_heart"}}}
 
@@ -62,21 +64,6 @@ Tune: John R. Van Maanen (1958– ), 1998
 	- "Hilaron" in Greek is the root of our word "hilarious"
 		- The same word is used in the New Testament passage of {{{verse "2 Corinthians 9:7"}}}: "God loves a *cheerful* giver"
 		- In the direct transliteration we see it as "gladsome"
-	- We praise God because of his:
-		- Steadfastness ("praise him, still the same as ever", "glorious in his faithfulness")
-		- Mercy ("slow to chide", "spares us")
-		- Help to those in need ("grace and favor / to his people")
-		- Sustaining guidance ("tends ... us / gently bears us")
-		- Kingship over all creation ("sun and moon, bow down before him")
-	- We praise God because of (and in spite of) our:
-		- Inferiority and insufficiency ("to his feet your tribute bring", "our feeble frame he knows")
-		- Overwhelming circumstances ("his people in distress", "rescues us from all our foes")
-		- Spiritual blindness ("[angels] behold him face to face", but we don't)
-	- In addition, we are:
-		- Ransomed; in bondage to sin, unable to pay our own release
-		- Healed; both literally and figuratively (sick with the effects of sin in our life)
-		- Restored; only through Christ are we made whole and able to reach the full potential God has for us
-		- Forgiven; a personal gift given by God for each one of us, as all sin is ultimately an affront to Him
 {{/if}}
 
 ## {{{hymn "Fairest Lord Jesus" id="fairest_lord_jesus_ruler_of_all_nature"}}}
@@ -90,7 +77,7 @@ Tune: Anonymous, 1842
  - Originates from the same region of Silesia (in modern-day Germany and Poland) as the text
  - Legend has it the tune dates back to the crusades of the twelfth century, leading to its common name {{{caps "Crusader's Hymn"}}}
  - Scholars, however, place the tune as originating in the early eighteenth century
- - The tune is also known as {{{caps "St. Elizabeth}}}, after Franz Liszt's oratorio "The Legend of St. Elizabeth" used it as a crusader's march
+ - The tune is also known as {{{caps "St. Elizabeth"}}}, after Franz Liszt's oratorio "The Legend of St. Elizabeth" used it as a crusader's march
 
 1. Appropriately for a folk song from a rural area of Europe, the theme of nature figures prominently in this text. How does this compare to other hymns that talk about nature, such as "This is My Father's World", "Great is Thy Faithfulness", or "How Great Thou Art"? What similarities are there? What is unique about "Fairest Lord Jesus"?
 

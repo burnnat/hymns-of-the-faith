@@ -1,12 +1,12 @@
 ---
-title: Translations of Be Thou My Vision
+title: Translation of Be Thou My Vision
 pdf: true
 ---
 {{~#trim}}
 <table>
 	<thead>
 		<tr>
-			<th>Anonymous, ca. AD 750</th>
+			<th>Original</th>
 			<th>Mary Byrne, 1905</th>
 		</tr>
 	</thead>
