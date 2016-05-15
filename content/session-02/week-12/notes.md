@@ -1,0 +1,29 @@
+---
+title: Rhetorical Devices
+---
+## {{{hymn "How Firm A Foundation" id="how_firm_a_foundation_ye_saints_of"}}}
+
+Text: Anonymous, 1787
+ - Published in {{{book "A Selection of Hymns from the Best Authors, Intended As an Appendix to Dr. Watts's Psalms and Hymns"}}} by John Rippon, with the author only indicated as "K--"
+ - Most scholars believe this refers to Richard Keen, music director in the London church where Rippon was pastor
+ - The hymn was almost instantly popular, especially in America where it was re-published just three years later
+
+Tune: Anonymous, 1832
+ - First included in {{{book "A Compilation of Genuine Church Music"}}} by Joseph Funk and later in {{{book "Southern Harmony"}}} and {{{book "The Sacred Harp"}}}
+ - Funk was born in Lancaster County, PA, into a German Mennonite family that moved to the Shenandoah Valley, VA, soon after
+ - Working as both a farmer and schoolteacher, Funk published music collections on the side and his {{{book "Compilation"}}} is in its 24th revision and still in use by Mennonites today
+ - Although originally listed as {{{caps "Protection"}}}, then {{{caps "Sincerity"}}} and {{{caps "Solicitude"}}}, the tune is now known as {{{caps "Foundation"}}}
+ - Also sometimes sung to {{{caps "Adeste Fideles"}}} (tune for "O Come All Ye Faithful")
+
+1. Fittingly for a hymn about scripture, the text quotes a number of bible verses off the bat, including {{{verse "Isaiah 41:10"}}}, {{{verse "Isaiah 43:2"}}}, {{{verse "Deuteronomy 31:6"}}}, and {{{verse "Hebrews 13:5"}}}. How closely does the hymn text follow these passages?
+
+2. What rhetorical devices do you see used in the text that help keep it strong and memorable?
+
+## Exercises
+
+1. As a class, brainstorm potential topics to use in writing a hymn together. Consider the following questions to generate ideas:
+
+	- What advice would you give to a new Christian, from experience in your own faith journey?
+	- What unique challenges does the church face today (both locally and globally)?
+	- What lessons or ideas do you think are often underappreciated by other Christians?
+	- What occasions or themes does the church currently lack quality music for?
