@@ -1,5 +1,5 @@
 ---
-title: Rhetorical Devices
+title: Writing I
 ---
 ## {{{hymn "How Firm A Foundation" id="how_firm_a_foundation_ye_saints_of"}}}
 
