@@ -23,11 +23,11 @@ Tune: Orlando Gibbons (1583–1625), 1623
 	- {{{verse "Ephesians 4"}}} talks about unity ("one Lord, one faith, one baptism")
 	- {{{verse "Galatians 3:27-28"}}} talks about ending divisions ("there is neither Jew nor Greek" ...)
 	- Opening line comes from Thomas Ken's "All Praise to Thee, My God, This Night", which gave us our doxology
-	- Final three lines of the opening match portions of the {{{bok "Book of Common Prayer"}}}
+	- Final three lines of the opening match portions of the {{{book "Book of Common Prayer"}}}
 	- Final verse paraphrases a poem by Matthew Prior, {{{book "Solomon"}}}, saying:
 
 	  > Or grant Thy passion has these names destroy'd
-	  > that Love, like Death, makes all distinctions boid.
+	  > that Love, like Death, makes all distinctions void.
 
 2. What unique features of this hymn make it memorable and meaningful? How well are these techniques executed?
 
