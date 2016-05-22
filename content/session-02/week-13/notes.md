@@ -18,24 +18,24 @@ Tune: Orlando Gibbons (1583–1625), 1623
  - Some hymnals refer to the tune by the name {{{caps "Canterbury"}}} instead, the place of Gibbons' death and burial
 
 1. Wesley is known for (among other things) the scriptural content of his hymns. This hymn also quotes some non-biblical sources as well. What references can you find?
-
+{{#if notes}}
 	- {{{verse "1 Corinthians 12"}}} talks about spiritual gifts and one-body-many-members
 	- {{{verse "Ephesians 4"}}} talks about unity ("one Lord, one faith, one baptism")
 	- {{{verse "Galatians 3:27-28"}}} talks about ending divisions ("there is neither Jew nor Greek" ...)
 	- Opening line comes from Thomas Ken's "All Praise to Thee, My God, This Night", which gave us our doxology
 	- Final three lines of the opening match portions of the {{{book "Book of Common Prayer"}}}
 	- Final verse paraphrases a poem by Matthew Prior, {{{book "Solomon"}}}, saying:
-
-	  > Or grant Thy passion has these names destroy'd
-	  > that Love, like Death, makes all distinctions void.
+		> Or grant Thy passion has these names destroy'd
+		> that Love, like Death, makes all distinctions void.
+{{/if}}
 
 2. What unique features of this hymn make it memorable and meaningful? How well are these techniques executed?
-
+{{#if notes}}
 	- Literary devices:
 		- Epanalepsis: "Join us, in one spirit, join"
 		- Repetition: The "all in all" is used first for the completeness of Christ's fulfillment, then as a title for God
-
-	- In the first line, "perfecting" has syllables mismatched with the "natural" flow of the camper.
+	- In the first line, "perfecting" has syllables mismatched with the "natural" flow of the tune
+{{/if}}
 
 ## Exercises
 
