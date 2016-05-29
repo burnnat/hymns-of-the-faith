@@ -1,3 +1,7 @@
+---
+title: Hymn Project, Draft I
+pdf: true
+---
 O Christian church across the globe,
 who in God's word unite,
 although from lands so far away
