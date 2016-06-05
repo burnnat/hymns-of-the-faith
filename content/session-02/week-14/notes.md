@@ -22,7 +22,7 @@ Tune: John Bacchus Dykes (1823–1876), 1866
 
 2. Poetically, what features or images of this hymn stand out as unique?
 {{#if notes}}
-	- Wesley manages to work in the word "inseperably", which takes up more than half the syllables in its line
+	- Wesley manages to work in the word "inseparably", which takes up more than half the syllables in its line
 	- The final stanza contains an enjambment after the word "possess", spreading the final phrase between two lines -- a good way to give the final verse a little extra closure.
 	- The concept of God's love as "lodestone" (magnet) is definitely not from scripture, but gives a memorable image of drawing us both closer together and closer to Christ
 	- The same stanza also contains an example of "antanaclasis", repeating a word or phrase but with a change in meaning: "ever toward each other move / and ever move toward thee"

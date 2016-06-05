@@ -1,0 +1,24 @@
+---
+title: Writing IV
+---
+## {{{hymn "Blest Be the Dear Uniting Love" id="blest_be_the_dear_united_love"}}}
+
+Text: Charles Wesley (1707–1788), 1742
+ - Published in the 1742 edition of {{{book "Hymns and Sacred Poems"}}}
+
+Tune: William Havergal (1823–1876), 1847
+ - British pastor, educated at Oxford
+ - Served in a number of churches in rural England
+ - Most of his 100+ hymns were written for special occasions and services in his churches
+
+1. The original fourth verse, omitted in the United Methodist Hymnal, reads:
+	> Closer and closer, let us cleave
+	> to his belov'd embrace;
+	> expect his fullness to receive,
+	> and grace to answer grace.
+
+	How do you interpret this phrase "grace to answer grace"? Does this stanza fit with the rest of the hymn, or were the editors right to exclude it?
+
+## Exercises
+
+1. Write a third hymn verse about individual growth as a Christian. Earlier brainstorms mentioned learning patience, listening for God's direction, and focusing on giving to the church rather than on what you "get" from it. Start with this line: "O Christian seeker, child of God..."

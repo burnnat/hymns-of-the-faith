@@ -1,5 +1,12 @@
 \include "hymn.ily"
 
+\layout {
+  \context {
+    \Staff
+    \override VerticalAxisGroup.default-staff-staff-spacing.basic-distance = #25
+  }
+}
+
 \header
 {
   title = "O Christian Church"
@@ -35,7 +42,7 @@ stanzas = <<
     salt _ of the earth _ u -- nite,
     and _ strive as one to show God's ways
     with _ all His pow'r _ and might.
-    With _ one strong voice, _ to -- geth -- er claim,
+    With _ one strong voice, _ to -- geth -- er claim
     the _ pro -- mise _ of the King:
     that _ He will sure -- _ ly _ see you through,
     to _ grow, re -- joice, _ and sing.

@@ -6,7 +6,7 @@ O Christian neighbors, siblings, friends,
 salt of the earth unite
 and strive as one to show God's ways
 with all His pow'r and might.
-With one strong voice, together claim,
+With one strong voice, together claim
 the promise of the King:
 that He will surely see you through,
 to grow, rejoice, and sing.
