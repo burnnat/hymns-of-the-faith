@@ -12,6 +12,8 @@
   title = "O Christian Church"
   poet = \markup \poet "Hymns of the Faith Class, 2016"
   composer = \markup \composer "Traditional English"
+  % tune = \markup { \smallCaps "Saline" }
+  % meter = "CMD"
 }
 
 global =
@@ -40,12 +42,38 @@ stanzas = <<
 
     O _ Chris -- tian neigh -- bors, sib -- lings, friends,
     salt _ of the earth _ u -- nite,
-    and _ strive as one to show God's ways
+    and _ strive as one to show God's works
     with _ all His pow'r _ and might.
     With _ one strong voice, _ to -- geth -- er claim
     the _ pro -- mise _ of the King:
     that _ He will sure -- _ ly _ see you through,
     to _ grow, re -- joice, _ and sing.
+  }
+
+  \new Lyrics \lyricsto "sopranos" {
+    \set stanza = "3. "
+
+    O _ Chris -- tian seek -- er, child of God,
+    for -- _ give your fel -- _ low man;
+    as _ Christ for -- gave, so must we all
+    to _ act u -- pon _ His plan.
+    Be _ fo -- cus'd on _ what you can give,
+    and _ not what _ you re -- ceive,
+    to _ spread Christ's mes -- _ sage _ far and wide,
+    till _ all the world _ be -- lieve.
+  }
+
+  \new Lyrics \lyricsto "sopranos" {
+    \set stanza = "4. "
+
+    O _ Ho -- ly Spir -- it, flame di -- vine,
+    come _ set our hearts _ a -- blaze
+    with _ burn -- ing pas -- sion for Your Word
+    to _ guide us in _ Your ways,
+    to _ seek Your pow'r _ and not re -- ly
+    on _ hu -- man strength _ a -- lone,
+    but _ o -- pen us _ to _ fruits and gifts:
+    make _ us Your ver -- _ y own!
   }
 >>
 
