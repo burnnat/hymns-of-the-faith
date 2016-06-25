@@ -2,8 +2,10 @@
 
 \header {
   title = "How Sweet the Name of Jesus Sounds"
-  poet = \markup \poet "John Newton, 1774"
-  composer = \markup \composer "Alexander Robert Reinagle, 1836"
+  poet = "John Newton, 1774"
+  composer = "Alexander Robert Reinagle, 1836"
+  tune = "St. Peter"
+  meter = "CM"
 }
 
 global = {

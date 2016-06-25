@@ -3,8 +3,8 @@
 \header
 {
   title = "Eternal God, Whose Power Upholds"
-  poet = \markup \poet "Henry Hallam Tweedy, 1929"
-  composer = \markup \composer "Ralph Vaughan Williams, 1906"
+  poet = "Henry Hallam Tweedy, 1929"
+  composer = "Ralph Vaughan Williams, 1906"
 }
 
 \paper {

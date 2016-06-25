@@ -10,7 +10,7 @@
   markup-system-spacing #'basic-distance = #12
 
   top-margin = 0.5\in
-  bottom-margin = 0.15\in
+  bottom-margin = 0.5\in
   left-margin = 0.8\in
   right-margin = 0.8\in
 }
@@ -18,9 +18,12 @@
 \header
 {
   title = "Sinner, Where is Room for Doubt?"
-  poet = \markup \poet "David L. Ward, 2012"
-  composer = \markup \composer "Joanie Madden & Brian Keane, 1999"
-  arranger = \markup \harmonizer "N. Fielding Burns, 2014"
+  poet = "David L. Ward, 2012"
+  composer = "Joanie Madden & Brian Keane, 1999"
+  arranger-title = "Harmonized:"
+  arranger = "N. Fielding Burns, 2014"
+  tune = "Kilkee"
+  meter = "7.7.7.7.8.7.8.7"
 }
 
 global =
@@ -34,52 +37,52 @@ stanzas = <<
   \new Lyrics \lyricsto "sopranos" {
     \set stanza = "1. "
 
-    Sin -- ner, where is room for doubt?
+    Sin -- ner, where is room for _ doubt?
     Has not Je -- sus’ love been proved?
-    Did He not lay down His life
+    Did He not lay down His _ life
     and the Fa -- ther’s wrath re -- move?
-    Hear Him on the cross ex -- claim -- ing,
-    “It is fin -- ished,” then He died;
-    Lose your doubts and fears for -- ev -- er
+    Hear Him on the _ cross ex -- _ claim -- ing,
+    “It is fin -- ished,” then He _ died;
+    Lose your doubts and _ fears for -- _ ev -- er
     at His bleed -- ing, lov -- ing side.
   }
 
   \new Lyrics \lyricsto "sopranos" {
     \set stanza = "2. "
 
-    Sin -- ner, where is room for guilt?
+    Sin -- ner, where is room for _ guilt?
     Has not Je -- sus borne your shame?
-    Was He not cut off that you
+    Was He not cut off that _ you
     might the Fa -- ther’s hon -- or gain?
-    See Him on the cross de -- grad -- ed,
-    rid -- i -- culed and thrown a -- way,
-    to re -- ceive the once re -- ject -- ed
+    See Him on the _ cross de -- _ grad -- ed,
+    rid -- i -- culed and thrown a -- _ way,
+    to re -- ceive the _ once re -- _ ject -- ed
     and His pard’n -- ing grace dis -- play.
   }
 
   \new Lyrics \lyricsto "sopranos" {
     \set stanza = "3. "
 
-    Sin -- ner, where is room for toil?
+    Sin -- ner, where is room for _ toil?
     Has not Je -- sus won your rest?
-    Did He not o -- bey the law,
+    Did He not o -- bey the _ law,
     giv -- ing us His right -- eous -- ness?
-    See Him on the cross ful -- fill -- ing
-    both your pun -- ish -- ment and crown;
-    Lose your pow -- er -- less re -- li -- gion,
+    See Him on the _ cross ful -- _ fill -- ing
+    both your pun -- ish -- ment and _ crown;
+    Lose your pow -- er -- _ less re -- _ li -- gion,
     find your -- self in His re -- nown.
   }
 
   \new Lyrics \lyricsto "sopranos" {
     \set stanza = "4. "
 
-    Sin -- ner, where is room for pride?
+    Sin -- ner, where is room for _ pride?
     Has not Je -- sus paid it all?
-    Did He not show char -- i -- ty
+    Did He not show char -- i -- _ ty
     to one ru -- ined from the fall?
-    On the cross He paid your ran -- som,
-    ev -- ’ry debt has been e -- rased;
-    You had noth -- ing, yet He gave you
+    On the cross He _ paid your _ ran -- som,
+    ev -- ’ry debt has been e -- _ rased;
+    You had noth -- ing, _ yet He _ gave you
     rich -- es by His lav -- ish grace.
   }
 >>
@@ -87,7 +90,7 @@ stanzas = <<
 soprano = \relative c' {
   c8 d
   e2 a4
-  g2 e8 ( d )
+  g2 e8 d
   c2.
 
   c'2 b4
@@ -99,7 +102,7 @@ soprano = \relative c' {
 
   c8 d
   e2 a4
-  g2 e8 ( d )
+  g2 e8 d
   c2.
 
   a'4 ( b ) c
@@ -110,21 +113,21 @@ soprano = \relative c' {
   \linebreak
 
   c'8 b
-  c2 c8 ( b )
-  c4. ( d8 ) e [( g, )]
+  c2 c8 b
+  c4. ( d8 ) e [ g, ]
   a2 (~ a8 g )
   g2
 
   \times 2/3 { g8 ( a ) b }
   c2 e,4
-  e2 d8 ( c )
+  e2 d8 c
   d2. ~ d2
 
   \linebreak
 
   c'8 b
-  c2 c8 ( b )
-  c4. ( d8 ) e [( g, )]
+  c2 c8 b
+  c4. ( d8 ) e [ g, ]
   a2 (~ a8 b )
   c2 c8 a
   g8 ( e4. ) c4
@@ -135,7 +138,7 @@ soprano = \relative c' {
 
 alto = \relative c' {
   c8 b
-  c2 c8 ( d )
+  c2 c8 d
   d2 b4
   b2 ( a4 )
 
@@ -156,18 +159,18 @@ alto = \relative c' {
 
   c'8 b
   a2 a4
-  a2 g8 ( e )
+  a2 g8 e
   f2.
   e2
 
   \times 2/3 { d4 d8 }
   e2 c4
-  b2 b8 ( c )
+  b2 b8 c
   d2. ~ d2
 
   c'8 b
   a2 a4
-  a2 g8 ( e )
+  a2 g8 e
   f2.
   e2 f8 c
   e8 ( c4. ) c4

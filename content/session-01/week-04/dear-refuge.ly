@@ -2,8 +2,10 @@
 
 \header {
   title = "Dear Refuge of My Weary Soul"
-  poet = \markup \poet "Anne Steele, 1760"
-  composer = \markup \composer "Anonymous, 1749"
+  poet = "Anne Steele, 1760"
+  composer = "Anonymous, 1749"
+  tune = "Irish"
+  meter = "CM"
 }
 
 global = {

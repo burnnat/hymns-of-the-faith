@@ -10,10 +10,10 @@
 \header
 {
   title = "O Christian Church"
-  poet = \markup \poet "Hymns of the Faith Class, 2016"
-  composer = \markup \composer "Traditional English"
-  % tune = \markup { \smallCaps "Saline" }
-  % meter = "CMD"
+  poet = "Hymns of the Faith Class, 2016"
+  composer = "Traditional English"
+  tune = "Saline"
+  meter = "8.6.8.6D"
 }
 
 global =

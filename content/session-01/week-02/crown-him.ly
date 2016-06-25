@@ -19,8 +19,10 @@
 \header
 {
   title = "Crown Him With Many Crowns"
-  poet = \markup \poet "Matthew Bridges 1851; st. 4, Godfrey Thring, 1874"
-  composer = \markup \composer "George Job Elvey, 1868"
+  poet = "Matthew Bridges 1851; st. 4, Godfrey Thring, 1874"
+  composer = "George Job Elvey, 1868"
+  tune = "Diademata"
+  meter = "SMD"
 }
 
 global =

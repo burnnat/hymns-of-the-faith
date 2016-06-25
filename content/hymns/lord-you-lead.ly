@@ -3,8 +3,8 @@
 \header
 {
   title = "Lord, You Lead to Fields of Green"
-  poet = \markup \poet "N. Fielding Burns, 2015"
-  composer = \markup \composer "N. Fielding Burns, 2016"
+  poet = "N. Fielding Burns, 2015"
+  composer = "N. Fielding Burns, 2016"
 }
 
 global =

@@ -3,8 +3,10 @@
 \header
 {
   title = "God Moves in a Mysterious Way"
-  poet = \markup \poet "William Cowper, 1774"
-  composer = \markup \composer "Anonymous, 1635"
+  poet = "William Cowper, 1774"
+  composer = "Anonymous, 1635"
+  tune = "London New"
+  meter = "CM"
 }
 
 global =

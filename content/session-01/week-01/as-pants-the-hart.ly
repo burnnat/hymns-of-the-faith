@@ -11,6 +11,8 @@
 \header
 {
     title = "As Pants the Hart"
+    poet-title = ##f
+    composer-title = ##F
 }
 
 global =

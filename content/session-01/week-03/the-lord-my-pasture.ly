@@ -3,8 +3,10 @@
 \header
 {
   title = "The Lord My Pasture Shall Prepare"
-  poet = \markup \poet "Joseph Addison, 1712"
-  composer = \markup \composer "Henry Carey, 1723"
+  poet = "Joseph Addison, 1712"
+  composer = "Henry Carey, 1723"
+  tune = "Surrey"
+  meter = "8.8.8.8.8.8"
 }
 
 global =

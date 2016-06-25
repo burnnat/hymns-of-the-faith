@@ -2,6 +2,20 @@
 
 #(set! paper-alist (cons '("half-letter" . (cons (* 8.5 in) (* 6.5 in))) paper-alist))
 
+#(define-markup-command
+  (frompropertysmallcaps layout props symbol)
+  (symbol?)
+  "Read a property value as small caps markup"
+  (let
+    ((m (chain-assoc-get symbol props)))
+    (if
+      (markup? m)
+      (interpret-markup
+        layout
+        props
+        (markup #:smallCaps m))
+      empty-stencil)))
+
 \paper
 {
   #(set-paper-size "letter")
@@ -33,33 +47,54 @@
   bottom-margin = 0.5\in
   left-margin = 0.5\in
   right-margin = 0.5\in
+
+  bookTitleMarkup = \markup {
+    \override #'(baseline-skip . 3.5)
+    \column {
+      \fill-line {
+        \huge \larger \larger \bold
+        \fromproperty #'header:title
+      }
+      \fill-line {
+        \line {
+          \italic \fromproperty #'header:poet-title
+          \fromproperty #'header:poet
+        }
+        \line {
+          \italic \fromproperty #'header:composer-title
+          \fromproperty #'header:composer
+        }
+      }
+      \fill-line {
+        \line {}
+        \line {
+          \italic \fromproperty #'header:arranger-title
+          \fromproperty #'header:arranger
+        }
+      }
+    }
+  }
+
+  oddFooterMarkup = \markup {
+    \small
+    \column {
+      \fill-line {
+        \line {}
+        \on-the-fly #first-page \frompropertysmallcaps #'header:tune
+      }
+      \fill-line {
+        \line {}
+        \on-the-fly #first-page \fromproperty #'header:meter
+      }
+    }
+  }
 }
 
 \header
 {
-  tagline = ##f
+  poet-title = "Text:"
+  composer-title = "Tune:"
 }
-
-#(define-markup-command
-  (poet layout props contents)
-  (markup?)
-  "Format a poet definition"
-  (interpret-markup layout props
-    (markup (#:italic "Text:") contents)))
-
-#(define-markup-command
-  (composer layout props contents)
-  (markup?)
-  "Format a composer definition"
-  (interpret-markup layout props
-    (markup (#:italic "Tune:") contents)))
-
-#(define-markup-command
-  (harmonizer layout props contents)
-  (markup?)
-  "Format a harmonizer definition"
-  (interpret-markup layout props
-    (markup (#:italic "Harmonized:") contents)))
 
 globalDefaults =
 {

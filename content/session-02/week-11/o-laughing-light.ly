@@ -3,8 +3,10 @@
 \header
 {
   title = "O Laughing Light"
-  poet = \markup \poet "Silvia Dunstan, 1987"
-  composer = \markup \composer "John Van Maanen, 1998"
+  poet = "Silvia Dunstan, 1987"
+  composer = "John Van Maanen, 1998"
+  tune = "Phos Hilaron"
+  meter = "11.11.11.5"
 }
 
 global =

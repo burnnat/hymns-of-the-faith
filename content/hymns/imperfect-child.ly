@@ -3,8 +3,8 @@
 \header
 {
   title = "Imperfect Child of Perfect God"
-  poet = \markup \poet "N. Fielding Burns, 2010"
-  composer = \markup \composer "N. Fielding Burns, 2010"
+  poet = "N. Fielding Burns, 2010"
+  composer = "N. Fielding Burns, 2010"
 }
 
 global =
