@@ -5,6 +5,8 @@
   title = "Lord, You Lead to Fields of Green"
   poet = "N. Fielding Burns, 2015"
   composer = "N. Fielding Burns, 2016"
+  tune = "Jollity"
+  meter = "7.6.7.6D"
 }
 
 global =
@@ -68,7 +70,7 @@ soprano = \relative c' {
 
   \time 3/4
   ees8 g aes4 bes
-  bes8 g ees4 g
+  bes8 aes ees4 g
   f8 ees ees4 d
   ees2
 

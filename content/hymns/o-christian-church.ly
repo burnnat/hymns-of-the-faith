@@ -1,17 +1,10 @@
 \include "hymn.ily"
 
-\layout {
-  \context {
-    \Staff
-    \override VerticalAxisGroup.default-staff-staff-spacing.basic-distance = #25
-  }
-}
-
 \header
 {
   title = "O Christian Church"
   poet = "Hymns of the Faith Class, 2016"
-  composer = "Traditional English"
+  composer = "N. Fielding Burns, 2016"
   tune = "Saline"
   meter = "8.6.8.6D"
 }
@@ -19,7 +12,7 @@
 global =
 {
   \time 4/4
-  \key e \minor
+  \key aes \major
   \partial 4
 }
 
@@ -27,164 +20,164 @@ stanzas = <<
   \new Lyrics \lyricsto "sopranos" {
     \set stanza = "1. "
 
-    O _ Chris -- tian church a -- cross the globe,
-    who _ in God's word _ u -- nite,
-    al -- _ though from lands so far a -- way
-    still _ glimpse His guid -- _ ing light,
-    whom _ Christ has tak -- _ en as His bride,
-    all _ na -- tions _ to give praise;
-    in _ all the ways _ you _ serve the Lord,
-    join _ all your hands _ to raise.
+    O Chris -- tian church a -- cross the globe,
+    who in God's word _ u -- nite,
+    al -- though from lands so far a -- way
+    still glimpse His guid -- ing light,
+    whom Christ has tak -- en as His bride,
+    all na -- tions to _ give praise;
+    in all the ways you serve the Lord,
+    join all your hands to raise.
   }
 
   \new Lyrics \lyricsto "sopranos" {
     \set stanza = "2. "
 
-    O _ Chris -- tian neigh -- bors, sib -- lings, friends,
-    salt _ of the earth _ u -- nite,
-    and _ strive as one to show God's works
-    with _ all His pow'r _ and might.
-    With _ one strong voice, _ to -- geth -- er claim
-    the _ pro -- mise _ of the King:
-    that _ He will sure -- _ ly _ see you through,
-    to _ grow, re -- joice, _ and sing.
+    O Chris -- tian neigh -- bors, sib -- lings, friends,
+    salt of the earth _ u -- nite,
+    and strive as one to show God's works
+    with all His pow'r and might.
+    With one strong voice, to -- geth -- er claim
+    the pro -- mise of _ the King:
+    that He will sure -- ly see you through,
+    to grow, re -- joice, and sing.
   }
 
   \new Lyrics \lyricsto "sopranos" {
     \set stanza = "3. "
 
-    O _ Chris -- tian seek -- er, child of God,
-    for -- _ give your fel -- _ low man;
-    as _ Christ for -- gave, so must we all
-    to _ act u -- pon _ His plan.
-    Be _ fo -- cus'd on _ what you can give,
-    and _ not what _ you re -- ceive,
-    to _ spread Christ's mes -- _ sage _ far and wide,
-    till _ all the world _ be -- lieve.
+    O Chris -- tian seek -- er, child of God,
+    for -- give your fel -- _ low man;
+    as Christ for -- gave, so must we all
+    to act u -- pon His plan.
+    Be fo -- cus'd on what you can give,
+    and not what you _ re -- ceive,
+    to spread Christ's mes -- sage far and wide,
+    till all the world be -- lieve.
   }
 
   \new Lyrics \lyricsto "sopranos" {
     \set stanza = "4. "
 
-    O _ Ho -- ly Spir -- it, flame di -- vine,
-    come _ set our hearts _ a -- blaze
-    with _ burn -- ing pas -- sion for Your Word
-    to _ guide us in _ Your ways,
-    to _ seek Your pow'r _ and not re -- ly
-    on _ hu -- man strength _ a -- lone,
-    but _ o -- pen us _ to _ fruits and gifts:
-    make _ us Your ver -- _ y own!
+    O Ho -- ly Spir -- it, flame di -- vine,
+    come set our hearts _ a -- blaze
+    with burn -- ing pas -- sion for Your Word
+    to guide us in Your ways,
+    to seek Your pow'r and not re -- ly
+    on hu -- man strength _ a -- lone,
+    but o -- pen us to fruits and gifts:
+    make us Your ver -- y own!
   }
 >>
 
 soprano = \relative c' {
-  g'8 fis
-  e4 e e d
-  g g a g8 a
-  b4 b a8 g e4
-  d2.
+  ees4
+  c ees aes bes
+  c aes f ees
+  f4. ees8 f g aes4
+  aes2( g4)
 
   \linebreak
 
-  g8 fis
-  e4 e e d
-  g g a g8 a
-  b4 b a8 g e4
-  e2.
+  ees4
+  c4. ees8 aes4 bes
+  c des ees aes,
+  c bes aes g
+  aes2.
 
   \linebreak
 
-  b'8 c
-  d4 b b8 a g4
-  a a b g8 a
-  b4 b8 a g4 e
-  d2.
+  c4
+  ees4. c8 c4 aes
+  bes bes c aes
+  f4. ees8 f g aes4
+  aes2( g4)
 
   \linebreak
 
-  g8 fis
-  e4 e e8 d e fis
-  g4 g a g8 a
-  b4 b a8 g e4
-  e2.
+  ees4
+  c4. ees8 aes4 bes
+  c des ees c
+  bes aes aes g
+  aes2.
 }
 
 alto = \relative c' {
-  e4
-  b b c a
-  d b d d8 fis
-  g4 g e c
-  a2.
+  bes4
+  aes bes c ees
+  ees ees des ees
+  des4. ees8 des4 des
+  ees2.
 
-  d4
-  d c c8 b a4
-  d cis d d8 c
-  b4 d c c
-  b2.
+  bes4
+  aes4. bes8 c4 ees
+  ees f g f
+  aes f ees ees
+  ees2.
 
-  e4
-  fis fis g8 d d4
-  e d d d8 fis
-  g4 g8 fis d4 c8 b
-  a2.
+  aes4
+  g4. ees8 aes4 f
+  aes g aes ees
+  des4. ees8 des4 des
+  ees2.
 
-  d4
-  d d c c
-  d d8 cis d4 d8 c
-  b4 d e c
-  b2.
+  ees4
+  c4. ees8 f4 g
+  aes aes g aes8 g
+  f4 ees ees ees
+  ees2.
 }
 
-tenor = \relative c' {
-  b8 a
-  g4 g g fis
-  g g fis g8 c
-  b4 d c g
-  g2( fis4)
+tenor = \relative c {
+  ees4
+  ees ees f g
+  aes aes aes aes
+  aes4. aes8 aes4 bes
+  bes2.
 
-  g4
-  g g g fis
-  g g fis g8 fis
-  g4 g e e8 fis
-  g2.
+  ees,4
+  ees4. ees8 f4 g
+  aes aes c c8 des
+  ees4 des c bes8 des
+  des2( c4)
 
-  g4
-  b d d8 c b4
-  a8 g fis4 g
-  d'8 c d4 d8 c b4 g4
-  g2( fis4)
+  ees4
+  c4. c8 c4 c
+  f ees ees aes,
+  aes4. aes8 aes4 bes
+  bes2.
 
-  g4
-  g g a c
-  b8 a g4 fis g8 fis
-  g4 fis e e8 fis
-  gis?2.
+  bes4
+  aes4. bes8 c4 ees
+  ees des c c
+  des c bes8 c des4
+  des( c2)
 }
 
 bass = \relative c {
-  e4
-  e e8 d c4 c
-  b e d b8 a
-  g4 g a c
-  d2.
+  g4
+  aes g f ees'
+  aes, c des c
+  des4. c8 des4 bes
+  ees2.
 
-  b4
-  c c8 b a4 d
-  b e d8 c b a
-  g4 b c a
-  e'2.
+  g,4
+  aes4. g8 f4 ees'
+  aes8 g f4 c f
+  c des ees ees
+  aes,2.
 
-  e4
-  b b' e,8 fis g4
-  c, d g, b8 a
-  g4 g8 a b4 c
-  d2.
+  aes'4
+  c,4. c8 f4 aes
+  des, ees aes c,
+  des4. c8 des4 bes
+  ees2.
 
-  b4
-  c c8 b a4 a'
-  g8 fis e4 d b8 a
-  g4 b c a
-  e'2.
+  g4
+  aes4. g8 f4 ees
+  aes8 g f4 c f
+  bes, c8 des ees4 ees
+  aes,2.
 }
 
 \include "hymn-template.ily"

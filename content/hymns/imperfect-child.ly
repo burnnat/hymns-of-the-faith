@@ -5,6 +5,8 @@
   title = "Imperfect Child of Perfect God"
   poet = "N. Fielding Burns, 2010"
   composer = "N. Fielding Burns, 2010"
+  tune = "Hope of Ages"
+  meter = "8.6.8.6"
 }
 
 global =

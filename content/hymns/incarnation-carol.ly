@@ -5,6 +5,8 @@
   title = "Incarnation Carol"
   poet = "N. Fielding Burns, 2015"
   composer = "N. Fielding Burns, 2015"
+  tune = "Trias Ekenosen"
+  meter = "10.8.11.8"
 }
 
 global =
