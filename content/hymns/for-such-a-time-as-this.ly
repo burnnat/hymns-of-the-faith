@@ -5,7 +5,7 @@
   title = "Biblical Portraits: Esther"
   poet = "N. Fielding Burns, 2017"
   composer = "N. Fielding Burns, 2017"
-  tune = "Present Time"
+  tune = "Mordecai"
   meter = "6.6.8.6.6"
 }
 
@@ -97,8 +97,8 @@ alto = \relative c' {
   f d e
 
   f4
-  f f d c
-  d( c2)
+  f ees d c
+  f( e ees)
 
   d8 e
   f4 f f e
@@ -120,7 +120,7 @@ tenor = \relative c {
 
   bes4
   a c bes a8 g
-  f2.
+  f4( g a)
 
   f4
   f c' d c8 bes
@@ -141,11 +141,11 @@ bass = \relative c {
   a d c
 
   d8 e
-  f4 a g f8 e
-  d4( c2)
+  f4 fis g f8 e
+  d4( des c)
 
   bes4
-  a a g c
+  a d g, c
   f2.
 
 }
