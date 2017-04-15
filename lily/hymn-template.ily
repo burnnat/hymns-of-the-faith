@@ -9,6 +9,11 @@
         \voiceOne
         \soprano
 
+        \new Voice = "refrain" {
+          \voiceThree
+          \refrain
+        }
+
         \bar "|."
       }
 

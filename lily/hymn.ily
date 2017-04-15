@@ -16,6 +16,38 @@
         (markup #:smallCaps m))
       empty-stencil)))
 
+dropLyrics =
+  #(define-music-function
+    (parser location offset music)
+    (number? ly:music?)
+    "Adjust vertical spacing of lyrics"
+    #{
+      \override LyricText.extra-offset = #(cons 0 offset)
+      \override LyricHyphen.extra-offset = #(cons 0 offset)
+      \override LyricExtender.extra-offset = #(cons 0 offset)
+      \override StanzaNumber.extra-offset = #(cons 0 offset)
+      $music
+      \revert LyricText.extra-offset
+      \revert LyricHyphen.extra-offset
+      \revert LyricExtender.extra-offset
+      \revert StanzaNumber.extra-offset
+    #})
+
+markRefrain =
+  #(define-music-function
+    (parser location)
+    ()
+    "Add a rehearsal mark indicating the start of a refrain"
+    #{
+      \once \override Score.RehearsalMark.self-alignment-X = #LEFT
+      \mark \markup {
+        \pad-to-box #'(0 . 0) #'(0 . 4) {
+          \normalsize
+          \italic { Refrain }
+        }
+      }
+    #})
+
 \paper
 {
   #(set-paper-size "letter")
@@ -118,6 +150,9 @@ globalDefaults =
 
   \mergeDifferentlyDottedOn
 }
+
+% Not all hymns have a refrain, so define an empty on by default.
+refrain = {}
 
 \layout
 {
