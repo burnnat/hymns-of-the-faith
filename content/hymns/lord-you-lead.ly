@@ -22,11 +22,11 @@ stanzas = <<
     Lord, you lead to fields of green
     and crys -- tal wa -- ters fresh;
     here I find my soul re -- stored,
-    and for my bo -- dy, rest.
+    and for my bod -- y, rest.
 
     From Your cool -- ing stream I'll drink,
     and in Your pas -- _ ture _ feed.
-    No -- thing more do I re -- quire;
+    Noth -- ing more do I re -- quire;
     Your flock has all I need.
   }
 
@@ -40,7 +40,7 @@ stanzas = <<
 
     Hid -- den com -- fort, qui -- et calm,
     Your work -- ings are _ to _ me,
-    pres -- ent peace, and fu -- ture hope,
+    pre -- sent peace, and fu -- ture hope,
     poured out a -- bun -- dant -- ly.
   }
 
@@ -151,7 +151,7 @@ bass = \relative c {
   ees8 g bes4 bes
   c8 c bes4 bes
   g f ees c
-  aes g f
+  aes( g f)
 
   g8 g g4 c
   bes8 bes bes4 g

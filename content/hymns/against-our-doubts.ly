@@ -114,7 +114,7 @@ alto = \relative c' {
   e e e2.
 
   e4
-  d d cis fis
+  d d cis cis
   d d d
 
   d4
@@ -126,7 +126,7 @@ alto = \relative c' {
   e cis d
 
   d4
-  b a b d
+  b b b8 cis d4
   b a a2
 }
 

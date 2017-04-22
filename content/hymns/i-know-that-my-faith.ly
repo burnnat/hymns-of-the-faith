@@ -21,7 +21,7 @@ stanzas = <<
 
     I know that my faith is not my faith a -- lone;
     as sib -- lings in Christ we shall live,
-    to rest in com -- mu -- ni -- ty’s spir -- i -- tual home
+    to rest in com -- mu -- ni -- ty’s spir -- it -- ual home
     and bol -- ster what oth -- ers can give.
   }
 
@@ -29,7 +29,7 @@ stanzas = <<
     \set stanza = "2. "
 
     What prof -- its I have I will glad -- ly pro -- vide
-    for min -- i -- stry’s work to be done,
+    for min -- is -- try’s work to be done,
     as true wealth is found in re -- new -- al of lives
     to wit -- ness for dec -- ades to come.
   }
@@ -39,14 +39,14 @@ stanzas = <<
 
     To those who have fal -- tered, or fal -- len, or failed,
     for -- give -- ness for all I ex -- tend,
-    to fol -- low the way of my Sa -- vior and Lord,
+    to fol -- low the way of my Sav -- ior and Lord,
     en -- cour -- ag -- er, lead -- er, and friend.
   }
 
   \new Lyrics \lyricsto "sopranos" {
     \set stanza = "4. "
 
-    And ev -- en when called on to walk diff -- erent roads,
+    And e -- ven when called on to walk diff -- erent roads,
     we all share an ul -- ti -- mate goal
     to spread forth the gos -- pel, with each one be -- stowed
     their own com -- ple -- men -- ta -- ry role.

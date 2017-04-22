@@ -38,7 +38,7 @@ stanzas = <<
     and strive as one to show God's works
     with all His pow'r and might.
     With one strong voice, to -- geth -- er claim
-    the pro -- mise of _ the King:
+    the prom -- ise of _ the King:
     that He will sure -- ly see you through,
     to grow, re -- joice, and sing.
   }
@@ -49,7 +49,7 @@ stanzas = <<
     O Chris -- tian seek -- er, child of God,
     for -- give your fel -- _ low man;
     as Christ for -- gave, so must we all
-    to act u -- pon His plan.
+    to act up -- on His plan.
     Be fo -- cus'd on what you can give,
     and not what you _ re -- ceive,
     to spread Christ's mes -- sage far and wide,

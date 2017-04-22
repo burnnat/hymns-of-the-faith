@@ -20,7 +20,7 @@ stanzas = <<
     \set stanza = "1. "
 
     Pre -- pare ye the way of the Lord!
-    The pro -- phet I -- sa -- iah fore -- told
+    The proph -- et I -- sa -- iah fore -- told
     de -- liv -- er -- ance planned by Ho -- ly God since
     cre -- a -- tion’s first dawn _ to un -- fold.
   }
@@ -40,7 +40,7 @@ stanzas = <<
     “Pre -- pare ye the way of the Lord!
     Like vi -- pers you flee from the storm!
     Re -- pent of your sin, do jus -- tice a -- gain;
-    make mer -- cy and kind -- _ ness your norm.”
+    make mer -- cy and kind_ ness your norm.”
   }
 
   \new Lyrics \lyricsto "sopranos" {
@@ -66,7 +66,7 @@ stanzas = <<
 
     “Pre -- pare ye the way of the Lord,”
     still groans all cre -- a -- tion in pain.
-    To glimpse at the Son’s in -- her -- i -- tance of
+    To glimpse at the Son’s in -- her -- it -- ance of
     re -- demp -- tion, all na -- _ ture does strain.
   }
 
@@ -85,7 +85,7 @@ stanzas = <<
     Pre -- pare ye the way of the Lord!
     His com -- ing once more is at hand!
     His judg -- ment is set, to raise up the dead,
-    and reign high a -- bove _ ev -- ery land!
+    and reign high a -- bove _ eve -- ry land!
   }
 >>
 

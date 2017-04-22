@@ -19,7 +19,7 @@ stanzas = <<
   \new Lyrics \lyricsto "sopranos" {
     \set stanza = "1. "
 
-    Fa -- ther al -- might -- y made em -- pty in flesh,
+    Fa -- ther al -- might -- y made emp -- ty in flesh,
     Je -- su, Em -- man -- u -- el, Christ -- us,
     we praise you, cre -- a -- tor, born con -- queror of death,
     God yet be -- fore us, now with us.
@@ -29,7 +29,7 @@ stanzas = <<
     \set stanza = "2. "
 
     Born Prince of Peace in a loud, hec -- tic world,
-    few would ack -- now -- ledge or no -- tice;
+    few would ac -- knowl -- edge or no -- tice;
     Lord, aid us, your whis -- pers of grace to be heard,
     com -- fort and calm and sus -- tain us.
   }
@@ -37,9 +37,9 @@ stanzas = <<
   \new Lyrics \lyricsto "sopranos" {
     \set stanza = "3. "
 
-    Je -- sus, your pre -- sence is all we re -- quire,
+    Je -- sus, your pres -- ence is all we re -- quire,
     bright, shin -- ing Light for our dark -- ness.
-    Come, guide us with pil -- lars of cloud and of fire,
+    Come, guide us with pillars of cloud and of fire,
     Spir -- it, with -- in and a -- mong us.
   }
 >>

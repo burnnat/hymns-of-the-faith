@@ -37,8 +37,8 @@ stanzas = <<
   \new Lyrics \lyricsto "sopranos" {
     \set stanza = "3. "
 
-    Re -- deem -- er kins -- man, pi -- ty me
-    a -- midst my life of po -- ver -- ty.
+    Re -- deem -- er kins -- man, pit -- y me
+    a -- midst my life of pov -- er -- ty.
     No more a stran -- ger I shall be;
     Your love will raise me up.
   }
