@@ -102,7 +102,7 @@ alto = \relative c' {
   d4
   cis8. b16 cis4 b
   a8 b cis4 a
-  cis8. b16 cis4 d
+  c8. b16 c4 d
   d2
 
   d4
