@@ -1,5 +1,6 @@
 var readline = require('readline');
 var fs = require('fs');
+var path = require('path');
 
 var async = require('async');
 
@@ -12,33 +13,60 @@ if (!lilypond) {
 
 var dict = {};
 
-var readHyphens = function(file, syllable, callback) {
-	var input = readline.createInterface({
-		input: fs.createReadStream(file, { encoding: 'utf8' })
-	});
+var loadDictionaries = function(done) {
+	var encoding = 'utf8';
+	var cache = path.join(__dirname, 'hyph.json');
 
-	input.on('line', function(line) {
-		var raw = line.replace(syllable, '');
+	try {
+		var raw = fs.readFileSync(cache, { encoding: encoding });
 
-		var indexes = [];
-		var match;
+		console.log('Loading hyphenations from cache...');
+		dict = JSON.parse(raw);
+		done();
+	}
+	catch (e) {
+		console.log('Processing hyphenations...');
 
-		while (match = syllable.exec(line)) {
-			indexes.unshift(match.index - indexes.length);
-		}
+		var readHyphens = function(file, syllable, callback) {
+			var input = readline.createInterface({
+				input: fs.createReadStream(
+					path.join(__dirname, file),
+					{ encoding: encoding }
+				)
+			});
 
-		dict[raw] = indexes;
-	});
+			input.on('line', function(line) {
+				var raw = line.replace(syllable, '');
 
-	input.on('close', callback);
-};
+				var indexes = [];
+				var match;
 
-var readMoby = readHyphens.bind(this, 'mhyph.txt', /\uFFFD/g);
-var readCustom = readHyphens.bind(this, 'hyph-custom.txt', /-/g);
+				while (match = syllable.exec(line)) {
+					indexes.unshift(match.index - indexes.length);
+				}
 
+				dict[raw] = indexes;
+			});
 
-var insertAt = function(string, index, value) {
-	return string.slice(0, index) + value + string.slice(index);
+			input.on('close', callback);
+		};
+
+		var readMoby = readHyphens.bind(this, 'mhyph.txt', /\uFFFD/g);
+		var readCustom = readHyphens.bind(this, 'hyph-custom.txt', /-/g);
+
+		var writeJson = function(callback) {
+			fs.writeFile(cache, JSON.stringify(dict), { encoding: encoding }, callback);
+		};
+
+		async.series([
+			readMoby,
+			readCustom,
+			writeJson,
+			function() {
+				done();
+			}
+		]);
+	}
 };
 
 var processLilypond = function(callback) {
@@ -46,6 +74,10 @@ var processLilypond = function(callback) {
 	var contents = fs.readFileSync(lilypond, { encoding: encoding });
 
 	var line = /(.*?)((?:%.*)?\r?\n)/g;
+
+	var insertAt = function(string, index, value) {
+		return string.slice(0, index) + value + string.slice(index);
+	};
 
 	contents = contents.replace(
 		/(\\new Lyrics[\s\S]*?\{(?:\s*?\\.+\r?\n)*)([\s\S]*?)(\})/g,
@@ -95,8 +127,24 @@ var processLilypond = function(callback) {
 	fs.writeFile(lilypond, contents, { encoding: encoding }, callback);
 };
 
+var logAsync = function(message) {
+	return function(callback) {
+		console.log(message);
+		callback();
+	};
+};
+
 async.series([
-	readMoby,
-	readCustom,
-	processLilypond
+	function(callback) {
+		console.time('Completed in');
+		callback();
+	},
+	logAsync('Loading hyphenation dictionaries...'),
+	loadDictionaries,
+	logAsync('Processing input file...'),
+	processLilypond,
+	function(callback) {
+		console.timeEnd('Completed in');
+		callback();
+	},
 ]);
