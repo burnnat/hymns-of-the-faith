@@ -45,36 +45,50 @@ var processLilypond = function(callback) {
 	var encoding = 'utf8';
 	var contents = fs.readFileSync(lilypond, { encoding: encoding });
 
+	var line = /(.*?)((?:%.*)?\r?\n)/g;
+
 	contents = contents.replace(
 		/(\\new Lyrics[\s\S]*?\{(?:\s*?\\.+\r?\n)*)([\s\S]*?)(\})/g,
 		function(match, start, words, end) {
-			var hyphenated = words.replace(
-				/\b(?:\w| -- )+\b/g,
-				function(raw) {
-					var word = raw.replace(/ -- /g, '');
-					var normalized = word.toLowerCase();
-					var indexes = dict[normalized];
+			var hyphenated = start;
+			var submatch;
 
-					if (!indexes) {
-						normalized = normalized.replace(/e?s$/g, '');
-						indexes = dict[normalized];
-					}
+			while (submatch = line.exec(words)) {
+				var lineStart = submatch[1];
+				var lineEnd = submatch[2];
 
-					if (!indexes) {
-						return word;
-					}
-					else {
-						return indexes.reduce(
-							function(value, index) {
-								return insertAt(value, index, ' -- ');
-							},
-							word
-						);
-					}
-				}
-			);
+				hyphenated += lineStart.replace(
+					/\b(?:\w| -- )+\b/g,
+					function(raw) {
+						var word = raw.replace(/ -- /g, '');
+						var normalized = word.toLowerCase();
+						var indexes = dict[normalized];
 
-			return start + hyphenated + end;
+						if (!indexes) {
+							normalized = normalized.replace(/e?s$/g, '');
+							indexes = dict[normalized];
+						}
+
+						if (!indexes) {
+							return word;
+						}
+						else {
+							return indexes.reduce(
+								function(value, index) {
+									return insertAt(value, index, ' -- ');
+								},
+								word
+							);
+						}
+					}
+				);
+
+				hyphenated += lineEnd;
+			}
+
+			hyphenated += end;
+
+			return hyphenated;
 		}
 	)
 
