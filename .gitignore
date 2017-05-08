@@ -3,3 +3,4 @@ build/
 vendor/
 options.json
 content/hymns/*.pdf
+hyphenation/hyph.json
