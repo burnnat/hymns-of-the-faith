@@ -139,7 +139,7 @@ async.series([
 		console.time('Completed in');
 		callback();
 	},
-	logAsync('Loading hyphenation dictionaries...'),
+	logAsync('Initializing hyphenation dictionary...'),
 	loadDictionaries,
 	logAsync('Processing input file...'),
 	processLilypond,
