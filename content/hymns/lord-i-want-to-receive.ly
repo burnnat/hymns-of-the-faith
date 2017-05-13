@@ -38,7 +38,7 @@ stanzas = <<
     \set stanza = "3. "
 
     To re -- store what my sin -- ful acts have cost
-    for all those wronged by me,
+    to all those wronged by me,
     may my love be as yours, a four -- fold love
     of gen -- er -- os -- i -- ty.
   }
@@ -95,7 +95,7 @@ alto = \relative c' {
   c2 a4
   a2.~ a2
 
-  a8 a
+  a8 b
   c4. c8 b4
   c2 d4
   d( c) b
@@ -141,10 +141,10 @@ bass = \relative c {
   b4
   c2 b4
   a2 c4
-  d2( e4 fis2)
+  d2( e4 d2)
 
   d8 d
-  c4. c8 b4
+  c4. c8 d4
   c2 b4
   a2 a4
   d2
