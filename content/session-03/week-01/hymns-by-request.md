@@ -3,7 +3,6 @@ pdf: true
 ---
 {{#repeat 3}}
 ## Hymns By Request
-<br/>
 I would like to study hymns related to:
 
 {{~#trim}}
@@ -25,7 +24,6 @@ I would like to study hymns related to:
 
 {{#repeat 4}}<div class="blank"></div>{{/repeat}}
 
-<br/>
 <br/>
 <br/>
 
