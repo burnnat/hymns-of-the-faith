@@ -1,0 +1,92 @@
+---
+title: Justice and Mercy
+resources:
+  - name: Hymn Suggestions
+    file: hymns-by-request.pdf
+  - name: There's a Wideness in God's Mercy
+    file: theres-a-wideness.pdf
+---
+## {{{hymn "Inspired by Love and Anger" id="inspired_by_love_and_anger"}}}
+
+Text: John L. Bell (1949– ), Graham Maule (1958– ), 1987
+ - Born in Kilmarnock, Scotland, Bell is ordained in the Church of Scotland
+ - Originally worked as a youth pastor serving a 500-church region
+ - Joined the Iona Community 5 years later in a similar role, where he met Graham Maule{{{ref "For Whom the Bell Toils, by Emily Brink" "https://www.reformedworship.org/article/march-1993/whom-bell-toils-interview-john-bell-iona-community"}}}
+{{#if notes}}
+	- The Iona Community is an ecumenical organization focused on building relationships and community between Christians of all backgrounds, and has a strong commitment to social peace and justice
+	- The community restored and runs the historic abbey on the island of Iona, and also develops and publishes materials for new and innovative forms of worship
+{{/if}}
+ - Together, their work with youth led them to focus on creating new, relevant worship songs
+
+Tune: Keith Getty (1974– ), Kristyn Getty (1980– ), 2005
+ - Born in Northern Ireland, Keith and Kristyn Getty now live in Nashville, Tennessee
+ - Their best-known hymn is "In Christ Alone", written in conjunction with Stuart Townend
+ - This tune was originally written for the Gettys' hymn "Beneath the Cross"
+ - It replaces {{{caps "Salley Gardens"}}}, the original tune for "Inspire by Love" based on an Irish folk song
+
+1. What role does the idea of "righteous anger" play in a Christian life? Is it possible to take it too far? Do you have examples of this from personal experience or current events?
+{{#if notes}}
+	- "Righteous anger" is not bad in itself; remember Jesus angrily overturning the moneychangers' tables at the temple ({{{verse "Matthew 21:12-13"}}}, {{{verse "John 2:13-16"}}})
+		- When considering Jesus' reaction, some have [pointed out](https://christianity.stackexchange.com/questions/25776/why-did-jesus-physically-throw-out-the-money-changers-instead-of-winning-the-arg#answer-25786) that "reason is appropriate when the problem is merely a misunderstanding, but judgment is appropriate when the problem is willful disobedience"
+	- Social media has increased the role of "public shaming" in society, which often morphs into a form of "vigilante justice" whose effects people don't often see
+		- The case of Justine Sacco is one example - an insensitive tweet caused her to be labeled "racist", fired from her job, accosted and threatened
+		- See this article for a full story:
+		  https://www.nytimes.com/2015/02/15/magazine/how-one-stupid-tweet-ruined-justine-saccos-life.html
+{{/if}}
+
+2. An additional third verse reads:
+	> From those forever shackled to what their wealth can buy,
+	> The fear of lost advantage provokes the bitter cry,
+	> “Don’t query our position! Don’t criticise our wealth!
+	> Don’t mention those exploited by politics and stealth!”
+
+	This seems to be quite a sharply-worded rebuke of the rich; do you think such strong language is warranted? Are there other groups not mentioned that should also be singled out for living unjustly?
+{{#if notes}}
+	- Critiques of the rich are common both in the Bible and today
+		- Remember Jesus' words in {{{verse "Matthew 19:24"}}} ("...it is easier for a camel to go through the eye of a needle than for a rich person to enter the kingdom of God...")
+		- For current examples, think of "Occupy Wall Street" and the so-called "one-percenters"
+	- Remember also {{{verse "Luke 12:48"}}} ("...to whom much is given, much is required.")
+{{/if}}
+
+{{#if notes}}{{{pagebreak}}}{{/if}}
+
+## {{{hymn "There's a Wideness in God's Mercy" id="theres_a_wideness_in_gods_mercy"}}}
+
+Text: Frederick William Faber (1814–1863), 1862
+ - Born into a strong Calvinist family, he became an Anglican vicar, like his grandfather
+ - While studying at Oxford, he became involved with the "Oxford Movement" of John Henry Newman
+ - When Newman eventually left the Church of England to become Roman Catholic, so did Faber
+ - Began writing hymns out of dissatisfaction with the quality of Catholic church music
+ - Another famous hymn of Faber's is "Faith of our Fathers, Living Still"
+
+Tune: Lizzie Tourjée Estabrook (1858–1913), 1877
+ - Lived in New England, daughter of Dr. Eben Tourjée, a famous music educator who founded the New England Conservatory of Music, served as the first dean of the college of music at Boston University, and is credited with creating the concept of a "praise-meeting" service instrumental in gospel revivals{{{ref "New England Conservatory of Music, Archives" "https://necmusic.edu/archives/eben-tourjee"}}}
+ - Graduated from the New England Conservatory of Music herself in 1876, and worked as a music teacher and organist
+ - Her sister Clara also studied music and was well-regarded as a soloist performer
+ - Mar­ried Franklin Estabrook in 1883, and had a son Rufus in 1885{{{ref "Genealogy of the Estabrook Family, by William Estabrook; pp. 150, 203" "https://books.google.com/books?id=gkwGA_qNqCIC&lpg=PA53&ots=rb_OrjPBWX&dq=franklin%20estabrook&pg=PA3#v=onepage&q&f=false"}}}
+{{#if notes}}
+	- The Estabrook family has a long history in New England, with the first members arriving in the 1660s; there are many schools, roads, etc. with the name Estabrook in the area of Wellesley, MA for which the tune is named
+{{/if}}
+ - Wrote this tune {{{caps "Wellesley"}}} for her high school graduation in Newton, MA, to accompany Faber's text{{{ref "Sisters In Song, by Leslie Clay; p. 45" "https://books.google.com/books?id=AfZYAgAAQBAJ&lpg=PT45&ots=8k4HWcBQq4&pg=PT45#v=onepage&q&f=false"}}}
+ - It was first included in {{{book "Hymnal of the Methodist Episcopal Church with Tunes"}}}, of which her father was a member of the editorial committee
+
+1. Although Bell focuses on the theme of justice, and Faber on the theme of mercy, what similarities do you see between their two hymns? What does "There's a Wideness" say about the relationship between justice and mercy?
+{{#if notes}}
+	- Faber's original title "Come to Jesus" echoes the final verse of "Inspired by Love"
+	- "There's a wideness in God's mercy ... There's a kindness in His justice": justice isn't justice without mercy and kindness
+{{/if}}
+
+2. Read verse 9 from Faber's original version of the hymn. What does Faber see as the difference between human justice and divine justice?
+{{#if notes}}
+	- Human nature can often take "justice" and turn it into "strictness" that God never intended
+	- The idea of an "unforgivable sin" is a purely human one, and one that changes over time. What things do people consider "unforgivable sins" today?
+{{/if}}
+
+3. Compare the final verse from the original text against the version in the United Methodist hymnal. Does this change the meaning of the hymn at all to you? Which version do you think fits better in context?
+{{#if notes}}
+	- "take Him at His word" vs. "rest upon God's word"
+		- Suggests believing what He says is true, rather than simply saying "remember to read the Bible"
+	- "all sunshine in the sweetness of our Lord" vs. "illumined by the presence of our Lord"
+		- A generic picture of happiness (maybe overly so?) is replaced with God "lighting our way" through life
+	- The original message "come to Jesus" seems targeted at non-believers, the new version seems more applicable to those who already believe
+{{/if}}

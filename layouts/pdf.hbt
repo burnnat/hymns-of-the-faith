@@ -5,7 +5,9 @@
 	<link rel="stylesheet" href="/styles/pdf.css"/>
 </head>
 <body>
-	<h1 class="title">Week {{week}}: {{title}}</h1>
+	{{#if title}}
+		<h1 class="title">Week {{week}}: {{title}}</h1>
+	{{/if}}
 	{{#if subtitle}}
 		<h3 class="subtitle">{{subtitle}}</h1>
 	{{/if}}
