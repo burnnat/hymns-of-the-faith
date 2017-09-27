@@ -22,8 +22,6 @@ var exclude = require('./lib/exclude');
 var lilypond = require('./lib/lilypond');
 var pdf = require('./lib/pdf');
 
-console.log(process.env.DEBUG);
-
 var metalsmith = Metalsmith(__dirname)
 	.source('content')
 	.destination('build');
