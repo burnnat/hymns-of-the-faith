@@ -159,7 +159,10 @@ function sortIndexes(files, metalsmith, done) {
 		data.entries = _.sortBy(
 			_.map(
 				data.indexes[data.index],
-				(value, key) => _.extend({}, value, { value: key })
+				(value, key) => ({
+					value: key,
+					file: value
+				})
 			),
 			['value']
 		);

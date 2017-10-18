@@ -25,7 +25,7 @@
 		<ul class="index-list">
 			{{#each entries}}
 				<li>
-					<a href="../session-{{this.session}}/week-{{this.week}}/notes.html">{{this.value}}</a>
+					<a href="../{{this.file}}">{{this.value}}</a>
 				</li>
 			{{/each}}
 		</ul>
