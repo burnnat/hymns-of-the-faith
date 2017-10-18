@@ -19,7 +19,7 @@
 					{{this.value}}:
 					<ul>
 						{{#each refs}}
-							<lit>
+							<li>
 								<a href="../{{this.link}}">{{this.title}} (week {{this.week}})</a>
 							</li>
 						{{/each}}
