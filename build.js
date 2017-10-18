@@ -161,7 +161,7 @@ function sortIndexes(files, metalsmith, done) {
 				data.indexes[data.index],
 				(value, key) => ({
 					value: key,
-					file: value
+					refs: value
 				})
 			),
 			['value']

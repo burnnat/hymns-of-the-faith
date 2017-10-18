@@ -7,18 +7,23 @@
 	{{>analytics}}
 </head>
 <body>
-	<section class="page-header">
-		<h1 class="project-name">{{title}}</h1>
-	</section>
 	<section class="main-content">
-		{{{contents}}}
+		<h1>{{title}}</h1>
 		<p>
 			<a href="../index.html">&larr; Return to homepage</a>
 		</p>
+		{{{contents}}}
 		<ul class="index-list">
 			{{#each entries}}
 				<li>
-					<a href="../{{this.file}}">{{this.value}}</a>
+					{{this.value}}:
+					<ul>
+						{{#each refs}}
+							<lit>
+								<a href="../{{this.link}}">{{this.title}} (week {{this.week}})</a>
+							</li>
+						{{/each}}
+					</ul>
 				</li>
 			{{/each}}
 		</ul>
