@@ -2,8 +2,8 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8" />
-	<title>Hymns of the Faith | {{title}}</title>
-	<link rel="stylesheet" href="../styles/web.css"/>
+	<title>{{title}}</title>
+	<link rel="stylesheet" href="styles/web.css"/>
 	<script>
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -16,19 +16,25 @@
 <body>
 	<section class="page-header">
 		<h1 class="project-name">{{title}}</h1>
+		<h2 class="project-tagline">{{tagline}}</h2>
 	</section>
 	<section class="main-content">
+		{{#each collections.sessions}}
+			<h1>
+				Session {{this.session}}:
+				<a href="{{this.folder}}/overview.html">{{this.title}}</a>
+			</h1>
+			<p>{{this.tagline}}</p>
+			<ol class="week-list">
+				{{#each this.weeks}}
+					<li>
+						Week {{this.week}}:
+						<a href="{{this.folder}}/notes.html">{{this.title}}</a>
+					</li>
+				{{/each}}
+			</ol>
+		{{/each}}
 		{{{contents}}}
-		<p>
-			<a href="../index.html">&larr; Return to homepage</a>
-		</p>
-		<ul class="index-list">
-			{{#each entries}}
-				<li>
-					<a href="../session-{{this.session}}/week-{{this.week}}/notes.html">{{this.value}}</a>
-				</li>
-			{{/each}}
-		</ul>
 		{{>footer}}
 	</section>
 </body>

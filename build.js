@@ -2,6 +2,7 @@ process.env.DEBUG = '*';
 
 var path = require('path');
 
+var _ = require('lodash');
 var extname = require('path-complete-extname');
 var Metalsmith = require('metalsmith');
 var branch = require('metalsmith-branch');
@@ -9,9 +10,9 @@ var collections = require('metalsmith-collections');
 var copy = require('metalsmith-copy');
 var debug = require('metalsmith-debug');
 var fileMetadata = require('metalsmith-filemetadata');
-var layouts = require('metalsmith-layouts');
+var rawLayouts = require('metalsmith-layouts');
 var markdown = require('metalsmith-markdown');
-var templates = require('metalsmith-in-place');
+var rawTemplates = require('metalsmith-in-place');
 var sass = require('metalsmith-sass');
 
 var Handlebars = require('./lib/handlebars');
@@ -21,6 +22,19 @@ var changes = require('./lib/changes');
 var exclude = require('./lib/exclude');
 var lilypond = require('./lib/lilypond');
 var pdf = require('./lib/pdf');
+
+var templates = rawTemplates({
+	engineOptions: {
+		breaks: true,
+		html: true,
+		typographer: true
+	}
+});
+
+var layouts = rawLayouts({
+	engine: 'handlebars',
+	partials: 'partials'
+});
 
 var metalsmith = Metalsmith(__dirname)
 	.source('content')
@@ -74,28 +88,29 @@ metalsmith
 					pdf: true,
 					notes: false
 				}
+			},
+			{
+				pattern: 'indexes/*.html.md.hbs',
+				metadata: {
+					layout: 'index.hbt'
+				}
 			}
 		])
 	)
 	.use(customCollections)
 	.use(
-		branch()
-			.pattern('**/*.md.hbs')
+		branch('**/*.md.hbs')
 			.use(assignLayouts)
 			.use(
-				templates({
-					engineOptions: {
-						breaks: true,
-						html: true,
-						typographer: true
-					}
-				})
+				branch((file, props, i) => props.folder !== 'indexes')
+					.use(templates)
+					.use(layouts)
 			)
 			.use(
-				layouts({
-					engine: 'handlebars',
-					partials: 'partials'
-				})
+				branch((file, props, i) => props.folder === 'indexes')
+					.use(sortIndexes)
+					.use(templates)
+					.use(layouts)
 			)
 	)
 	.use(sass({ outputStyle: 'compressed' }))
@@ -133,4 +148,26 @@ function rename(pattern, name) {
 			return path.join(path.dirname(file), name + extname(file));
 		}
 	});
+}
+
+function sortIndexes(files, metalsmith, done) {
+	var data;
+
+	for (var file in files) {
+		data = files[file];
+
+		data.entries = _.sortBy(
+			_.map(
+				data.indexes[data.index],
+				(value, key) => _.extend({}, value, { value: key })
+			),
+			['value']
+		);
+
+		if (data.pdf) {
+			data.layout = 'pdf.hbt';
+		}
+	}
+
+	done();
 }
