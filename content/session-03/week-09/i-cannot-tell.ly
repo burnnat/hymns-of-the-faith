@@ -1,5 +1,10 @@
 \include "hymn.ily"
 
+\paper
+{
+  page-count = 2
+}
+
 \header {
   title = "I Cannot Tell"
   poet = "William Fullerton, 1920"
@@ -17,54 +22,54 @@ stanzas = <<
   \new Lyrics \lyricsto "sopranos" {
     \set stanza = "1. "
 
-    I cannot tell why he, whom angels worship,
-    should set his love upon the sons of men,
-    or why, as Shepherd, he should seek the wanderers,
+    I can -- not tell why he, whom an -- gels wor -- ship,
+    should set his love up -- on the sons of men,
+    or why, as Shep -- herd, he should seek the wan -- d’rers,
     to bring them back, they know not how or when.
-    But this I know, that he was born of Mary
-    when Bethl'em's manger was his only home,
-    and that he lived at Nazareth and laboured,
-    and so the Saviour, Saviour of the world, is come.
-}
+    But this I know, that he was born of Mar -- y
+    when Beth -- l’em’s man -- ger was his on -- ly home,
+    and that he lived at Naz -- a -- reth and la -- bored,
+    and so the Sav -- iour, Sav -- iour of the world, is come.
+  }
 
   \new Lyrics \lyricsto "sopranos" {
     \set stanza = "2. "
 
-    I cannot tell how silently he suffered,
+    I can -- not tell how si -- lent -- ly he suf -- fered,
     as with his peace he graced this place of tears,
-    or how his heart upon the cross was broken,
-    the crown of pain to three and thirty years.
-    But this I know, he heals the broken-hearted
-    and stays our sin and calms our lurking fear
-    and lifts the burden from the heavy laden;
-    for still the Saviour, Saviour of the world is here.
-}
+    or how his heart up -- on the cross was bro -- ken,
+    the crown of pain to three and thir -- ty years.
+    But this I know, he heals the bro -- ken -- heart -- ed
+    and stays our sin and calms our lurk -- ing fear
+    and lifts the bur -- den from the heav -- y lad -- en;
+    for still the Sav -- iour, Sav -- iour of the world is here.
+  }
 
   \new Lyrics \lyricsto "sopranos" {
     \set stanza = "3. "
 
-    I cannot tell how he will win the nations,
-    how he will claim his earthly heritage,
-    how satisfy the needs and aspirations
-    of east and west, of sinner and of sage.
-    But this I know, all flesh shall see his glory,
-    and he shall reap the harvest he has sown,
-    and some glad day his sun will shine in splendour
-    when he the Saviour, Saviour of the world, is known.
-}
+    I can -- not tell how he will win the na -- tions,
+    how he will claim his earth -- ly her -- it -- age,
+    how sat -- is -- fy the needs and as -- pi -- ra -- tions
+    of east and west, of sin -- ner and of sage.
+    But this I know, all flesh shall see his glo -- ry,
+    and he shall reap the har -- vest he has sown,
+    and some glad day his sun will shine in splen -- dour
+    when he the Sav -- iour, Sav -- iour of the world, is known.
+  }
 
   \new Lyrics \lyricsto "sopranos" {
     \set stanza = "4. "
 
-    I cannot tell how all the lands shall worship,
-    when at his bidding every storm is stilled,
-    or who can say how great the jubilation
-    when every heart with love and joy is filled.
-    But this I know, the skies will thrill with rapture,
-    and myriad myriad human voices sing,
-    and earth to heav'n, and heav'n to earth, will answer,
-    "At last the Saviour, Saviour of the world, is King!"
-}
+    I can -- not tell how all the lands shall wor -- ship,
+    when at his bid -- ding ev -- ery storm is stilled,
+    or who can say how great the ju -- bi -- la -- tion
+    when eve -- ry heart with love and joy is filled.
+    But this I know, the skies will thrill with rap -- ture,
+    and myr -- iad myr -- iad hu -- man voic -- es sing,
+    and earth to heav’n, and heav’n to earth, will an -- swer,
+    “At last the Sav -- iour, Sav -- iour of the world, is King!”
+  }
 >>
 
 soprano = \relative c' {
@@ -73,6 +78,8 @@ soprano = \relative c' {
   c4 des ees
   f2. ees4 f bes aes f
   ees( des) bes2.
+
+  \linebreak
 
   des4 f ges
   aes2. bes4 aes f des f
@@ -84,6 +91,8 @@ soprano = \relative c' {
   f2. ees4 f bes aes f
   ees( des) bes2.
 
+  \linebreak
+
   c4 des ees
   f2. ges4 f ees des ees
   des1~ des4
@@ -94,6 +103,8 @@ soprano = \relative c' {
   des2. c4 c bes aes f
   aes( f) des2.
 
+  \linebreak
+
   aes'4 bes c
   des2. c4 c bes aes f
   ees1~ ees4
@@ -103,6 +114,8 @@ soprano = \relative c' {
   aes4 aes aes
   f'2. ees4 ees des bes des
   aes( f) des2.
+
+  \linebreak
 
   c4 des ees
   f bes aes f ees des bes c
