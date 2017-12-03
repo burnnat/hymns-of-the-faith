@@ -29,7 +29,7 @@ stanzas = <<
     But this I know, that he was born of Mar -- y
     when Beth -- l’em’s man -- ger was his on -- ly home,
     and that he lived at Naz -- a -- reth and la -- bored,
-    and so the Sav -- iour, Sav -- iour of the world, is come.
+    and so the Sav -- ior, Sav -- ior of the world, is come.
   }
 
   \new Lyrics \lyricsto "sopranos" {
@@ -42,7 +42,7 @@ stanzas = <<
     But this I know, he heals the bro -- ken -- heart -- ed
     and stays our sin and calms our lurk -- ing fear
     and lifts the bur -- den from the heav -- y lad -- en;
-    for still the Sav -- iour, Sav -- iour of the world is here.
+    for still the Sav -- ior, Sav -- ior of the world is here.
   }
 
   \new Lyrics \lyricsto "sopranos" {
@@ -54,8 +54,8 @@ stanzas = <<
     of east and west, of sin -- ner and of sage.
     But this I know, all flesh shall see his glo -- ry,
     and he shall reap the har -- vest he has sown,
-    and some glad day his sun will shine in splen -- dour
-    when he the Sav -- iour, Sav -- iour of the world, is known.
+    and some glad day his sun will shine in splen -- dor
+    when he the Sav -- ior, Sav -- ior of the world, is known.
   }
 
   \new Lyrics \lyricsto "sopranos" {
@@ -68,7 +68,7 @@ stanzas = <<
     But this I know, the skies will thrill with rap -- ture,
     and myr -- iad myr -- iad hu -- man voic -- es sing,
     and earth to heav’n, and heav’n to earth, will an -- swer,
-    “At last the Sav -- iour, Sav -- iour of the world, is King!”
+    “At last the Sav -- ior, Sav -- ior of the world, is King!”
   }
 >>
 
