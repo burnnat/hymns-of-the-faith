@@ -7,7 +7,7 @@
 
 \header {
   title = "I Cannot Tell"
-  poet = "William Fullerton, 1920"
+  poet = "William Young Fullerton, 1920"
   composer = "Traditional Irish"
   tune = "Londonderry Air"
   meter = "11.10.11.10 D"
