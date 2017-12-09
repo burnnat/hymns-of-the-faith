@@ -17,54 +17,54 @@ stanzas = <<
   \new Lyrics \lyricsto "sopranos" {
     \set stanza = "1. "
 
-    Glory be to God on high,
-    And peace on earth descend;
-    Now God comes down, He bows the sky,
-    And shows Himself our friend!
-    God the invisible appears,
-    God the blest, the great I AM,
-    He sojourns in this vale of tears,
-    And Jesus is His name.
-  }
+    Glo -- ry be to God on high, _
+    and peace on earth de -- scend;
+    God comes down, He bows the sky _
+    and shows Him -- self our friend!
+    God "th’ in" -- vis -- i -- ble _ ap -- pears;
+    God, the _ blest, the great _ I _ AM,
+    so -- journs in this vale of tears, _
+    and Je -- sus _ is His name.
+}
 
   \new Lyrics \lyricsto "sopranos" {
     \set stanza = "2. "
 
-    Him by the angels all adored,
-    Their maker and their king;
-    Lo, tidings of their humbled Lord
-    They now to mortals bring;
-    Emptied of His majesty,
-    Of His dazzling glories shorn,
-    Our being’s Source begins to be,
-    And God Himself is born!
-  }
+    Him the an -- gels all a -- dored, _
+    their mak -- er and their King;
+    Tid -- ings of their hum -- bled Lord _
+    they now to mor -- tals bring.
+    Emp -- tied of His maj -- _ es -- ty,
+    of His _ daz -- zling glo -- _ ries _ shorn,
+    be -- ing’s source be -- gins to be, _
+    and God Him -- _ self is born!
+}
 
   \new Lyrics \lyricsto "sopranos" {
     \set stanza = "3. "
 
-    See the eternal Son of God
-    A mortal Son of Man,
-    Now dwelling in an earthly clod
-    Whom Heaven cannot contain!
-    Stand amazed, ye heavens, look at this!
-    See the Lord of earth and skies
-    Low humbled to the dust He is,
-    And in a manger lies!
-  }
+    See "th’ e" -- ter -- nal Son of God _
+    a mor -- tal Son of Man,
+    dwell -- ing in an earth -- ly clod, _
+    whom heav’n can -- not con -- tain!
+    Stand a -- mazed, ye heav’ns, _ at this!
+    See the _ Lord of earth _ and _ skies;
+    hum -- bled to the dust He is, _
+    and in a _ man -- ger lies!
+}
 
   \new Lyrics \lyricsto "sopranos" {
     \set stanza = "4. "
 
-    So do the sons of men rejoice
-    The Prince of Peace proclaim,
-    With Heaven’s host lift up our voice,
-    And shout Immanuel’s name;
-    Our knees and hearts to Him we bow;
-    Of our flesh, and of our bone,
-    See—Jesus is our brother now,
-    And God is all our own!
-  }
+    We, the sons of men, re -- joice, _
+    the Prince of Peace pro -- claim;
+    with the an -- gels, lift our voice _
+    and shout Im -- man -- uel’s name.
+    Knees and hearts to Him _ we bow,
+    of our _ flesh and of _ our _ bone;
+    Je -- sus is our broth -- er now, _
+    and God is _ all our own!
+}
 >>
 
 soprano = \relative c' {
