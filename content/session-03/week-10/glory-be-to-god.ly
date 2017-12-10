@@ -2,8 +2,8 @@
 
 \header {
   title = "Glory Be To God On High"
-  poet = "Charles Wesley"
-  composer = ""
+  poet = "Charles Wesley, 1744"
+  composer = "Johann Georg Hille, 1742"
   tune = "Amsterdam"
   meter = "7.6.7.6.7.7.7.6"
 }
