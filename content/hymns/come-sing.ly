@@ -91,8 +91,8 @@ soprano =\relative c' {
   d8 c
   b4. a8 b c
   b4 a g8 fis
-  e4. fis8 g e
-  d2
+  e4. fis8 g a
+  b2
 
   \bar "" \break
 
@@ -106,15 +106,81 @@ soprano =\relative c' {
 }
 
 alto = \relative c' {
+  fis4
+  g4. g8 g g
+  g4 e d8 d
+  d4 c c8 c
+  a2
 
+  b4
+  b4. d8 d d
+  e4. e8 fis fis
+  d8 d d4 e
+  fis2
+
+  a4
+  g4. g8 g g
+  g4 fis d8 d
+  c4. d8 e e
+  dis2
+
+  e4
+  e4. e8 d fis
+  d4. d8 d d
+  e4 c c8 c
+  b2
 }
 
 tenor = \relative c {
+  d'4
+  d4. c8 d e
+  d4 c b8 g
+  g4 g g8 g
+  g4( fis)
 
+  g8 fis
+  g4. b8 g b
+  a4 c c8 c
+  b8 b b4 g
+  a2
+
+  d4
+  d4. c8 d e
+  d4 c g8 g
+  g4. g8 g g
+  fis2
+
+  e4
+  a4. g8 fis a
+  g4. g8 g g
+  c4 a a8 fis
+  g2
 }
 
 bass = \relative c {
+  d4
+  g4. g8 g g
+  g4 g g8 b,
+  c4 c a8 a
+  d2
 
+  g8 fis
+  e4. e8 d d
+  c4 a d8 d
+  g fis e4 cis
+  d2
+
+  fis4
+  g4. g8 g g
+  g4 g b,8 b
+  c4. c8 c c
+  b2
+
+  e4
+  a,4. a8 d d
+  g4. g8 b, b
+  c4 c d8 d
+  g,2
 }
 
 \include "hymn-template.ily"
