@@ -36,6 +36,7 @@
 	},
 	"scripts": {
 		"build": "node build.js",
-		"deploy": "./deploy-ghpages.sh"
+		"deploy": "./deploy-ghpages.sh",
+		"hyph": "node ./hyphenation/hyph.js"
 	}
 }

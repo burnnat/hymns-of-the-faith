@@ -161,7 +161,7 @@ var addWord = function(callback) {
 		usageError();
 	}
 
-	fs.appendFileSync(customFile, word + require('os').EOL);
+	fs.appendFileSync(customFile, word.toLowerCase() + require('os').EOL);
 	fs.unlinkSync(cacheFile);
 
 	callback();
