@@ -5,7 +5,7 @@
   title = "Christmas Lullaby"
   poet = "N. Fielding Burns, 2017"
   composer = "N. Fielding Burns, 2017"
-  tune = ""
+  tune = "Berceuse"
   meter = "8.6.8.6 D"
 }
 
