@@ -40,7 +40,7 @@ stanzas = <<
     “Pre -- pare ye the way of the Lord!
     Like vi -- pers you flee from the storm!
     Re -- pent of your sin, do jus -- tice a -- gain;
-    make mer -- cy and kind_ ness your norm.”
+    make mer -- cy and kind -- _ ness your norm.”
   }
 
   \new Lyrics \lyricsto "sopranos" {

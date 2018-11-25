@@ -39,7 +39,7 @@ stanzas = <<
 
     Je -- sus, your pres -- ence is all we re -- quire,
     bright, shin -- ing Light for our dark -- ness.
-    Come, guide us with pillars of cloud and of fire,
+    Come, guide us with pil -- lars of cloud and of fire,
     Spir -- it, with -- in and a -- mong us.
   }
 >>
