@@ -5,7 +5,7 @@
   title = "Christmas Psalm"
   poet = "N. Fielding Burns, 2018"
   composer = "N. Fielding Burns, 2018"
-  tune = ""
+  tune = "Gittith"
   meter = "9.9.9.7 9.7.9.9"
 }
 
@@ -129,15 +129,145 @@ soprano = \relative c' {
 }
 
 alto = \relative c' {
+  c4
+  c2 c4
+  c2 c4
+  f4 f e
+  f2
 
+  e4
+  f f e
+  f2 e4
+  e d2
+  e
+
+  c4
+  c2 c4
+  c2 c4
+  f f e
+  c2
+
+  d4
+  d bes c
+  d2 d4
+  c2.~ c2
+
+  d4
+  d d d
+  d2 f4
+  f2 e4
+  d2
+
+  d4
+  e g e
+  d2 f4
+  f2.( e2)
+
+  c4
+  c2 c4
+  e2 c4
+  f f e
+  f2
+
+  d4
+  g f d
+  d2 d4
+  f e2
+  c2
 }
 
 tenor = \relative c {
+  c4
+  a'2 c,4
+  g'2 c,4
+  bes'4 bes c
+  c2
 
+  c4
+  c c c
+  a2 c4
+  g g2
+  g
+
+  g4
+  a2 a4
+  g2 g4
+  g c bes
+  a2
+
+  a4
+  g g g
+  f2 bes4
+  bes2.( a2)
+
+  d,4
+  bes' bes a
+  bes2 c4
+  d2 c4
+  bes2
+
+  a4
+  c d a
+  g2 bes4
+  bes2.~ bes2
+
+  g4
+  f2 f4
+  g2 e4
+  g bes c
+  c2
+
+  a4
+  d c bes
+  a2 a4
+  d c2
+  a
 }
 
 bass = \relative c {
+  c4
+  f2 c4
+  e2 c4
+  d d e
+  f2
 
+  e4
+  f f e
+  d2 a4
+  g g'2
+  c,
+
+  e4
+  f2 f4
+  e2 e4
+  d d e
+  f2
+
+  d4
+  g, g a
+  bes2 d4
+  f2.~ f2
+
+  d4
+  g, g d'
+  g2 d4
+  g,2 d'4
+  g2 d4
+  a d c
+  bes2 d4
+  des2.( c2)
+
+  bes4
+  a2 a4
+  c2 c4
+  d d e
+  f2
+
+  d4
+  g, a bes
+  d2 d4
+  bes c2
+  f,
 }
 
 \include "hymn-template.ily"
