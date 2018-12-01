@@ -48,6 +48,8 @@ markRefrain =
       }
     #})
 
+#(set-global-staff-size 18.5)
+
 \paper
 {
   #(set-paper-size "letter")
@@ -70,15 +72,15 @@ markRefrain =
        (stretchability . 30))
 
   system-system-spacing =
-    #'((basic-distance . 10)
+    #'((basic-distance . 12)
        (minimum-distance . 8)
        (padding . 1)
        (stretchability . 60))
 
-  top-margin = 0.5\in
-  bottom-margin = 0.5\in
-  left-margin = 0.5\in
-  right-margin = 0.5\in
+  top-margin = 0.65\in
+  bottom-margin = 0.65\in
+  left-margin = 0.65\in
+  right-margin = 0.65\in
 
   bookTitleMarkup = \markup {
     \override #'(baseline-skip . 3.5)
