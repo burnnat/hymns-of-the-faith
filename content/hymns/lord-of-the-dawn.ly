@@ -77,7 +77,9 @@ soprano = \relative c' {
 
   g4
   c, c e
-  g g c,
+  g g
+  \linebreak
+  c,
   f e c
   d2
 
@@ -86,6 +88,8 @@ soprano = \relative c' {
   g2 g4
   a a b
   c2
+
+  \linebreak
 
   c4
   d c d
