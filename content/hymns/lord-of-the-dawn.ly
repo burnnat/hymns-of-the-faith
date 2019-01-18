@@ -3,8 +3,8 @@
 \header
 {
   title = "Lord of the Dawn"
-  poet = "N. Fielding Burns, 2018"
-  composer = "N. Fielding Burns, 2018"
+  poet = "N. Fielding Burns, 2019"
+  composer = "N. Fielding Burns, 2019"
   tune = "New Dawn"
   meter = "9.11.10.11, refrain 8"
 }
@@ -133,8 +133,8 @@ alto = \relative c' {
   c f gis
   a2
 
-  a4
-  f f f
+  a8 g
+  f4 f f
   f f f
   f f d
   d2.~ d2
@@ -168,7 +168,7 @@ tenor = \relative c {
   d e d
   c c c
   bes c a
-  c2.( b?2)
+  c2.( b!2)
 
   b4
   g2 f4
