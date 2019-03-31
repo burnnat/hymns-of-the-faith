@@ -9,7 +9,9 @@ var branch = require('metalsmith-branch');
 var collections = require('metalsmith-collections');
 var copy = require('metalsmith-copy');
 var debug = require('metalsmith-debug');
+var metafiles = require('metalsmith-metafiles');
 var fileMetadata = require('metalsmith-filemetadata');
+var pathMetadata = require('metalsmith-paths');
 var rawLayouts = require('metalsmith-layouts');
 var markdown = require('metalsmith-markdown');
 var rawTemplates = require('metalsmith-in-place');
@@ -44,6 +46,8 @@ changes.setup(metalsmith);
 
 metalsmith
 	.use(debug({ files: false }))
+	.use(metafiles())
+	.use(pathMetadata({ property: 'paths' }))
 	.use(customMetadata)
 	.use(exclude)
 	.use(rename('session-*/week-*/notes.html.md.hbs', 'leader'))
@@ -57,6 +61,10 @@ metalsmith
 			weeks: {
 				pattern: 'session-*/week-*/notes.html.md.hbs',
 				sortBy: 'week'
+			},
+			hymns: {
+				pattern: 'hymns/*.ly',
+				sortBy: 'title'
 			}
 		})
 	)

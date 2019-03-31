@@ -29,6 +29,8 @@
 		"metalsmith-in-place": "^3.0.1",
 		"metalsmith-layouts": "^1.8.1",
 		"metalsmith-markdown": "^1.1.0",
+		"metalsmith-metafiles": "^2.0.0",
+		"metalsmith-paths": "^3.0.1",
 		"metalsmith-pdf": "github:burnnat/metalsmith-pdf#master",
 		"metalsmith-sass": "^1.5.1",
 		"path-complete-extname": "^0.1.0",

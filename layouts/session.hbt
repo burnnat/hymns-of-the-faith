@@ -17,12 +17,12 @@
 			<a href="../index.html">&larr; Return to homepage</a>
 		</p>
 		<ol class="week-list">
-    {{#each weeks}}
-    	<li>
+		{{#each weeks}}
+			<li>
 				Week {{this.week}}:
 				<a href="../{{this.folder}}/notes.html">{{this.title}}</a>
 			</li>
-    {{/each}}
+		{{/each}}
 		</ol>
 		{{>footer}}
 	</section>

@@ -27,6 +27,23 @@
 				{{/each}}
 			</ol>
 		{{/each}}
+		<h1>Original Hymns:</h1>
+		<ul>
+			{{#each categories as |category|}}
+			<li>
+				{{this.title}}:
+				<ul>
+					{{#each ../hymns}}
+						{{#ifeq this.category category.key}}
+							<li>
+								<a href="hymns/{{this.paths.name}}.pdf">{{this.title}}</a>
+							</li>
+						{{/ifeq}}
+					{{/each}}
+				</ul>
+			</li>
+			{{/each}}
+		</ul>
 		{{{contents}}}
 		{{>footer}}
 	</section>
