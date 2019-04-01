@@ -44,6 +44,12 @@
 			</li>
 			{{/each}}
 		</ul>
+		<p>
+			<a href="feed/hymns.xml">
+				<img src="images/rss.svg" width="16"/>
+				RSS Feed
+			</a>
+		</p>
 		{{{contents}}}
 		{{>footer}}
 	</section>
