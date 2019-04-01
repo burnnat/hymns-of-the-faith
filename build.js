@@ -9,7 +9,10 @@ var branch = require('metalsmith-branch');
 var collections = require('metalsmith-collections');
 var copy = require('metalsmith-copy');
 var debug = require('metalsmith-debug');
+var metafiles = require('metalsmith-metafiles');
 var fileMetadata = require('metalsmith-filemetadata');
+var pathMetadata = require('metalsmith-paths');
+var feed = require('metalsmith-feed');
 var rawLayouts = require('metalsmith-layouts');
 var markdown = require('metalsmith-markdown');
 var rawTemplates = require('metalsmith-in-place');
@@ -42,8 +45,17 @@ var metalsmith = Metalsmith(__dirname)
 
 changes.setup(metalsmith);
 
+var site = {
+	title: 'Hymns of the Faith',
+	url: 'https://www.hymnsofthefaith.study',
+	author: 'Nathaniel Burns'
+};
+
 metalsmith
+	.metadata({ site })
 	.use(debug({ files: false }))
+	.use(metafiles())
+	.use(pathMetadata({ property: 'paths' }))
 	.use(customMetadata)
 	.use(exclude)
 	.use(rename('session-*/week-*/notes.html.md.hbs', 'leader'))
@@ -57,6 +69,10 @@ metalsmith
 			weeks: {
 				pattern: 'session-*/week-*/notes.html.md.hbs',
 				sortBy: 'week'
+			},
+			hymns: {
+				pattern: 'hymns/*.ly',
+				sortBy: 'title'
 			}
 		})
 	)
@@ -116,6 +132,22 @@ metalsmith
 	.use(sass({ outputStyle: 'compressed' }))
 	.use(lilypond(path.join(__dirname, 'lily')))
 	.use(pdf)
+	.use(
+		feed({
+			collection: 'hymns',
+			destination: 'feed/hymns.xml',
+			preprocess: (file) => {
+				const url = `${site.url}/hymns/${file.paths.name}.pdf`;
+
+				return {
+					title: file.title,
+					url,
+					description: `<a href="${url}">View PDF</a>`,
+					date: file.date
+				};
+			}
+		})
+	)
 	.build(function(err, files) {
 		if (err) {
 			console.error(err);
