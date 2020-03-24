@@ -73,6 +73,11 @@ metalsmith
 			hymns: {
 				pattern: 'hymns/*.ly',
 				sortBy: 'title'
+			},
+			hymnsFeed: {
+				pattern: 'hymns/*.ly',
+				sortBy: 'date',
+				reverse: true
 			}
 		})
 	)
@@ -134,7 +139,7 @@ metalsmith
 	.use(pdf)
 	.use(
 		feed({
-			collection: 'hymns',
+			collection: 'hymnsFeed',
 			destination: 'feed/hymns.xml',
 			preprocess: (file) => {
 				const url = `${site.url}/hymns/${file.paths.name}.pdf`;
