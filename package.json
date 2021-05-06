@@ -13,7 +13,7 @@
 	"homepage": "https://github.com/burnnat/hymns-of-the-faith",
 	"devDependencies": {
 		"async": "^2.6.1",
-		"handlebars": "^4.7.3",
+		"handlebars": "^4.7.7",
 		"jsonfile": "^4.0.0",
 		"jstransformer-handlebars": "^1.1.0",
 		"jstransformer-markdown-it": "^2.1.0",
