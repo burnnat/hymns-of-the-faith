@@ -12,7 +12,7 @@
 	"license": "CC-BY-SA-4.0",
 	"homepage": "https://github.com/burnnat/hymns-of-the-faith",
 	"devDependencies": {
-		"async": "^2.6.1",
+		"async": "^2.6.4",
 		"handlebars": "^4.7.3",
 		"jsonfile": "^4.0.0",
 		"jstransformer-handlebars": "^1.1.0",
